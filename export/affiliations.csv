@@ -1,0 +1,497 @@
+Affiliation,AuthorCount,UniqueAuthorCount,AuthorContributionSum,PaperCount
+Nokia,119,80,35.0,55
+LMU Munich,122,69,30.0,50
+Microsoft,92,67,23.0,33
+University of Glasgow,83,41,25.0,32
+University of Lancaster,62,37,16.0,26
+Carnegie Mellon University,58,42,13.0,26
+Tampere University,67,39,17.0,22
+University of Stuttgart,43,20,11.0,19
+Telefonica,33,14,12.0,18
+University of Washington,26,23,7.0,18
+University of Bremen,35,25,10.0,17
+Aalborg University,46,28,13.0,17
+National Taiwan University,84,60,13.0,17
+University of Oldenburg,40,18,10.0,16
+Korea Advanced Institute of Science & Technology,44,33,11.0,15
+University of Manitoba,36,17,8.0,15
+Georgia Institute of Technology,45,34,12.0,15
+University of Duisburg-Essen,41,24,8.0,14
+German Research Center for Artificial Intelligence,35,18,8.0,14
+Yahoo,30,24,8.0,14
+Google,25,23,9.0,14
+Swansea University,44,14,10.0,14
+ETH Zurich,36,31,9.0,13
+Cornell University,36,30,7.0,13
+OFFIS - Institute for IT,21,10,5.0,12
+Ulm University,42,21,10.0,12
+Aalto University,24,18,6.0,12
+University of British Columbia,25,21,6.0,11
+University of Waterloo,18,13,5.0,11
+IBM,28,22,6.0,11
+University of Oulu,25,15,5.0,11
+Newcastle University,29,21,6.0,11
+Northwestern University,18,10,6.0,10
+Chalmers University of Technology,18,10,5.0,10
+Utrecht University,14,8,3.0,10
+DoCoMo Communications Laboratories Europe GmbH,17,9,4.0,9
+Mobile Life Center,18,12,7.0,9
+Technical University Berlin,17,14,4.0,9
+Massachusetts Institute of Technology,23,21,6.0,9
+Technical University of Darmstadt,20,14,4.0,9
+Tsinghua University,22,16,5.0,9
+University of Udine,22,8,8.0,9
+University of Toronto,20,18,5.0,9
+Samsung,26,22,5.0,8
+Keio University,19,15,4.0,8
+Eindhoven University of Technology,20,18,5.0,8
+Leibniz University Hannover,25,12,8.0,8
+RWTH Aachen University,29,20,8.0,8
+Consiglio Nazionale delle Ricerche,18,15,6.0,8
+University of Bristol,23,16,5.0,8
+University College London,18,18,5.0,8
+University of Cape Town,15,9,5.0,7
+Intel,12,10,3.0,7
+University of Calgary,23,11,5.0,7
+University of Maryland,14,14,4.0,7
+Bundeswehr University Munich,11,6,2.0,7
+Max Planck Institute,9,7,2.0,7
+National University of Singapore,18,16,4.0,7
+University of Melbourne,14,13,4.0,7
+University of Cambridge,10,7,4.0,6
+University of Tokyo,10,9,4.0,6
+Hasselt University,14,9,4.0,6
+Inria,11,9,4.0,6
+University of Helsinki,19,17,4.0,6
+Heriot-Watt University,12,9,4.0,6
+Ben-Gurion University of the Negev,15,10,4.0,6
+University of Nottingham,18,14,4.0,6
+University College Dublin,24,18,4.0,6
+University of Münster,12,9,4.0,6
+Graz University of Technology,13,9,5.0,6
+Fraunhofer Institute for Applied Information Technology,17,16,5.0,6
+VTT Technical Research Centre of Finland,14,12,3.0,6
+"CURE - Center for Usability, Research Engineering",27,17,6.0,6
+National Chiao Tung University,11,8,3.0,6
+Research Institutes of Sweden,8,6,3.0,5
+Huawei,17,12,3.0,5
+Saarland University,10,8,3.0,5
+University of Lille,9,7,3.0,5
+University of Michigan,10,9,2.0,5
+City University of Hong Kong,10,9,2.0,5
+University of St Andrews,10,5,2.0,5
+University of Lapland,13,7,3.0,5
+University of Auckland,19,13,4.0,5
+University of Lisbon,13,8,4.0,5
+Dresden University of Technology,15,12,5.0,5
+NTT Communication Science Laboratories,11,11,4.0,5
+University of Salzburg,17,15,4.0,5
+Vienna University of Technology,14,12,4.0,5
+Telekom Innovation Laboratories,11,8,3.0,5
+University of Patras,13,9,4.0,5
+Dalhousie University,16,12,5.0,5
+University of Illinois Urbana-Champaign,14,14,4.0,5
+Bauhaus-Universität Weimar,12,12,3.0,4
+Stony Brook University,14,11,2.0,4
+Northumbria University,11,11,3.0,4
+Indian Institute of Technology Kharagpur,9,6,2.0,4
+Helsinki Institute for Information Technology,7,6,2.0,4
+Singapore University of Technology and Design,6,3,1.0,4
+Delft University of Technology,5,4,1.0,4
+University of Canterbury,7,7,2.0,4
+University of St. Gallen,6,4,2.0,4
+University of Klagenfurt,5,2,2.0,4
+Stockholm University,10,10,2.0,4
+Queen's University,9,7,2.0,4
+Dublin City University,11,9,2.0,4
+University of Gothenburg,5,5,2.0,4
+National Yang Ming Chiao Tung University,16,13,3.0,4
+Pohang University of Science and Technology,11,10,3.0,4
+Vienna Telecommunications Research Center,14,9,4.0,4
+Indian Institute of Technology Bombay,20,14,3.0,4
+Grenoble Alpes University,11,7,3.0,4
+"University of California, Berkeley",4,4,1.0,4
+Glasgow Caledonian University,5,4,1.0,4
+Hong Kong University of Science and Technology,10,10,3.0,4
+University of Strathclyde,9,7,3.0,4
+Rochester Institute of Technology,15,13,3.0,4
+University of Copenhagen,12,11,3.0,4
+"Bell Labs, Alcaltel-Lucent",4,4,2.0,3
+Meiji University,8,7,2.0,3
+KU Leuven,4,4,2.0,3
+Bayerische Motoren Werke AG,7,5,2.0,3
+Monash University,6,6,2.0,3
+Ștefan cel Mare University of Suceava,3,1,1.0,3
+Independent researcher,3,3,1.0,3
+Maynooth University,4,3,1.0,3
+IRIT Computer Science Research Institute of Toulouse,6,4,2.0,3
+University of Minnesota,3,2,1.0,3
+National Chengchi University,3,3,1.0,3
+Waseda University,9,5,1.0,3
+Humboldt University of Berlin,3,2,1.0,3
+University College Cork,5,5,1.0,3
+"City, University of London",3,2,1.0,3
+"University of California, San Diego",7,7,2.0,3
+University of Sydney,7,7,1.0,3
+University of Colorado Boulder,7,7,3.0,3
+National Tsing Hua University,6,6,1.0,3
+Istituto di Scienza e Tecnologie dell'Informazione,10,8,3.0,3
+KTH Royal Institute of Technology,7,7,2.0,3
+University of Virginia,6,4,2.0,3
+University of Tsukuba,8,7,2.0,3
+FX Palo Alto Laboratory,8,8,2.0,3
+Aarhus University,7,7,2.0,3
+Hokkaido University,6,3,2.0,3
+Rice University,10,7,2.0,3
+Indraprastha Institute of Information Technology Delhi,8,8,2.0,3
+"University of California, Los Angeles",3,3,0.0,3
+Carleton University,6,5,3.0,3
+National Research Council Canada,9,9,2.0,3
+University of Toulouse,6,4,2.0,3
+Simon Fraser University,13,10,3.0,3
+Technische Hochschule Ingolstadt,9,8,2.0,3
+Nanyang Technological University,7,6,2.0,3
+University of Würzburg,11,10,3.0,3
+Technical University of Munich,7,7,2.0,3
+University of Birmingham,4,3,1.0,2
+Portland State University,3,3,1.0,2
+Aston University,4,3,1.0,2
+Quaid-i-Azam University,4,3,1.0,2
+University of New Hampshire,4,3,1.0,2
+University of Texas at Austin,4,4,1.0,2
+University of Tübingen,5,5,1.0,2
+Fondazione Bruno Kessler,4,4,1.0,2
+Singapore Management University,3,3,1.0,2
+Information and Communications University,4,3,1.0,2
+University of Alberta,3,2,1.0,2
+University of Science and Technology of China,4,4,1.0,2
+Freiberg University of Mining and Technology,2,1,0.0,2
+Indiana University Bloomington,2,2,1.0,2
+Tel Aviv University,3,3,1.0,2
+Centrum Wiskunde & Informatica,2,1,0.0,2
+Chinese Academy of Sciences,2,1,0.0,2
+University of Rochester,3,3,0.0,2
+"Arup, London",2,1,0.0,2
+University of Regensburg,2,1,0.0,2
+Pennsylvania State University,2,2,0.0,2
+University of Luxembourg,2,2,0.0,2
+Xi'an Jiaotong-Liverpool University,2,1,0.0,2
+"Mobilkom Austria AG, Wien",2,2,0.0,2
+Beijing University of Posts and Telecommunications,2,2,1.0,2
+Osaka Prefecture University,3,3,1.0,2
+Sungkyunkwan University,2,1,1.0,2
+Tokyo Institute of Technology,2,2,0.0,2
+The National Museum of Emerging Science and Innovation (Miraikan),2,1,0.0,2
+Pompeu Fabra University,3,3,1.0,2
+Yonsei University,3,3,0.0,2
+University of Louisiana at Lafayette,2,1,1.0,2
+Idiap Research Institute,3,2,1.0,2
+The Hong Kong Polytechnic University,2,2,1.0,2
+Princeton University,3,3,1.0,2
+Lund University,10,8,2.0,2
+NOVA University Lisbon,4,4,1.0,2
+Syracuse University,5,4,1.0,2
+Hasso-Plattner-Institut,5,5,1.0,2
+"University of California, Santa Cruz",8,8,1.0,2
+Technical University of Valencia,3,2,1.0,2
+France Télécom,5,3,2.0,2
+McGill University,5,5,2.0,2
+University of Applied Sciences Upper Austria,5,5,2.0,2
+Polytechnic Institute of Paris,2,2,1.0,2
+North Carolina State University,3,3,2.0,2
+Münster University of Applied Sciences,3,2,1.0,2
+"Agency for Science, Technology and Research",10,9,2.0,2
+Berlin University of the Arts,8,8,2.0,2
+Peking University,8,8,2.0,2
+University of Waikato,4,4,1.0,2
+Fraunhofer Institute for Computer Graphics Research,5,3,1.0,2
+University of Konstanz,3,3,1.0,2
+Loughborough University,6,3,2.0,2
+Motorola,6,6,2.0,2
+"University of California, Irvine",5,5,1.0,2
+Telematica Instituut,2,2,2.0,2
+Electronics and Telecommunications Research Institute,4,4,2.0,2
+Shanghai Jiao Tong University,6,6,1.0,2
+University of Notre Dame,4,3,1.0,2
+LG Electronics,6,6,1.0,2
+"University of California, Merced",4,3,1.0,2
+University of Technology Sydney,4,4,1.0,2
+Shandong University,10,8,1.0,2
+University of Applied Sciences Potsdam,5,4,1.0,2
+Imperial College London,6,6,1.0,2
+Colorado State University,6,5,1.0,2
+KDDI Research,5,5,2.0,2
+The Open University,3,3,1.0,2
+TNO Human Factors,4,4,1.0,2
+Doshisha University,6,4,2.0,2
+Hewlett-Packard,15,15,2.0,2
+Northeastern University,4,4,1.0,2
+University of Pittsburgh,4,4,1.0,2
+Helsinki University of Technology,2,2,2.0,2
+University of Milan,7,4,2.0,2
+Austrian Institute of Technology,5,5,1.0,2
+"KLANG:technologies, Aachen",1,1,0.0,1
+Polytechnic University of Hauts-de-France,1,1,0.0,1
+Glasgow School of Art,1,1,0.0,1
+Georgia Southern University,1,1,0.0,1
+University of Utah,1,1,0.0,1
+Graz,1,1,0.0,1
+Malmö University,1,1,0.0,1
+Bell Labs,1,1,0.0,1
+Meta,1,1,0.0,1
+"Instituto Universitário Militar, Lisbon",1,1,0.0,1
+Robert Bosch GmbH,1,1,0.0,1
+University of Lausanne,1,1,0.0,1
+Mexican Social Security Institute,1,1,0.0,1
+Swedish Institute of Computer Science,1,1,0.0,1
+University of Graz,1,1,0.0,1
+University of Moratuwa,1,1,0.0,1
+University of Aberdeen,1,1,0.0,1
+Chonnam National University,1,1,0.0,1
+Xidian University,1,1,0.0,1
+"Tågmästaregatan, Malmö",2,2,0.0,1
+"Quillsoft Ltd., Toronto",2,2,0.0,1
+University of South Australia,1,1,0.0,1
+University of Queensland,1,1,0.0,1
+Łódź University of Technology,1,1,0.0,1
+University of Haifa,1,1,0.0,1
+University of Macedonia,1,1,0.0,1
+Hanyang University,1,1,0.0,1
+Flensburg University of Applied Sciences,1,1,0.0,1
+"SAMH Engineering, Dublin, Dublin",1,1,0.0,1
+ESTIA Institute of Technology,1,1,0.0,1
+University of Manchester,2,2,0.0,1
+"The Boeing Company, Seattle",1,1,0.0,1
+"Italian Deaf Association (ENS), Udine",1,1,0.0,1
+"Denqvision Inc., Nerima-ku, Tokyo",1,1,0.0,1
+"Digital Contents Technologies, Taipei",1,1,0.0,1
+Edinburgh,1,1,0.0,1
+DeSI Universite de Lausanne,1,1,0.0,1
+"Vibrado Technologies, Sunnyvale, California",1,1,0.0,1
+University of Adelaide,1,1,0.0,1
+Commonwealth Scientific and Industrial Research Organisation,1,1,0.0,1
+Dartmouth College,1,1,0.0,1
+The University of Edinburgh,1,1,0.0,1
+Universidad de,1,1,0.0,1
+Technological University of Panama,1,1,0.0,1
+"Udine Hospital, Udine",1,1,0.0,1
+Technische Universität Ilmenau,1,1,0.0,1
+Beijing Normal University,1,1,0.0,1
+University of Zurich,1,1,0.0,1
+Osaka University,1,1,0.0,1
+BenQ,2,2,0.0,1
+"LY Corporation, Tokyo",2,2,0.0,1
+"DPAN, Ferndale, MI",2,2,0.0,1
+Metropolia University of Applied Sciences,1,1,0.0,1
+Honda,1,1,0.0,1
+Qualcomm,1,1,0.0,1
+"China Mobile Research Center, Beijing",1,1,0.0,1
+"Oura Health, Oulu",1,1,0.0,1
+"Universitat Oberta de, Catalunya Barcelona",1,1,0.0,1
+University Hospitals Salzburg,1,1,0.0,1
+"LII ENAC, Toulouse",1,1,0.0,1
+Swiss Federal Institute of Technology Lausanne,1,1,0.0,1
+"Museum of Solomos, Zakynthos",1,1,0.0,1
+Duke University,1,1,0.0,1
+"Majire Ltd, Coventry, UK & ETSI Specialist Task Force 285, Sophia Antipolis",1,1,0.0,1
+vonniman consulting,1,1,0.0,1
+Cardiff University,1,1,0.0,1
+Meraka Institute,1,1,0.0,1
+Ericsson,1,1,0.0,1
+University of Essex,1,1,0.0,1
+University of Twente,1,1,0.0,1
+University of Athens,1,1,0.0,1
+"Good Research, Berkeley",1,1,0.0,1
+Ullo La Rochelle,1,1,0.0,1
+Gallaudet University,1,1,0.0,1
+Trinity College Dublin,1,1,0.0,1
+Florida State University,1,1,0.0,1
+Indiana University Indianapolis,1,1,0.0,1
+Texas A&M University,1,1,0.0,1
+University of Bonn,1,1,0.0,1
+Old Dominion University,1,1,0.0,1
+University of Neuchâtel,1,1,0.0,1
+Center for Advanced Internet Studies,1,1,0.0,1
+University of Memphis,1,1,0.0,1
+University of Sussex,1,1,0.0,1
+Brigham and Women's Hospital,1,1,0.0,1
+Indian Institute Of Technology Goa,1,1,0.0,1
+Argonne National Laboratory,1,1,0.0,1
+Academia Sinica,1,1,0.0,1
+Western University,1,1,0.0,1
+Coventry University,1,1,0.0,1
+Yildiz Technical University,1,1,0.0,1
+Tulane University,1,1,0.0,1
+"TeliaSonera, Sonera",1,1,0.0,1
+RACE UK Atomic Energy Authority,1,1,0.0,1
+University of Bath,1,1,0.0,1
+Shenzhen University,1,1,0.0,1
+"Ministry of Health and Child Care, Harare",1,1,0.0,1
+"Stephen Hughes Engineering Services, Blackrock",1,1,0.0,1
+Hamburg University of Applied Science,1,1,0.0,1
+Konkuk University,1,1,0.0,1
+Technical University of Dortmund,1,1,0.0,1
+Ithaca College,1,1,0.0,1
+"Institut Jozef Stefan, Ljubljana",1,1,0.0,1
+"Tritech Technology AB, Stockholm",1,1,0.0,1
+Manchester Metropolitan University,1,1,0.0,1
+"TIM - Telecom Italia, Trento",1,1,0.0,1
+The Australian National University,1,1,0.0,1
+Norwegian University of Science and Technology,1,1,0.0,1
+Carinthia University of Applied Sciences,1,1,0.0,1
+University of Trento,1,1,0.0,1
+Bangor University,1,1,0.0,1
+Le Mans University,1,1,0.0,1
+"Scuola Superiore Sant'Anna, Pisa",1,1,0.0,1
+University of Hagen,1,1,0.0,1
+SUNY Korea,1,1,0.0,1
+"KUKA Deutschland GmbH, Augsburg",1,1,0.0,1
+Karlsruhe Institute of Technology,1,1,0.0,1
+Faculty of Art and Design,1,1,0.0,1
+Kyoto University,1,1,0.0,1
+University of Peloponnese,1,1,0.0,1
+Ajou University,1,1,0.0,1
+University of New South Wales,1,1,0.0,1
+"New Experience LTD, London",1,1,0.0,1
+Future University Hakodate,1,1,0.0,1
+German University in Cairo,1,1,0.0,1
+"FICO, 181 Metro Dr. San Jose",1,1,0.0,1
+"Entry Point Oy, Helsinki",1,1,0.0,1
+Ghent University,1,1,0.0,1
+Santa Clara University,1,1,0.0,1
+University of Arizona,1,1,0.0,1
+Bluink Ltd,1,1,0.0,1
+Marquette University,3,3,1.0,1
+"Telcordia Technologies, Inc., Piscataway",1,1,0.0,1
+Free University Berlin,2,2,1.0,1
+Cork Institute of Technology,1,1,1.0,1
+"Access co., ltd.",4,4,1.0,1
+London School of Economics and Political Science,1,1,1.0,1
+Linköping University,3,3,1.0,1
+National Institute of Design,1,1,1.0,1
+Avaya,4,4,1.0,1
+Johannes Kepler University Linz,4,4,1.0,1
+Japan Advanced Institute of Science and Technology,2,2,1.0,1
+Bonn,1,1,1.0,1
+Brigham Young University,2,2,1.0,1
+Illinois State University,3,3,1.0,1
+"Newgen Telecom CO.,LTD",1,1,1.0,1
+"Goldsmiths, University of London",2,2,1.0,1
+"Center for Advanced Studies, Research and Development in Sardinia",3,3,1.0,1
+Finnish Institute of Occupational Health,4,4,1.0,1
+Mitsubishi Electric,3,3,1.0,1
+"Dún Laoghaire Institute of Art, Design and Technology",6,6,1.0,1
+De La Salle University,2,2,1.0,1
+University of Tromsø,5,5,1.0,1
+Seoul National University,4,4,1.0,1
+Reichman University,4,4,1.0,1
+IT University of Copenhagen,4,4,1.0,1
+Ruhr West University of Applied Sciences,4,4,1.0,1
+Jadavpur University,4,4,1.0,1
+University of Lyon,4,4,1.0,1
+University of Kent,3,3,1.0,1
+Ergosign GmbH,3,3,1.0,1
+GN Advanced Science,6,6,1.0,1
+Calman Trust,3,3,1.0,1
+University of Art and Design Linz,3,3,1.0,1
+University of Oregon,1,1,1.0,1
+"Usable Products Company, New York",2,2,1.0,1
+San Jose State University,2,2,1.0,1
+Sony Computer Science Laboratories,2,2,1.0,1
+Stevens Institute of Technology,2,2,1.0,1
+University of Madeira,7,7,1.0,1
+Tohoku University,3,3,1.0,1
+Tor Vergata University of Rome,3,3,1.0,1
+Sapienza University of Rome,4,4,1.0,1
+"Synaptics, Inc., San Jose",1,1,1.0,1
+Philips,3,3,1.0,1
+"University of Nevada, Reno",3,3,1.0,1
+University of Metz,1,1,1.0,1
+Vrije Universiteit Brussel,3,3,1.0,1
+Paris-Saclay University,3,3,1.0,1
+Oslo University College,1,1,1.0,1
+Télécom Paris,2,2,1.0,1
+University of Illinois at Chicago,2,2,1.0,1
+Pontifical Catholic University of Rio de Janeiro,2,2,1.0,1
+"Sprint, Overland Park",2,2,1.0,1
+Stanford University,4,4,1.0,1
+"University of California, Santa Barbara",4,4,1.0,1
+University of Saskatchewan,3,3,1.0,1
+University of Siegen,3,3,1.0,1
+University of Bari,4,4,1.0,1
+University of Augsburg,2,2,1.0,1
+"TNO, Groningen",2,2,1.0,1
+SINTEF,2,2,1.0,1
+"Technicolor Research, Los Altos",1,1,1.0,1
+Rakuten Institute of Technology,1,1,1.0,1
+Università della Svizzera italiana,4,4,1.0,1
+"TAT Tenk, Malmö",2,2,1.0,1
+Tilburg University,6,6,1.0,1
+Harvard University,3,3,1.0,1
+"National Institute of Technology, Durgapur",4,4,1.0,1
+Montclair State University,1,1,0.0,1
+"Academia Militar, Lisbon",1,1,0.0,1
+Vodafone,1,1,0.0,1
+FZI Research Center for Information Technology,1,1,0.0,1
+San Francisco,1,1,0.0,1
+University of Campinas,1,1,0.0,1
+University of Valladolid,3,3,0.0,1
+"CLIPS-IMAG, Grenoble",2,2,0.0,1
+North South University,2,2,0.0,1
+University of Surrey,2,2,0.0,1
+"Global Solutions for Infectious Diseases, San Francisco",2,2,0.0,1
+"Institute of Software, Chinese Academy of Sciences",2,2,0.0,1
+Kyungpook National University,2,2,0.0,1
+BBC,2,2,0.0,1
+"KTF, Seoul",2,2,0.0,1
+Whistle Labs Inc.,3,3,0.0,1
+University of Rennes 1,1,1,0.0,1
+Autodesk,2,2,1.0,1
+"Sciling, SL, Valencia",1,1,0.0,1
+Luleå University of Technology,1,1,0.0,1
+University of Jyväskylä,1,1,0.0,1
+"connvision AG, Zürich",1,1,0.0,1
+Spotify,1,1,0.0,1
+Tableau Software,1,1,0.0,1
+Palo Alto Research Center,2,2,0.0,1
+University of Hong Kong,1,1,0.0,1
+"Pontificia Universidad Catolica del Peru, Lima, Lima",1,1,0.0,1
+"Nordea Bank Finland Plc, Nordea",1,1,0.0,1
+Laboratoire d'Informatique de Grenoble,2,2,0.0,1
+Fuzhou University,1,1,0.0,1
+University of Florida,1,1,0.0,1
+Xi'an Jiaotong University,1,1,0.0,1
+KOREATECH,2,2,0.0,1
+SirWay,1,1,0.0,1
+University of Split,1,1,0.0,1
+Ludwigsburg University of Education,2,2,0.0,1
+Centria University of Applied Sciences,2,2,1.0,1
+St. Petersburg State University of Film and Television,2,2,1.0,1
+South China University of Technology,2,2,1.0,1
+Zurich University of Applied Sciences,2,2,1.0,1
+"Academia Sinica, Taipei",2,2,1.0,1
+Eastern Switzerland University of Applied Sciences,2,2,1.0,1
+University of Passau,2,2,1.0,1
+Sabancı University,2,2,1.0,1
+Xiamen University,4,4,1.0,1
+Ensenada Center for Scientific Research and Higher Education,2,2,1.0,1
+Ontario Tech University,4,4,1.0,1
+University of Southampton,5,5,1.0,1
+HUONE INC.,3,3,1.0,1
+Kochi University of Technology,3,3,1.0,1
+University of the Republic (Uruguay),4,4,1.0,1
+"Instrata Ltd, Cambridge",2,2,0.0,1
+University of Bayreuth,2,2,0.0,1
+Zhejiang University,5,5,0.0,1
+"The Connection, Newbury, Berkshire",1,1,0.0,1
+Birla Institute of Technology and Science,1,1,0.0,1
+University of Paris-Sud,2,2,0.0,1
+University of North Carolina at Chapel Hill,2,2,0.0,1
+Brunel University London,2,2,0.0,1
+New Jersey Institute of Technology,1,1,0.0,1
+National University of Sciences and Technology,2,2,0.0,1
+University of Bordeaux,1,1,0.0,1
+Griffith University,1,1,0.0,1
+Montana Technological University,1,1,0.0,1
+Jilin University,2,2,0.0,1
+Pratt Institute,1,1,0.0,1
