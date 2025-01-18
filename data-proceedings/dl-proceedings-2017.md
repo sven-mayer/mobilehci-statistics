@@ -213,7 +213,7 @@
 * Frederic Kerber = Saarland University = DEU = https://dl.acm.org/profile/81549330556
 * Tobias Kiefer = Saarland University = DEU = https://dl.acm.org/profile/87958892857
 * Markus Löchtefeld = Aalborg University = DNK = https://dl.acm.org/profile/81416608347
-* Antonio Krúger = Saarland University = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = Saarland University = DEU = https://dl.acm.org/profile/81548004671
 
 ## Spatial knowledge acquired from pedestrian urban navigation systems
 ### Meta-Data
@@ -328,7 +328,7 @@
 ### Authors
 * Frederic Kerber = Saarland University = DEU = https://dl.acm.org/profile/81549330556
 * Michael Puhl = Saarland University = DEU = https://dl.acm.org/profile/99659197028
-* Antonio Krúger = Saarland University = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = Saarland University = DEU = https://dl.acm.org/profile/81548004671
 
 ## Influence of letter size on word reading performance during walking
 ### Meta-Data

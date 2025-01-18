@@ -316,7 +316,7 @@
 * DOI: 10.1145/2628363.2628393
 ### Authors
 * Frederic Kerber = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81549330556
-* Antonio Krúger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 
 ## Monox: extensible gesture notation for mobile devices
@@ -337,7 +337,7 @@
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 * Nadine Lautemann = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/99658642556
 * Sven Gehring = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81460646807
-* Antonio Krúger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
 
 ## BackPat: one-handed off-screen patting gestures
 ### Meta-Data

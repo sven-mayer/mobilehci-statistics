@@ -491,7 +491,7 @@
 * Session: SESSION: Short papers
 * DOI: 10.1145/1409240.1409289
 ### Authors
-* Peter FrÖehlich = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100577868
+* Peter Fröhlich = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100577868
 * Gerhard Obernberger = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81371595757
 * Rainer Simon = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81329491940
 * Peter Karl Reichl = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100366884

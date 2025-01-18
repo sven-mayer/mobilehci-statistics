@@ -223,7 +223,7 @@
 ### Authors
 * Lukas A. Flohr = Ergosign GmbH = DEU = https://dl.acm.org/profile/99659547342
 * Sofie Kalinke = Ergosign GmbH = DEU = https://dl.acm.org/profile/99659884401
-* Antonio Krúger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
 * Dieter P Wallach = Ergosign GmbH = DEU = https://dl.acm.org/profile/99659441576
 
 ## ARO: Exploring the Design of Smart-Ring Interactions for Encumbered Hands

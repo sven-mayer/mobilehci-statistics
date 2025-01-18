@@ -188,7 +188,7 @@
 * Session: SESSION: Wayfinding
 * DOI: 10.1145/1152215.1152238
 ### Authors
-* Peter FrÖehlich = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100577868
+* Peter Fröhlich = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100577868
 * Rainer Simon = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81329491940
 * Lynne Baillie = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100474822
 * Hermann Anegg = Vienna Telecommunications Research Center = AUT = https://dl.acm.org/profile/81100139367
@@ -366,7 +366,7 @@
 * DOI: 10.1145/1152215.1152258
 ### Authors
 * Matthias Schneider-Hufschmidt = BenQ = FRA = https://dl.acm.org/profile/81100405556
-* David Williams = Majire Ltd, Coventry, UK & ETSI Specialist Task Force 285, Sophia Antipolis = FRA = https://dl.acm.org/profile/81337494327
+* David Williams = Majire Ltd, Coventry && ETSI Specialist Task Force 285, Sophia Antipolis = UK && FRA = https://dl.acm.org/profile/81337494327
 * Martin Böcker = BenQ = FRA = https://dl.acm.org/profile/81100129456
 * Margareta Flygt = Ericsson = FRA = https://dl.acm.org/profile/81100646488
 * Pekka Ketola = Nokia = FRA = https://dl.acm.org/profile/81100636421

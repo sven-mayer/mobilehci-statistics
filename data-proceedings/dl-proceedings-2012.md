@@ -52,7 +52,7 @@
 * Eve E Hoggan = University of Helsinki = FIN = https://dl.acm.org/profile/81311484652
 * Laura Haverinen = University of Helsinki = FIN = https://dl.acm.org/profile/81548020683
 * Hugues Salamin = University of Glasgow = GBR = https://dl.acm.org/profile/81381607698
-* Giulio Iacucci = University of Helsinki = FIN = https://dl.acm.org/profile/81100644548
+* Giulio Jacucci = University of Helsinki = FIN = https://dl.acm.org/profile/81100644548
 
 ## The fat thumb: using the thumb's contact size for single-handed mobile interaction
 ### Meta-Data
@@ -217,7 +217,7 @@
 * Jessica R. Cauchard = University of Bristol = GBR = https://dl.acm.org/profile/81490695001
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 * Mike Fraser = University of Bristol = GBR = https://dl.acm.org/profile/81100364452
-* Antonio Krúger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
 * Sriram Subramanian = University of Bristol = GBR = https://dl.acm.org/profile/81100277483
 
 ## Creative cameraphone use in rural developing regions
@@ -344,7 +344,7 @@
 * Luis A. Leiva = Technical University of Valencia = ESP = https://dl.acm.org/profile/81413601851
 * Matthias Böhmer = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548020557
 * Sven Gehring = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81460646807
-* Antonio Krúger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
 
 ## Visual search on a mobile device while walking
 ### Meta-Data

@@ -46,7 +46,7 @@
 ### Authors
 * Risto Sarvas = Helsinki Institute for Information Technology = FIN = https://dl.acm.org/profile/81100300592
 * Antti Oulasvirta = Helsinki Institute for Information Technology = FIN = https://dl.acm.org/profile/81100333050
-* Giulio Iacucci = Helsinki Institute for Information Technology = FIN = https://dl.acm.org/profile/81100644548
+* Giulio Jacucci = Helsinki Institute for Information Technology = FIN = https://dl.acm.org/profile/81100644548
 
 ## SEREFE: serendipitous file exchange between users and devices
 ### Meta-Data
