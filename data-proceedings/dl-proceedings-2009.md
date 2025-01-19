@@ -101,7 +101,7 @@
 ### Authors
 * Kun Yu = Nokia = CHN = https://dl.acm.org/profile/99660743057
 * Feng Tian = Chinese Academy of Sciences = CHN = https://dl.acm.org/profile/81100106876
-* Kongqiao Wang = Nokia = CHN = https://dl.acm.org/profile/99659408793
+* Kongqiao Wang = Nokia = CHN = https://dl.acm.org/profile/81350574173
 
 ## GraspZoom: zooming and scrolling control model for single-handed mobile interaction
 ### Meta-Data

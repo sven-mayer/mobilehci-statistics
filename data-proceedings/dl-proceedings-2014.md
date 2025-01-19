@@ -150,7 +150,7 @@
 * DOI: 10.1145/2628363.2628378
 ### Authors
 * Benjamin Poppinga = University of Oldenburg = DEU = https://dl.acm.org/profile/81350585017
-* Alireza Sahami Shirazi = University of Stuttgart = DEU = https://dl.acm.org/profile/81548021084
+* Alireza Sahami Shirazi = University of Stuttgart = DEU = https://dl.acm.org/profile/81442606311
 * Niels Henze = University of Stuttgart = DEU = https://dl.acm.org/profile/81350574049
 * Wilko Heuten = OFFIS - Institute for IT = DEU = https://dl.acm.org/profile/81320490169
 * Susanne Boll = University of Oldenburg = DEU = https://dl.acm.org/profile/81100398416
@@ -316,7 +316,7 @@
 * DOI: 10.1145/2628363.2628393
 ### Authors
 * Frederic Kerber = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81549330556
-* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81100607196
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 
 ## Monox: extensible gesture notation for mobile devices
@@ -337,7 +337,7 @@
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 * Nadine Lautemann = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/99658642556
 * Sven Gehring = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81460646807
-* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81100607196
 
 ## BackPat: one-handed off-screen patting gestures
 ### Meta-Data
@@ -410,7 +410,7 @@
 * Session: SESSION: Input and interaction
 * DOI: 10.1145/2628363.2628402
 ### Authors
-* Xiang ‘Anthony’ Chen = Carnegie Mellon University = USA = https://dl.acm.org/profile/81498649386
+* Xiang 'Anthony’ Chen = Carnegie Mellon University = USA = https://dl.acm.org/profile/81498649386
 * Julia Schwarz = Carnegie Mellon University = USA = https://dl.acm.org/profile/81416594005
 * Chris Harrison = Carnegie Mellon University = USA = https://dl.acm.org/profile/81350573130
 * J. Mankoff = Carnegie Mellon University = USA = https://dl.acm.org/profile/81100650762

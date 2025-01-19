@@ -62,7 +62,7 @@
 ### Authors
 * Sebastian Boring = University of Calgary = CAN = https://dl.acm.org/profile/81331489074
 * David Ledo = University of Calgary = CAN = https://dl.acm.org/profile/81490690490
-* Xiang ‘Anthony’ Chen = University of Calgary = CAN = https://dl.acm.org/profile/81498649386
+* Xiang 'Anthony’ Chen = University of Calgary = CAN = https://dl.acm.org/profile/81498649386
 * Nicolai Marquardt = University of Calgary = CAN = https://dl.acm.org/profile/81324491951
 * Anthony Tang = University of Calgary = CAN = https://dl.acm.org/profile/81100640680
 * Saul Greenberg = University of Calgary = CAN = https://dl.acm.org/profile/81100197069
@@ -192,7 +192,7 @@
 * Session: SESSION: Body, space and motion
 * DOI: 10.1145/2371574.2371599
 ### Authors
-* Xiang ‘Anthony’ Chen = University of Calgary = CAN = https://dl.acm.org/profile/81498649386
+* Xiang 'Anthony’ Chen = University of Calgary = CAN = https://dl.acm.org/profile/81498649386
 * Nicolai Marquardt = University of Calgary = CAN = https://dl.acm.org/profile/81324491951
 * Anthony Tang = University of Calgary = CAN = https://dl.acm.org/profile/81100640680
 * Sebastian Boring = University of Calgary = CAN = https://dl.acm.org/profile/81331489074
@@ -217,7 +217,7 @@
 * Jessica R. Cauchard = University of Bristol = GBR = https://dl.acm.org/profile/81490695001
 * Markus Löchtefeld = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81416608347
 * Mike Fraser = University of Bristol = GBR = https://dl.acm.org/profile/81100364452
-* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81100607196
 * Sriram Subramanian = University of Bristol = GBR = https://dl.acm.org/profile/81100277483
 
 ## Creative cameraphone use in rural developing regions
@@ -309,7 +309,7 @@
 * Session: SESSION: Understanding touch
 * DOI: 10.1145/2371574.2371613
 ### Authors
-* Wenchang Xu = Tsinghua University = CHN = https://dl.acm.org/profile/81548021781
+* Wenchang Xu = Tsinghua University = CHN = https://dl.acm.org/profile/81442598495
 * Jie Liu = Tsinghua University = CHN = https://dl.acm.org/profile/81350596290
 * Chun Yu = Tsinghua University = CHN = https://dl.acm.org/profile/81467660483
 * Yuanchun Shi = Tsinghua University = CHN = https://dl.acm.org/profile/81100647319
@@ -344,7 +344,7 @@
 * Luis A. Leiva = Technical University of Valencia = ESP = https://dl.acm.org/profile/81413601851
 * Matthias Böhmer = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548020557
 * Sven Gehring = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81460646807
-* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81548004671
+* Antonio Krüger = German Research Center for Artificial Intelligence = DEU = https://dl.acm.org/profile/81100607196
 
 ## Visual search on a mobile device while walking
 ### Meta-Data
@@ -362,7 +362,7 @@
 * DOI: 10.1145/2371574.2371619
 ### Authors
 * Florian Alt = University of Stuttgart = DEU = https://dl.acm.org/profile/81436594444
-* Alireza Sahami Shirazi = University of Stuttgart = DEU = https://dl.acm.org/profile/81548021084
+* Alireza Sahami Shirazi = University of Stuttgart = DEU = https://dl.acm.org/profile/81442606311
 * Albrecht Schmidt = University of Stuttgart = DEU = https://dl.acm.org/profile/81100588072
 * Richard Atterer = Google = CHE = https://dl.acm.org/profile/81314481260
 
@@ -430,7 +430,7 @@
 * DOI: 10.1145/2371574.2371627
 ### Authors
 * Delphine Szymczak = Lund University = SWE = https://dl.acm.org/profile/81467669416
-* Kirsten Rassmus-Gröhn = Lund University = SWE = https://dl.acm.org/profile/81536475456
+* Kirsten Rassmus-Gröhn = Lund University = SWE = https://dl.acm.org/profile/81100405513
 * Charlotte Magnusson = Lund University = SWE = https://dl.acm.org/profile/81328489667
 * Per Olof Hedvall = Lund University = SWE = https://dl.acm.org/profile/81442618254
 
@@ -440,7 +440,7 @@
 * Session: SESSION: Location
 * DOI: 10.1145/2371574.2371628
 ### Authors
-* Yungju Chang = University of Michigan = USA = https://dl.acm.org/profile/99659529309
+* Yungju Chang = University of Michigan = USA = https://dl.acm.org/profile/81548019794
 * Pei-Yao Hung = University of Michigan = USA = https://dl.acm.org/profile/99659238494
 * Mark Webster Newman = University of Michigan = USA = https://dl.acm.org/profile/81406594629
 

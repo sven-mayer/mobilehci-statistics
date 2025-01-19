@@ -126,7 +126,7 @@
 * Session: SESSION: Learning
 * DOI: 10.1145/2037373.2037388
 ### Authors
-* Mohit Jain = University of Toronto = CAN = https://dl.acm.org/profile/99659529179
+* Mohit Jain = University of Toronto = CAN = https://dl.acm.org/profile/99659887025
 * Jeremy P Birnholtz = Cornell University = USA = https://dl.acm.org/profile/81100651315
 * Ed Cutrell = Microsoft = IND = https://dl.acm.org/profile/81100506242
 * Ravin Balakrishnan = University of Toronto = CAN = https://dl.acm.org/profile/81100503904
@@ -471,7 +471,7 @@
 * Session: SESSION: Projection and visualizations
 * DOI: 10.1145/2037373.2037426
 ### Authors
-* Akhil Mathur = Bell Labs, Alcaltel-Lucent = CAN = https://dl.acm.org/profile/99659562298
+* Akhil Mathur = Bell Labs, Alcaltel-Lucent = CAN = https://dl.acm.org/profile/81548006572
 * Divya Lalitha Ramachandran = University of California, Berkeley = USA = https://dl.acm.org/profile/81100153501
 * Ed Cutrell = Microsoft = IND = https://dl.acm.org/profile/81100506242
 * Ravin Balakrishnan = University of Toronto = CAN = https://dl.acm.org/profile/81100503904

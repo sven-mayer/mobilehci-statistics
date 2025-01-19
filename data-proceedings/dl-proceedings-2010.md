@@ -380,7 +380,7 @@
 * DOI: 10.1145/1851600.1851650
 ### Authors
 * Ning Liu = Beijing University of Posts and Telecommunications = CHN = https://dl.acm.org/profile/81453635826
-* Ying Liu = Nokia = CHN = https://dl.acm.org/profile/99659379302
+* Ying Liu = Nokia = CHN = https://dl.acm.org/profile/81351593162
 * Xia Wang = Nokia = CHN = https://dl.acm.org/profile/99659397490
 
 ## Amarino: a toolkit for the rapid prototyping of mobile ubiquitous computing

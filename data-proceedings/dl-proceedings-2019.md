@@ -66,7 +66,7 @@
 * Chulhong Min = Nokia = GBR = https://dl.acm.org/profile/81486645535
 * Euihyeok Lee = KOREATECH = KOR = https://dl.acm.org/profile/99659439132
 * Souneil Park = Telefonica = ESP = https://dl.acm.org/profile/99659536514
-* Seungwoo Kang = KOREATECH = KOR = https://dl.acm.org/profile/81474686337
+* Seungwoo Kang = KOREATECH = KOR = https://dl.acm.org/profile/81361601885
 
 ## From Design to Development to Evaluation of a Pregnancy App for Low-Income Women in a Community-Based Setting
 ### Meta-Data

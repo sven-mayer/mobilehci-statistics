@@ -235,7 +235,7 @@
 * Session: SESSION: Attention & Availability
 * DOI: 10.1145/2785830.2785852
 ### Authors
-* Yungju Chang = Microsoft = USA = https://dl.acm.org/profile/99659529309
+* Yungju Chang = Microsoft = USA = https://dl.acm.org/profile/81548019794
 * John C Tang = Microsoft = USA = https://dl.acm.org/profile/81405592014
 
 ## The Effects of Encumbrance and Mobility on Touch-Based Gesture Interactions for Mobile Phones
@@ -397,7 +397,7 @@
 * DOI: 10.1145/2785830.2785867
 ### Authors
 * Tovi Grossman = Autodesk = USA = https://dl.acm.org/profile/81100477897
-* Xiang ‘Anthony’ Chen = Carnegie Mellon University = USA = https://dl.acm.org/profile/81498649386
+* Xiang 'Anthony’ Chen = Carnegie Mellon University = USA = https://dl.acm.org/profile/81498649386
 * George W Fitzmaurice = Autodesk = USA = https://dl.acm.org/profile/81502661254
 
 ## Sharing (and Discussing) the Moment: The Conversations that Occur Around Shared Mobile Media

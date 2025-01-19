@@ -127,7 +127,7 @@
 * DOI: 10.1145/3229434.3229446
 ### Authors
 * Kenji Suzuki = Yahoo = JPN = https://dl.acm.org/profile/99658761810
-* Ryuuki Sakamoto = Denqvision Inc., Nerima-ku, Tokyo = JPN = https://dl.acm.org/profile/99659303007
+* Ryuuki Sakamoto = Denqvision Inc., Nerima-ku, Tokyo = JPN = https://dl.acm.org/profile/81319500799
 * Daisuke Sakamoto = Hokkaido University = JPN = https://dl.acm.org/profile/81329491765
 * Tetsuo Ono = Hokkaido University = JPN = https://dl.acm.org/profile/81100261578
 

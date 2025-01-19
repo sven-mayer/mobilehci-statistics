@@ -39,7 +39,7 @@
 * DOI: 10.1145/3604242
 ### Authors
 * Andrea Mattioli = Consiglio Nazionale delle Ricerche = ITA = https://dl.acm.org/profile/99660087470
-* Fabio Paternó = Consiglio Nazionale delle Ricerche = ITA = https://dl.acm.org/profile/81503657954
+* Fabio Paternó = Consiglio Nazionale delle Ricerche = ITA = https://dl.acm.org/profile/81100621721
 
 ## Adapting Visual Complexity Based on Electrodermal Activity Improves Working Memory Performance in Virtual Reality
 ### Meta-Data
@@ -269,7 +269,7 @@
 * Qihang Jin = Zhejiang University = CHN = https://dl.acm.org/profile/99660993019
 * Wei Chen = Zhejiang University = CHN = https://dl.acm.org/profile/99661377150
 * Yingcai Wu = Zhejiang University = CHN = https://dl.acm.org/profile/81388595547
-* Xiang ‘Anthony’ Chen = University of California, Los Angeles = USA = https://dl.acm.org/profile/99659468135
+* Xiang 'Anthony’ Chen = University of California, Los Angeles = USA = https://dl.acm.org/profile/81498649386
 * Guanyun Wang = Zhejiang University = CHN = https://dl.acm.org/profile/87258679957
 * Haipeng Mi = Tsinghua University = CHN = https://dl.acm.org/profile/81453645353
 
@@ -396,7 +396,7 @@
 * Yi Tang = Jilin University = CHN = https://dl.acm.org/profile/99661000286
 * Chiaming Chang = University of Tokyo = JPN = https://dl.acm.org/profile/99659205038
 * Xi Yang = Jilin University = CHN = https://dl.acm.org/profile/99659482707
-* Takeo Igarashi = University of Tokyo = JPN = https://dl.acm.org/profile/99659190029
+* Takeo Igarashi = University of Tokyo = JPN = https://dl.acm.org/profile/81100444444
 
 ## Tap to Sign: Towards using American Sign Language for Text Entry on Smartphones
 ### Meta-Data
