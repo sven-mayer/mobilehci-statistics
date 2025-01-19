@@ -396,11 +396,11 @@
 * Session: SESSION: Non-visual interaction
 * DOI: 10.1145/2371574.2371623
 ### Authors
-* Caleb Southern = Georgia Institute of Technology = GEO = https://dl.acm.org/profile/81488671961
-* James R Clawson = Georgia Institute of Technology = GEO = https://dl.acm.org/profile/81100469379
+* Caleb Southern = Georgia Institute of Technology = USA = https://dl.acm.org/profile/81488671961
+* James R Clawson = Georgia Institute of Technology = USA = https://dl.acm.org/profile/81100469379
 * Brian Frey = University of Maryland = USA = https://dl.acm.org/profile/81488651504
-* Gregory D. Abowd = Georgia Institute of Technology = GEO = https://dl.acm.org/profile/81100251687
-* Mario Romero = Georgia Institute of Technology = GEO = https://dl.acm.org/profile/81100381944
+* Gregory D. Abowd = Georgia Institute of Technology = USA = https://dl.acm.org/profile/81100251687
+* Mario Romero = Georgia Institute of Technology = USA = https://dl.acm.org/profile/81100381944
 
 ## PocketMenu: non-visual menus for touch screen devices
 ### Meta-Data

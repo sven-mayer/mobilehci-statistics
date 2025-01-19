@@ -418,7 +418,7 @@
 * Session: SESSION: Text and keyboards
 * DOI: 10.1145/2037373.2037420
 ### Authors
-* Kim Xu = Georgia Institute of Technology = GEO = https://dl.acm.org/profile/81331507253
+* Kim Xu = Georgia Institute of Technology = USA = https://dl.acm.org/profile/81331507253
 * Huahai Yang = IBM = USA = https://dl.acm.org/profile/81460651350
 * Shumin Zhai = Google = USA = https://dl.acm.org/profile/81408591988
 * Jeff Pierce = IBM = USA = https://dl.acm.org/profile/81100303065
