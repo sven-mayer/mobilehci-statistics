@@ -35,7 +35,7 @@
 * Session: SESSION: Social communication
 * DOI: 10.1145/1085777.1085782
 ### Authors
-* Jesper Kjeldskov = Aalborg University = AUS = https://dl.acm.org/profile/81548020677
+* Jesper Kjeldskov = Aalborg University = DNK = https://dl.acm.org/profile/81548020677
 * Jeni Paay = University of Melbourne = AUS = https://dl.acm.org/profile/81100423598
 
 ## Building social discourse around mobile photos: a systemic perspective

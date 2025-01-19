@@ -336,7 +336,7 @@
 * Session: SESSION: Understanding mobile use
 * DOI: 10.1145/3229434.3229466
 ### Authors
-* Jeni Paay = Aalborg University = AUS = https://dl.acm.org/profile/81100423598
+* Jeni Paay = Aalborg University = DNK = https://dl.acm.org/profile/81100423598
 * Jesper Kjeldskov = Aalborg University = DNK = https://dl.acm.org/profile/81548020677
 * Daniele Internicola = Aalborg University = DNK = https://dl.acm.org/profile/99659302424
 * Mikkel Thomasen = Aalborg University = DNK = https://dl.acm.org/profile/99659302506
