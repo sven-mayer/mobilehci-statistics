@@ -27,7 +27,9 @@ Apple Inc.,Apple
 "Argonne National Laboratory, Lemont",Argonne National Laboratory
 Art Institute of California - Orange County,Argosy University
 "Aston University, Birmingham",Aston University
+AUT University,Auckland University of Technology
 Audi AG,Audi
+Univ. of Applied Sciences Augsburg,Augsburg Technical University of Applied Sciences
 AIT,Austrian Institute Of Technology
 Austrian Institute Of Technology,Austrian Institute Of Technology
 Austrian Institute Of Technology,Austrian Institute of Technology
@@ -40,6 +42,7 @@ BBC Research & Innovation,BBC
 Barnard College - Columbia University,Barnard College
 Bauhaus University Weimar,Bauhaus-Universität Weimar
 Bauhaus Universit��t,Bauhaus-Universität Weimar
+Bauhaus-University Weimar,Bauhaus-Universität Weimar
 Bauhaus-Universit��t Weimar,Bauhaus-Universität Weimar
 "Mobile Media Group, Bauhaus-Universität Weimar",Bauhaus-Universität Weimar
 "Usability Research Group, Bauhaus-Universität Weimar",Bauhaus-Universität Weimar
@@ -52,6 +55,7 @@ Beijing University of Posts and Telecommunications & Nokia Research Center,Beiji
 "Bell Labs India, Alcatel-Lucent","Bell Labs, Alcaltel-Lucent"
 "Bell Labs Research, Bangalore","Bell Labs, Alcaltel-Lucent"
 Ben Gurion University,Ben-Gurion University of the Negev
+Ben-Gurion University,Ben-Gurion University of the Negev
 Ben-Gurion University of the Negev,Ben-Gurion University of the Negev
 "Magic Lab, Industrial Engineering and Management, Ben Gurion University of the Negev",Ben-Gurion University of the Negev
 "BenQ Mobile GmbH & Co., Munich",BenQ
@@ -69,10 +73,14 @@ Universitat der Bundeswehr Munich,Bundeswehr University Munich
 University of the Bundeswehr,Bundeswehr University Munich
 University of the Bundeswehr Munich,Bundeswehr University Munich
 Universität der Bundeswehr München,Bundeswehr University Munich
+BETandWIN.com Interactive Entertainment AG,Bwin Interactive Entertainment
+bwin Interactive Entertainment AG,Bwin Interactive Entertainment
 CISPA Helmholtz-Center for Information Security,CISPA Helmholtz Center for Information Security
+CREATE-NET International Research Center,CREATE-NET
 CURE - Center for Usability Research & Engineering,"CURE - Center for Usability, Research Engineering"
 CURE - Center for Usability Research and Engineering,"CURE - Center for Usability, Research Engineering"
 CURE Center for Usability Research & Engineering,"CURE - Center for Usability, Research Engineering"
+University of Venice,Ca' Foscari University of Venice
 California College of Art,California College of the Arts
 "Calman Trust, Inverness, Highland",Calman Trust
 School of Computer Science and Informatics Cardiff University,Cardiff University
@@ -84,6 +92,7 @@ Carnegie Mellon,Carnegie Mellon University
 Carnegie Mellon HCII,Carnegie Mellon University
 Carnegie Mellon University Madeira,Carnegie Mellon University
 "Computational Design Lab, Carnegie Mellon University",Carnegie Mellon University
+Curnegie Mellon University,Carnegie Mellon University
 Human Computer Interaction Institute Carnegie Mellon University,Carnegie Mellon University
 Human-Computer Interaction Institute Carnegie Mellon University,Carnegie Mellon University
 "Human-Computer Interaction Institute, CMU",Carnegie Mellon University
@@ -128,6 +137,7 @@ DePaul,DePaul University
 DePaul University Erete,DePaul University
  Dedan Kimathi University of Technology,Dedan Kimathi University of Technology
 Delft,Delft University of Technology
+"Department of Industrial design, Delft University of Technology",Delft University of Technology
 "Faculty of Industrial Design Engineering, Delft University of Technology",Delft University of Technology
 Interactive Intelligence Delft University of Technology,Delft University of Technology
 TU Delft,Delft University of Technology
@@ -156,12 +166,14 @@ ETH Zürich,ETH Zurich
 "Swiss Federal Institute of Technology, Zurich",ETH Zurich
 "Eastern Switzerland University of Applied Sciences, St.Gallen",Eastern Switzerland University of Applied Sciences
 OST – Ostschweizer Fachhochschule,Eastern Switzerland University of Applied Sciences
+Napier University,Edinburgh Napier University
 Eindhoven University,Eindhoven University of Technology
 Eindhoven University of Technology (TU/e),Eindhoven University of Technology
 Eindhoven University of Technology (will be TU Bergakademie Freiberg from October onwards),Eindhoven University of Technology
 Eindhoven University of Technology Netherlands,Eindhoven University of Technology
 Eindhoven Unversity of Technology,Eindhoven University of Technology
 "Human-Technology Interaction group, Eindhoven",Eindhoven University of Technology
+"Human-Technology Interaction, Eindhoven University of Technology",Eindhoven University of Technology
 TU Eindhoven,Eindhoven University of Technology
 TU Eindhoven University of Technology,Eindhoven University of Technology
 TU Eindhoven University of Technology Netherlands,Eindhoven University of Technology
@@ -172,9 +184,13 @@ Technical University of Eindhoven,Eindhoven University of Technology
 Technical University of Eindhoven Netherland,Eindhoven University of Technology
 Technical University of Eindhoven Netherlands,Eindhoven University of Technology
 Technische Universiteit Eindhoven,Eindhoven University of Technology
+University of Eindhoven,Eindhoven University of Technology
 "ETRI, Daejeon",Electronics and Telecommunications Research Institute
 "Centro de Investigación Científica y de Educación, Superior de Ensenada (CICESE)",Ensenada Center for Scientific Research and Higher Education
 Ergosign GmbH and Saarbrücken Graduate School of Computer Science,Ergosign GmbH
+Ericsson Enterprise,Ericsson
+Ericsson Innovation Lab,Ericsson
+Ericsson Research,Ericsson
 "Sony Ericsson Mobile Communications AB, Lund",Ericsson
 Escuela Superior Politécnica del Litoral,Escuela Superior Politécnica del Litoral
 Escuela Superior Politécnica del Litoral Guayaquil,Escuela Superior Politécnica del Litoral
@@ -182,6 +198,11 @@ Escuela Superior Politécnica del Litoral Guayaquil Ecuadorl,Escuela Superior Po
 Ewha Woman's University,Ewha Womans University
 Ewha Woman’s University,Ewha Womans University
 Ewha womans university,Ewha Womans University
+FORTH,FORTH Institute of Computer Science
+FORTH - ICS,FORTH Institute of Computer Science
+FORTH – ICS,FORTH Institute of Computer Science
+FORTH-ICS,FORTH Institute of Computer Science
+Forth,FORTH Institute of Computer Science
 FX/PAL,FX Palo Alto Laboratory
 FXPAL,FX Palo Alto Laboratory
 FXPal,FX Palo Alto Laboratory
@@ -201,11 +222,16 @@ Federal University of Sao Carlos,Federal University of São Carlos
 "Division R&D France Télécom, Lannion",France Télécom
 France Télécom Division R&D,France Télécom
 Fraunhofer FIT,Fraunhofer Institute for Applied Information Technology
+Fraunhofer Institute FIT,Fraunhofer Institute for Applied Information Technology
 Fraunhofer Institute for Applied Information Technology (FIT),Fraunhofer Institute for Applied Information Technology
+Fraunhofer Institute for Applied Information Technology (Fraunhofer FIT),Fraunhofer Institute for Applied Information Technology
 Fraunhofer Institute for Applied Information Technology FIT,Fraunhofer Institute for Applied Information Technology
 "Fraunhofer Institute for Applied information Technology FIT, Sankt Augustin",Fraunhofer Institute for Applied Information Technology
+Fraunhofer Institute for Information and Data Processing,Fraunhofer Institute for Applied Information Technology
+"Fraunhofer Institute for Information and Data Processing (IITB), Dep. IAS",Fraunhofer Institute for Applied Information Technology
 Fraunhofer-FIT,Fraunhofer Institute for Applied Information Technology
 Fraunhofer-Institute FIT,Fraunhofer Institute for Applied Information Technology
+Queensland University of Technology,Fraunhofer Institute for Applied Information Technology
 Fraunhofer IGD,Fraunhofer Institute for Computer Graphics Research
 Fraunhofer IGD Darmstadt,Fraunhofer Institute for Computer Graphics Research
 Fraunhofer Institute for Computer Graphics Research,Fraunhofer Institute for Computer Graphics Research
@@ -242,6 +268,7 @@ GUC,German University in Cairo
 University of Ghent,Ghent University
 "iMinds-MICT-University of Ghent, Ghent",Ghent University
 "Glasgow Caledonian University, Glasgow",Glasgow Caledonian University
+"MUCom Group, Glasgow Caledonian University",Glasgow Caledonian University
 "School of Design, Glasgow School of Art",Glasgow School of Art
 Goldsmiths,"Goldsmiths, University of London"
 Goldsmiths University of London,"Goldsmiths, University of London"
@@ -258,7 +285,9 @@ Jigsaw Google,Google
 YouTube,Google
 Graz University of Technology,Graz University of Technology
 "Institute of Digital Image Processing, Graz",Graz University of Technology
+Technical University Graz,Graz University of Technology
 Univ. Grenoble Alpes,Grenoble Alpes University
+University of Grenoble,Grenoble Alpes University
 Université Grenoble Alpes,Grenoble Alpes University
 Université Grenoble-Alpes,Grenoble Alpes University
 Université Grenobles Alpes,Grenoble Alpes University
@@ -278,12 +307,14 @@ Hasso Plattner Institut,Hasso-Plattner-Institut
 Hasso Plattner Institute,Hasso-Plattner-Institut
 Hasso Plattner Institute Potsdam,Hasso-Plattner-Institut
 Hasso-Plattner Institute,Hasso-Plattner-Institut
+the Hebrew University Jerusalem,Hebrew University of Jerusalem
 Helsinki Institute for Information Technology HIIT,Helsinki Institute for Information Technology
 Helsinki University of Technology,Helsinki University of Technology
 Heriot Watt University,Heriot-Watt University
 MACS Heriot-Watt University,Heriot-Watt University
 School of Mathematical and Computer Sciences Heriot-Watt University,Heriot-Watt University
 "School of Mathematical and Computer Sciences, Heriot-Watt University",Heriot-Watt University
+Hewlett-Packard Laboratories,Hewlett-Packard
 Hewlett-Packard Labs,Hewlett-Packard
 "Hewlett-Packard Labs, Bristol",Hewlett-Packard
 Amsterdam University of Applied Sciences,Hogeschool van Amsterdam
@@ -306,6 +337,7 @@ Human-Machine Interaction Lab Huawei,Huawei
 "Human-Machine Interaction Lab, Huawei Technologies Co., Ltd.",Huawei
 HU Berlin,Humboldt University of Berlin
 Humboldt-Universität zu Berlin,Humboldt University of Berlin
+IBM - T . J. Watson,IBM
 IBM Almaden Research Center,IBM
 IBM Research,IBM
 IBM Research - Almaden,IBM
@@ -316,6 +348,7 @@ IBM Research Lab In Haifa,IBM
 "IBM Research, India Research Lab",IBM
 IBM T. J Watson Research Center,IBM
 IBM T. J. Watson Research Center,IBM
+IBM T.J. Watson Lab,IBM
 IBM T.J. Watson Research,IBM
 IBM T.J. Watson Research Center,IBM
 IBM TJ Watson Research Center,IBM
@@ -410,8 +443,11 @@ International Institute of Information Technology Bangalore [Joining Fall 2021],
 International Institute of Information technology,"International Institute of Information Technology, Bangalore"
 International University VNU-HCM,International University - VNU-HCM
 Iowa State University of Science and Technology,Iowa State University
+C.N.R. - ISTI,Istituto di Scienza e Tecnologie dell'Informazione
+ISTI CNR,Istituto di Scienza e Tecnologie dell'Informazione
 ISTI-CNR,Istituto di Scienza e Tecnologie dell'Informazione
 ISTI-CNR Pisa,Istituto di Scienza e Tecnologie dell'Informazione
+ISTI/CNR,Istituto di Scienza e Tecnologie dell'Informazione
 "Ithaca College, Ithaca",Ithaca College
 Information Technology Jadavpur University,Jadavpur University
 "Japan Advanced Institute of Science and Technology, Ishikawa",Japan Advanced Institute of Science and Technology
@@ -436,7 +472,10 @@ Katholieke Universiteit Leuven,KU Leuven
 KIT Karlsruhe Institute of Technology,Karlsruhe Institute of Technology
 Karlsruhe Insitute of Technology (KIT),Karlsruhe Institute of Technology
 Karlsruher Institut für Technologie,Karlsruhe Institute of Technology
+Universität Karlsruhe,Karlsruhe Institute of Technology
 "Keio University, Yokohama",Keio University
+"CDSPR, King's College London",King's College London
+"DSPR, King's College London",King's College London
 "Informatics Department, King’s College London",King's College London
 "King's College London, University of London",King's College London
 Kings College London,King's College London
@@ -494,7 +533,10 @@ Hochschule Luzern,Lucerne University of Applied Sciences and Arts
 "Lund University, Lund",Lund University
 "Synenheten, barn-och ungdom, Universitetssjukhuset, Lund",Lund University Hospital
 "Universitetssjukhuset, Lund",Lund University Hospital
+MARA University of Technology (UiTM),MARA University of Technology
 "Centre for Health Informatics, Australian Institute of Health Informatics, Macquarie University",Macquarie University
+MAJIRE Design Ltd,Majire
+"Majire Ltd, Coventry",Majire
 Malmo,Malmö University
 Malmø University,Malmö University
 "Marquette University, Milwaukee",Marquette University
@@ -539,6 +581,7 @@ Microsoft Research Montréal,Microsoft
 Microsoft Research New York,Microsoft
 Microsoft Research Redmond,Microsoft
 "Microsoft Research, Cambridge",Microsoft
+Microsoft Research: Community Technologies,Microsoft
 "Technology for Emerging Markets, Microsoft Research",Microsoft
 Mitsubishi Electric Research Laboratories,Mitsubishi Electric
 Mitsubishi Electric Research Labs,Mitsubishi Electric Research Laboratories
@@ -551,7 +594,13 @@ Monash University Australia,Monash University
 Monash University Melbourne,Monash University
 Montana Tech,Montana Technological University
 "Montclair State University, MSU",Montclair State University
+Motorola Human Interaction Lab,Motorola
+Motorola Inc,Motorola
+Motorola Inc.,Motorola
 Motorola Labs,Motorola
+Motorola Mobility,Motorola
+Motorola Research Labs,Motorola
+"Motorola, Inc.",Motorola
 Mozilla Corporation,Mozilla
 FH Nünster,Münster University of Applied Sciences
 "Fachhochschule Münster, Münster",Münster University of Applied Sciences
@@ -563,6 +612,9 @@ New University of Lisbon,NOVA University Lisbon
 Universidade NOVA de Lisboa,NOVA University Lisbon
 NTT,NTT Communication Science Laboratories
 NTT Communication Science Labs,NTT Communication Science Laboratories
+Nanyang Technoligical University,Nanyang Technological University
+Nanyang Technological University - NTU Singapore,Nanyang Technological University
+Nanyang Technological University School of Communication & Information,Nanyang Technological University
 "Nanyang Technological University, Nanyang Link",Nanyang Technological University
 "National Chengchi University, Taipei",National Chengchi University
 "Brain Research Center, National Chiao Tung, University",National Chiao Tung University
@@ -576,7 +628,10 @@ National Institute of Design Ahmedabad,National Institute of Design
 National institute of design,National Institute of Design
 NIT Durgapur,"National Institute of Technology, Durgapur"
 National Institute of Technology Durgapur,"National Institute of Technology, Durgapur"
+NRC,National Research Council Canada
+NRC-IIT,National Research Council Canada
 National Research Council of Canada,National Research Council Canada
+National Research Council of Canada (NRC),National Research Council Canada
 "National Research Council of Canada, Institute for Information Technology",National Research Council Canada
 INRAE,"National Research Institute for Agriculture, Food and the Environment"
 "National Research Institute for Agriculture, Food and the Environment (INRAE)","National Research Institute for Agriculture, Food and the Environment"
@@ -595,6 +650,7 @@ Yang Ming Chiao Tung University,National Yang Ming Chiao Tung University
 NAVER AI Lab,Naver Labs
 Naver AI Lab,Naver Labs
 Naver Labs Europe,Naver Labs
+Nelson Mandela Metropolitan University,Nelson Mandela University
 "New Jersey Institute of Technology, Newark",New Jersey Institute of Technology
 NYU,New York University
 NYU Abu Dhabi,New York University
@@ -612,6 +668,10 @@ University of Newcastle-upon-Tyne,Newcastle University
 Nokia Bell Labs,Nokia
 Nokia Bell Labs Cambridge,Nokia
 Nokia Corporation,Nokia
+Nokia Design,Nokia
+"Nokia Design, Tokyo",Nokia
+Nokia Mobile Phones,Nokia
+Nokia Multimedia,Nokia
 Nokia Research,Nokia
 Nokia Research Center,Nokia
 Nokia Research Center - Palo Alto,Nokia
@@ -619,6 +679,9 @@ Nokia Research Center Hollywood,Nokia
 Nokia Research Center Palo Alto,Nokia
 "Nokia Research Center, Beijing",Nokia
 "Nokia Research Center, Palo Alto",Nokia
+Nokia research center,Nokia
+"Nordea Bank Finland Plc, Nordea",Nordea
+Nortel Networks,Nortel
 "Dept. Computer Science, NC State University",North Carolina State University
 North Carolina State,North Carolina State University
 "North South University, Dhaka",North South University
@@ -642,6 +705,8 @@ Universitat Oberta de Catalunya,Open University of Catalonia
 OGI/Oregon Health & Science University,Oregon Health & Science University
 "Osaka Prefecture University, Osaka",Osaka Prefecture University
 "Oslo University College, Oslo",Oslo University College
+"the National Centre for Product Design & Development Research, UWIC",PDR International Centre for Design and Research
+"Palm Source, Inc.","Palm, Inc."
 PARC,Palo Alto Research Center
 Xerox,Palo Alto Research Center
 Xerox PARC,Palo Alto Research Center
@@ -652,14 +717,13 @@ University of Paris-Saclay,Paris-Saclay University
 Université Paris Saclay,Paris-Saclay University
 Université Paris-Saclay,Paris-Saclay University
 Parkview Health,Parkview Research Center
-Université Paul Sabatier Toulouse 3,Paul Sabatier University
-Université Paul Sabatier – Toulouse 3,Paul Sabatier University
 "Peking University, Beijing",Peking University
 Penn State,Pennsylvania State University
 Penn State University,Pennsylvania State University
 The Pennsylvania State University,Pennsylvania State University
 Philips Research,Philips
 Philips Research Eindhoven,Philips
+Philips Research Europe,Philips
 Phillips Research,Philips
 "Pohang University of Science and, Technology (POSTECH)",Pohang University of Science and Technology
 Politecnico di Torino Turin,Politecnico di Torino
@@ -687,6 +751,7 @@ Queen University,Queen's University
 Queens University,Queen's University
 Queen’s University,Queen's University
 QUT,Queensland University of Technology
+Queensland Uni of Technology,Queensland University of Technology
 Queensland Univeristy of Technology,Queensland University of Technology
 Queensland University of Technology Brisbane,Queensland University of Technology
 RMassachusetts Institute of Technology University,RMIT University
@@ -700,16 +765,20 @@ IDC Herzliya,Reichman University
 Interdisciplinary Center Herzliya,Reichman University
 "Media Innovation Lab, The Interdisciplinary Center (IDC) Herzliya",Reichman University
 The Interdisciplinary Center (IDC) Herzliya,Reichman University
+Research Center for Informatics and Information Technologies,Research Center in Informatics and Information Technology
 "Interactive Institute, Kista",Research Institutes of Sweden
 "Interactive Institute, Stockholm",Research Institutes of Sweden
 RISE Research Institutes of Sweden,Research Institutes of Sweden
 "Swedish Institute for Computer Science, Stockholm",Research Institutes of Sweden
 "Rice University, Houston",Rice University
+Riso Danish National Laboratory,Risø DTU National Laboratory for Sustainable Energy
 Bosch,Robert Bosch GmbH
 "Robert Bosch GmbH, Stuttgart",Robert Bosch GmbH
 Rochester Institute of Technnology,Rochester Institute of Technology
 "Rochester Institute of Technnology, Rochester",Rochester Institute of Technology
 Rochester Institute of Technology,Rochester Institute of Technology
+RSM Erasmus University Rotterdam,Rotterdam University
+"School of Communication, Media, and Information Technology, Rotterdam University",Rotterdam University
 Ruhr University of Bochum,Ruhr University Bochum
 Ruhr-University Bochum,Ruhr University Bochum
 Institute of Positive Computing Hochschule Ruhr West University of Applied Sciences,Ruhr West University of Applied Sciences
@@ -727,6 +796,7 @@ Saarland University Saarland Informatics Campus,Saarland University
 "Saarland University, Saarland Informatics Campus",Saarland University
 Sabanci University,Sabancı University
 SAIT (Samsung Research),Samsung
+Samsung Electronics,Samsung
 Samsung Research,Samsung
 Samsung Research America,Samsung
 Samsung Research America (SRA),Samsung
@@ -734,11 +804,13 @@ Samsung Research America (SRA),Samsung
 Sapienza Universita di Roma,Sapienza University of Rome
 University of Rome,Sapienza University of Rome
 Seoul Nation University,Seoul National University
+Serco eBusiness Solutions,Serco Group
 Sesame Workshp,Sesame Workshop
 College of Software Shandong University,Shandong University
 School of Software Shandong University,Shandong University
 "School of Design, Shanghai Jiao Tong University",Shanghai Jiao Tong University
 University Shenzhen,Shenzhen University
+Siemens AG,Siemens
 SFU,Simon Fraser University
 SIAT SFU,Simon Fraser University
 Simon Fraser,Simon Fraser University
@@ -747,6 +819,7 @@ Simon Frasier University,Simon Fraser University
 School of Information Systems Singapore Management University,Singapore Management University
 SUTD Singapore University of Technology and Design,Singapore University of Technology and Design
 Singapore School of Design,Singapore University of Technology and Design
+Sony - CSL,Sony Computer Science Laboratories
 "Sony Computer Science Laboratories, Inc, Tokyo",Sony Computer Science Laboratories
 Paris Sorbonne,Sorbonne Université
 "South China University of Technology, Guangzhou",South China University of Technology
@@ -761,9 +834,11 @@ Stockhom University,Stockholm University
 Computer Science Stony Brook University,Stony Brook University
 Computer Science department Stony Brook University,Stony Brook University
 Department of Computer Science Stony Brook University,Stony Brook University
+"ISOM Department, Suffolk University",Suffolk University
 Sung Kyun Kwan University,Sungkyunkwan University
 Computation Foundry Swansea University,Swansea University
 Computational Foundry Swansea University,Swansea University
+"FIT Lab, Swansea University",Swansea University
 "Future Interaction Laboratory, Swansea University",Swansea University
 "Future Interaction Technology Lab, Swansea University",Swansea University
 "Swansea University, UK.",Swansea University
@@ -777,11 +852,16 @@ Swiss Federal Institute of Technology in Lausanne (EPFL),Swiss Federal Institute
 "School of Information Studies, Syracuse University",Syracuse University
 Syracuse U,Syracuse University
 Syracuse University Syracuse,Syracuse University
+TNO Human Factors,TNO
+TNO Information and Communication Technology,TNO
+TNO Information and Communications Technology,TNO
 "TNO Human Factors, kampweg, Soesterberg",TNO Human Factors
 Tableau Research,Tableau Software
 Tableau Research Palo Alto CA,Tableau Software
 Tableau Software,Tableau Software
+"Tampere Unit for Computer-Human Interaction, University of Tampere",Tampere University
 University of Tampere,Tampere University
+"NAMU Lab., Tampere University of Technology",Tampere University of Technology
 Tampere Univ. of Technology,Tampere University of Technology
 TU Berlin,Technical University Berlin
 "Technical University of Berlin, German Turkish Advanced Research Center for ICT",Technical University Berlin
@@ -839,6 +919,12 @@ University of Texas at Austin,The University of Texas at Austin
 "School of Engineering, Tokyo Institute of Technology",Tokyo Institute of Technology
 "University of Tor Vergata, Rome",Tor Vergata University of Rome
 Ryerson University,Toronto Metropolitan University
+"LIIHS-IRIT, University Toulouse 3",Toulouse III University - Paul-Sabatier
+Paul Sabatier University,Toulouse III University - Paul-Sabatier
+University Paul Sabatier,Toulouse III University - Paul-Sabatier
+University Toulouse 3,Toulouse III University - Paul-Sabatier
+Université Paul Sabatier Toulouse 3,Toulouse III University - Paul-Sabatier
+Université Paul Sabatier – Toulouse 3,Toulouse III University - Paul-Sabatier
 Toyota Research Institute,Toyota
 "Computer Science and Statistics, Trinity College Dublin",Trinity College Dublin
 Trinity College,Trinity College Dublin
@@ -857,6 +943,7 @@ LTCI - Telecom-ParisTech,Télécom Paris
 Telecom Paris,Télécom Paris
 Télecom Paris,Télécom Paris
 Télécom ParisTech,Télécom Paris
+USECON GmbH,USECON
 Institute of Media Informatics Ulm University,Ulm University
 "Institute of Media Informatics, Ulm University",Ulm University
 "Institute of Psychology and Education, Dept. Human Factors, Ulm University",Ulm University
@@ -867,6 +954,7 @@ institute of media informatics,Ulm University
 UNIST,Ulsan National Institute of Science and Technology
 Ulsan National Institute of Science & Technology,Ulsan National Institute of Science and Technology
 Ulsan National Institute of Science and Technology (UNIST),Ulsan National Institute of Science and Technology
+University of Ulster,Ulster University
 "Ultraleap, Bristol",Ultraleap
 Umea University,Umeå University
 Umeå University of Design,Umeå University
@@ -913,6 +1001,7 @@ Bath University,University of Bath
 Bayreuth University,University of Bayreuth
 "School of Computer Science, University of Birmingham",University of Birmingham
 The University of Birmingham,University of Birmingham
+University of Birmimgham,University of Birmingham
 Rheinische Friedrich-Wilhelms-Universität Bonn,University of Bonn
 Université de Bordeaux,University of Bordeaux
 Bremen University,University of Bremen
@@ -1004,6 +1093,7 @@ Glasgow University,University of Glasgow
 University Of Glasgow,University of Glasgow
 "Department of Applied IT, University of Gothenburg",University of Gothenburg
 IT-University of Göteborg,University of Gothenburg
+Universidad de Granada,University of Granada
 "Department of Psychology, University of Graz",University of Graz
 FU Hagen,University of Hagen
 FernUniversität in Hagen,University of Hagen
@@ -1012,7 +1102,9 @@ Universität Hamburg,University of Hamburg
 Univ. Hawaii,University of Hawaii
 Univ. of Hawaii,University of Hawaii
 Univ. of Helsinki,University of Helsinki
+"Computational Physiology Lab, University of Houston",University of Houston
 University of Ibadan https://www.ui.edu.ng/,University of Ibadan
+University of Illinois Urbana Champaign,University of Illinois Urbana-Champaign
 University of Illinois at Urbana Champaign,University of Illinois Urbana-Champaign
 University of Illinois at Urbana-Champaign,University of Illinois Urbana-Champaign
 University of Illinois at UrbanaChampaign,University of Illinois Urbana-Champaign
@@ -1025,9 +1117,11 @@ university of illinois at chicago,University of Illinois at Chicago
 U of Iowa,University of Iowa
 University of Iowaa,University of Iowa
 University of Kent at Canterbury,University of Kent
+University of Kent at Canterbury,University of Kent
 Alpen-Adria Universität Klagenfurt,University of Klagenfurt
 Alpen-Adria-Universität Klagenfurt,University of Klagenfurt
 University of Konstanz,University of Konstanz
+Infolab21 Lancaster University,University of Lancaster
 Lancaster University,University of Lancaster
 Univesity of Lancaster,University of Lancaster
 "University of Lapland, Rovaniemi",University of Lapland
@@ -1035,16 +1129,19 @@ Leicester University,University of Leicester
 Univ. Lille,University of Lille
 Universite de Lille,University of Lille
 Université de Lille,University of Lille
+"Faculdade de Ciências, Universidade de Lisboa",University of Lisbon
 Faculty of Sciences of the University of Lisbon,University of Lisbon
 IST / Technical University of Lisbon,University of Lisbon
 "ITI/LARSyS, IST – U. Lisbon",University of Lisbon
 "Instituto Superior Técnico, University of Lisbon",University of Lisbon
 "LaSIGE & University of Lisboa, Campo-Grande",University of Lisbon
+LaSIGE - Faculdade de Ciências da Universidade de Lisboa,University of Lisbon
 ULisboa,University of Lisbon
 Universidade de Lisboa,University of Lisbon
 "University of Lisboa, Campo-Grande",University of Lisbon
 Universitat de Lleida,University of Lleida
 University of Louisiana at Lafayette,University of Louisiana at Lafayette
+Catholic University of Louvain,University of Louvain
 University of Luxemburg,University of Luxembourg
 Université de Lyon,University of Lyon
 "University of Macedonia, Thessaloniki",University of Macedonia
@@ -1074,6 +1171,7 @@ University of Massachusetts,University of Massachusetts Amherst
 University of Massachusetts at Amherst,University of Massachusetts Amherst
 The University of Melbourne,University of Melbourne
 U of Melbourne,University of Melbourne
+the University of Melbourne,University of Melbourne
 Paul Verlaine University – Metz,University of Metz
 "University of Metz, Metz",University of Metz
 Penny W. Stamps School of Art & Design University of Michigan,University of Michigan
@@ -1087,15 +1185,20 @@ University of Michigan Ann Arbor,University of Michigan
 University of Michigan School of Information,University of Michigan
 University of Michigan - Dearborn,"University of Michigan, Dearborn"
 "Dept. of Computer Science, Università degli Studi di Milano",University of Milan
-DISCO -Universita' di Milano-Bicocca,University of Milano-Bicocca
-Universitá di Milano-Bicocca,University of Milano-Bicocca
+DISCO -Universita' di Milano-Bicocca,University of Milan-Bicocca
+University of Milano - Bicocca,University of Milan-Bicocca
+University of Milano – Bicocca,University of Milan-Bicocca
+University of Milano-Bicocca,University of Milan-Bicocca
+Universitá di Milano-Bicocca,University of Milan-Bicocca
 "Dept. of Comp. Sci. and Engineering, University of Minnesota",University of Minnesota
 University of Minnesota - Twin Cities,University of Minnesota
 University of Minnesota - Twin Cities Campus,University of Minnesota
 University of Minnesota – Twin Cities,University of Minnesota
+University of Minnesota at Duluth,University of Minnesota Duluth
 Institute for Geoinformatics – University of Münster,University of Münster
 University of Muenster,University of Münster
 "Visualization and Computer Graphics Research Group, University of Münster",University of Münster
+University Namur,University of Namur
 University of Nebraska - Omaha,University of Nebraska Omaha
 University of Nebraska at Omaha,University of Nebraska Omaha
 "University of Neuchâtel, Neuchâtel",University of Neuchâtel
@@ -1116,12 +1219,14 @@ Mixed Reality Lab School of Computer Science University of Nottingham,University
 Mixed Reality Lab University of Nottingham,University of Nottingham
 Nottingham University,University of Nottingham
 The University of Nottingham,University of Nottingham
+"The University of Nottingham, Malaysia",University of Nottingham
 "University of Oldenburg, Oldenburg",University of Oldenburg
 University of Ontario Institute of Technology (UOIT),University of Ontario Institute of Technology
 "University of Oregon, Eugene",University of Oregon
 "Center for Ubiquitous Computing, University of Oulu",University of Oulu
 "Faculty of ITEE, University of Oulu",University of Oulu
 Oulu University,University of Oulu
+"Crossmodal Research lab, Dept. of Experimental Psychology, University of Oxford",University of Oxford
 Oxford,University of Oxford
 Oxford University,University of Oxford
 University of Padova,University of Padua
@@ -1142,12 +1247,15 @@ The University of Queensland,University of Queensland
 University of Regensburg,University of Regensburg
 IRISA Université de Rennes 1,University of Rennes 1
 Rochester University,University of Rochester
+Università degli Studi di Salerno,University of Salerno
+"HCI & Usability Unit, ICT&S Center, University of Salzburg",University of Salzburg
 Salzburg University,University of Salzburg
 Univ. Salzburg,University of Salzburg
 University of Salzburg - ICT&S,University of Salzburg
 University of Salzburg; Salzburg,University of Salzburg
 Universtiy of Salzburg,University of Salzburg
 "University of Saskatchewan, Saskatoon",University of Saskatchewan
+USTL University - Trigone Lab.,University of Science and Technology Liaoning
 "School of Computer Science and Technology, China",University of Science and Technology of China
 Internationalen Institut für Sozio-Informatik,University of Siegen
 U of Siegen,University of Siegen
@@ -1167,6 +1275,7 @@ University of St. Andrews,University of St Andrews
 Universität St.Gallen,University of St. Gallen
 "University of St. Thomas, St. Paul",University of St. Thomas
 Strathclyde University,University of Strathclyde
+University of Struthclyde,University of Strathclyde
 "University of Stuttgart, Institute for Visualization and Interactive Systems",University of Stuttgart
 "VIS, University of Stuttgart",University of Stuttgart
 "University of Surrey, Guildford",University of Surrey
@@ -1177,6 +1286,7 @@ Sydney University,University of Sydney
 The University of Sydney,University of Sydney
 University of Sydney Sydney,University of Sydney
 The University of Technology Sydney,University of Technology Sydney
+University of Technology Sydney (UTS),University of Technology Sydney
 "University of Technology, Sydney",University of Technology Sydney
 Troyes University of Technology,University of Technology of Troyes
 University of Troyes,University of Technology of Troyes
@@ -1195,19 +1305,25 @@ Faculty of Information University of Toronto,University of Toronto
 U of Toronto,University of Toronto
 University of Toronto at Mississauga,University of Toronto Mississauga
 University Toulouse,University of Toulouse
+University of Toulouse - Tarbes,University of Toulouse
+University of Toronto,University of Trento
 "University of Trento, Rovereto",University of Trento
 Centre for Digital Video Processing,University of Tromsø
 "Centre for Digital Video Processing, University of Tromsø",University of Tromsø
 "IPLAB, University of Tsukuba",University of Tsukuba
 University of Torino,University of Turin
+"CTIT, University of Twente",University of Twente
 TU Twente,University of Twente
 Centre for Geriatric Medicine University Hospital of Tuebingen,University of Tübingen
 "Department of Linguistics, Universität Tübingen",University of Tübingen
 Eberhard Karls University of Tübingen,University of Tübingen
 Hector Research Institute of Education Sciences and Psychology University of Tuebingen,University of Tübingen
 ICALL Research Group University of Tuebingen,University of Tübingen
+"HCI Lab, University of Udine",University of Udine
 "University of Udine, Udine",University of Udine
+Universiy of Udine,University of Udine
 University of Virginia (SSO),University of Virginia
+The University of Waikato,University of Waikato
 "University of Waikato, Hamilton",University of Waikato
 "Information School, University of Washington",University of Washington
 "Paul G. Allen School of Computer Science & Engineering, DUB Group, University of Washington",University of Washington
@@ -1240,21 +1356,25 @@ jacob.heim@stud-mail.uni.wuerzburg.de,University of Würzburg
 Digital Creativity Labs University of York,University of York
 The University of York,University of York
 Department of Informatics University of Zurich,University of Zurich
+"University of the Aegean, Department of Cultural Technology and Communication",University of the Aegean
 Creative Computing Institute University of the Arts London,University of the Arts London
 "Creative Computing Institute, University of the Arts London",University of the Arts London
 University of the Arts London https://www.arts.ac.uk/,University of the Arts London
 "University of the Republic, Montevideo",University of the Republic (Uruguay)
+University of The West of England,University of the West of England
 USI,Università della Svizzera italiana
 University of Lugano,Università della Svizzera italiana
 Università Della Svizzera Italiana,Università della Svizzera italiana
 Università della Svizzera italiana (USI),Università della Svizzera italiana
 "Università della Svizzera italiana, USI",Università della Svizzera italiana
 EUROMED UNIVERSITY OF FES,Université Euro-Méditerranéenne de Fès UEMF
+Université catholique de Louvai,Université catholique de Louvain
 Utrecht Univesity,Utrecht University
 "Technical Research Centre of Finland, Tampere",VTT Technical Research Centre of Finland
 "VTT, Oulu",VTT Technical Research Centre of Finland
 "VTT, Tampere",VTT Technical Research Centre of Finland
 VVT,VTT Technical Research Centre of Finland
+VIT University,Vellore Institute of Technology
 Te Herenga Waka – Victoria University of Wellington,Victoria University of Wellington
 Te Herenga Waka-Victoria University of Wellington,Victoria University of Wellington
 Telecommunications Research Center (ftw.),Vienna Telecommunications Research Center
@@ -1287,13 +1407,16 @@ Xi’an Jiatong-Liverpool University,Xi'an Jiaotong-Liverpool University
 Yahoo Inc,Yahoo
 Yahoo Labs,Yahoo
 Yahoo!,Yahoo
+Yahoo! Inc.,Yahoo
 Yahoo! Labs,Yahoo
 Yahoo! Research,Yahoo
 Yale,Yale University
 Yale- NUS College,Yale-NUS College
 Yonsei Univeristy,Yonsei University
+InIT Institute of applied Information Technology/ZHAW,ZHAW Zurich University of Applied Sciences
 "Zhejiang University, Hangzhou",Zhejiang University
 "Zurich University of Applied Sciences, Winterthur",Zurich University of Applied Sciences
+vonniman Consulting,vonniman consulting
 "vonniman consulting, Saltsjö-Boo, Sweden",vonniman consulting
 Ecole Centrale de Lyon,École centrale de Lyon
 ETS Montreal,École de technologie supérieure
