@@ -151,7 +151,7 @@
 ### Authors
 * John H Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81100169940
 * Steven Strachan = Maynooth University = IRL = https://dl.acm.org/profile/81100568725
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## Modeling context aware interaction for wayfinding using mobile devices
 ### Meta-Data
@@ -425,7 +425,7 @@
 * DOI: 10.1145/1152215.1152265
 ### Authors
 * Lorna M Brown = University of Glasgow = GBR = https://dl.acm.org/profile/81100012726
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Helen C Purchase = University of Glasgow = GBR = https://dl.acm.org/profile/81100186505
 
 ## Visualizing locations of off-screen objects on mobile devices: a comparative evaluation of three approaches

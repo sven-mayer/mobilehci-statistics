@@ -550,7 +550,7 @@
 * Session: SESSION: Short papers
 * DOI: 10.1145/1409240.1409295
 ### Authors
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Jody Johnston = University of Glasgow = GBR = https://dl.acm.org/profile/81350572012
 
 ## Playing different games on different phones: an empirical study on mobile gaming
@@ -609,7 +609,7 @@
 ### Authors
 * Malcolm Hall = University of Glasgow = GBR = https://dl.acm.org/profile/81100012107
 * Eve E Hoggan = University of Glasgow = GBR = https://dl.acm.org/profile/81311484652
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## The relationship between goal difficulty and performance in the context of a physical activity intervention program
 ### Meta-Data
@@ -669,6 +669,6 @@
 ### Authors
 * Andrew Crossan = University of Glasgow = GBR = https://dl.acm.org/profile/81100494227
 * John H Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81100169940
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 

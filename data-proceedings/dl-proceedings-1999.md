@@ -69,7 +69,7 @@
 * DOI: https://www.dcs.gla.ac.uk/mobile99/papers/walker.pdf
 ### Authors
 * Ashley Walker = University of Glasgow = GBR
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
 
 ## Research Methods Used to Support Development of Satchel
 ### Meta-Data

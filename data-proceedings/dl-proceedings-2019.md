@@ -145,7 +145,7 @@
 * Session: SESSION: Full Paper
 * DOI: 10.1145/3338286.3340125
 ### Authors
-* Yungju Chang = National Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = National Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
 * Yiju Chung = National Taiwan University = TWN = https://dl.acm.org/profile/99659276405
 * Yihao Shih = National Chiao Tung University = TWN = https://dl.acm.org/profile/99659201434
 

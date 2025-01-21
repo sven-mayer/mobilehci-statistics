@@ -6,7 +6,7 @@
 * DOI: https://doi.org/10.1007/s007790200022
 ### Authors
 * Mark D Dunlop = University of Glasgow = GBR = https://dl.acm.org/profile/81100111439
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
 
 ## Evaluating Interface Design Choices on WAP Phones: Navigation and Selection
 ### Meta-Data

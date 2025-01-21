@@ -61,7 +61,7 @@
 * DOI: 10.1145/1377999.1378006
 ### Authors
 * Sung-jung Cho = Samsung = KOR = https://dl.acm.org/profile/99659811801
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 * Yeunbae Kim = Samsung = KOR = https://dl.acm.org/profile/81452602849
 
 ## Mobile support for communities of interest: design and implementation of Community2Go
@@ -91,7 +91,7 @@
 * Session: No Section
 * DOI: 10.1145/1377999.1378009
 ### Authors
-* Rod Murray-Smith = Maynooth University = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = Maynooth University = GBR = https://dl.acm.org/profile/81100572841
 * Andrew Ramsay = University of Glasgow = GBR = https://dl.acm.org/profile/81351601060
 * Simon Garrod = University of Glasgow = GBR = https://dl.acm.org/profile/81351595186
 * Melissa Jackson = University of Glasgow = GBR = https://dl.acm.org/profile/81351597896

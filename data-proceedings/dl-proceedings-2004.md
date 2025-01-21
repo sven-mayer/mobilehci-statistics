@@ -41,7 +41,7 @@
 * Joy Goodman = University of Glasgow = GBR
 * Philip D Gray = University of Glasgow = GBR = https://dl.acm.org/profile/81341490992
 * Kartik Khammampad = University of Glasgow = GBR
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
 
 
 ## Heuristic Evaluation and Mobile Usability: Bridging the Realism Gap
@@ -82,7 +82,7 @@
 * Session: Evaluation and Evaluation Techniques
 * DOI: https://doi.org/10.1007/978-3-540-28637-0_8
 ### Authors
-* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = DEU
+* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = DEU = https://dl.acm.org/profile/81100596418
 * Fabian Hermann = Fraunhofer Institute for Industrial Engineering = DEU
 
 ## Social Networks and Mobile Games: The Use of Bluetooth for a Multiplayer Card Game
@@ -167,7 +167,7 @@
 * DOI: https://doi.org/10.1007/978-3-540-28637-0_16
 ### Authors
 * Georgios N Marentakis = University of Glasgow = GBR = https://dl.acm.org/profile/81100642927
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199 
 
 
 ## A Study of Application and Device Effects Between a WAP Phone and a Palm PDA

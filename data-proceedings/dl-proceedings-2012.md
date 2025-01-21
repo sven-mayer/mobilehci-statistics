@@ -39,7 +39,7 @@
 ### Authors
 * Vassilios Stefanis = University of Patras = GRC = https://dl.acm.org/profile/81314485885
 * A. Plessas = University of Patras = GRC = https://dl.acm.org/profile/81314484987
-* A. Komninos = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81385599634
+* Andreas Komninos = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81385599634
 * John D Garofalakis = University of Patras = GRC = https://dl.acm.org/profile/81100428597
 
 ## An exploration of inadvertent variations in mobile pressure input
@@ -373,7 +373,7 @@
 * DOI: 10.1145/2371574.2371621
 ### Authors
 * Graham Wilson = University of Glasgow = GBR = https://dl.acm.org/profile/81467653138
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Martin Halvey = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81310486119
 * Stephen A Hughes = SAMH Engineering, Dublin, Dublin = GBR = https://dl.acm.org/profile/81494640446
 
@@ -387,7 +387,7 @@
 * Richard Bowman = University of Glasgow = GBR = https://dl.acm.org/profile/81548021388
 * Matthias Rath = University of Glasgow = GBR = https://dl.acm.org/profile/81547534556
 * John H Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81100169940
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 * Miles Padgett = University of Glasgow = GBR = https://dl.acm.org/profile/81548021392
 
 ## An evaluation of BrailleTouch: mobile touchscreen text entry for the visually impaired
@@ -440,7 +440,7 @@
 * Session: SESSION: Location
 * DOI: 10.1145/2371574.2371628
 ### Authors
-* Yungju Chang = University of Michigan = USA = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = University of Michigan = USA = https://dl.acm.org/profile/81548019794
 * Pei-Yao Hung = University of Michigan = USA = https://dl.acm.org/profile/99659238494
 * Mark Webster Newman = University of Michigan = USA = https://dl.acm.org/profile/81406594629
 
@@ -450,7 +450,7 @@
 * Session: SESSION: Location
 * DOI: 10.1145/2371574.2371629
 ### Authors
-* A. Komninos = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81385599634
+* Andreas Komninos = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81385599634
 * Peter Barrie = Glasgow Caledonian University = GBR = https://dl.acm.org/profile/81317491140
 * Vassilios Stefanis = University of Patras = GRC = https://dl.acm.org/profile/81314485885
 * A. Plessas = University of Patras = GRC = https://dl.acm.org/profile/81314484987

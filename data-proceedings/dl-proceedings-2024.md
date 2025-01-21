@@ -286,7 +286,7 @@
 * Yong-Han Lin = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99660481557
 * Jie Tsai = University of Texas at Austin = USA = https://dl.acm.org/profile/99660631715
 * Zi Xun Tang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99661352316
-* Yungju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
 
 ## Informing the Design of Intervention Solutions for Body-Focused Repetitive Behaviors
 ### Meta-Data
@@ -309,7 +309,7 @@
 * Menghsin Wu = Carnegie Mellon University = USA = https://dl.acm.org/profile/99661354413
 * Chungchiao Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99659886229
 * Xijing Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99659578329
-* Yungju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
 
 ## Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions
 ### Meta-Data
@@ -499,7 +499,7 @@
 * Rawan Srour Zreik = University of Glasgow = GBR = https://dl.acm.org/profile/99660992757
 * Thomas Alexander Goodge = University of Glasgow = GBR = https://dl.acm.org/profile/99660749885
 * Monika Harvey = University of Glasgow = GBR = https://dl.acm.org/profile/99660995245
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## WhisperCup: A Design Exploration for Improving the Remote Communication between Chinese Parents and Their Adult Children through Digitally-Augmented Everyday Objects
 ### Meta-Data

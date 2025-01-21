@@ -131,7 +131,7 @@
 ### Authors
 * Daniel Buschek = LMU Munich = DEU = https://dl.acm.org/profile/82659024557
 * Simon Rogers = University of Glasgow = GBR = https://dl.acm.org/profile/81100173811
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## 'Eyes free' in-car assistance: parent and child passenger collaboration during phone calls
 ### Meta-Data
@@ -278,7 +278,7 @@
 * DOI: 10.1145/2493190.2493220
 ### Authors
 * Daniel Boland = University of Glasgow = GBR = https://dl.acm.org/profile/81484650735
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## Exploring pinch and spread gestures on mobile devices
 ### Meta-Data

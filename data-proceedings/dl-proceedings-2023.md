@@ -315,7 +315,7 @@
 * DOI: 10.1145/3604266
 ### Authors
 * Laura Bajorunaite = University of Glasgow = GBR = https://dl.acm.org/profile/99660234731
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Julie R. Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81442606751
 
 ## RingVKB: A Ring-Shaped Virtual Keyboard Using Low-Cost IMU
@@ -340,7 +340,7 @@
 * Yuhsin Lai = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99659886055
 * Yiting Ho = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99660236488
 * Chihchi Chung = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/99660636029
-* Yungju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
 
 ## Senior Technology Learning Preferences Model for Mobile Technology
 ### Meta-Data

@@ -61,8 +61,8 @@
 ### Authors
 * Andrew Crossan = University of Glasgow = GBR = https://dl.acm.org/profile/81100494227
 * Mark McGill = University of Glasgow = GBR = https://dl.acm.org/profile/81442594051
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## Designing phrase builder: a mobile real-time query expansion interface
 ### Meta-Data
@@ -90,7 +90,7 @@
 * Session: SESSION: Input techniques
 * DOI: 10.1145/1613858.1613870
 ### Authors
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Michael Hughes = University of Glasgow = GBR = https://dl.acm.org/profile/81537769656
 
 ## Coupa: operation with pen linking on mobile devices

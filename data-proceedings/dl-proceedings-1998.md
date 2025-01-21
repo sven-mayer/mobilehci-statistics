@@ -40,7 +40,7 @@
 * Type: ARTICLE
 * DOI: https://www.dcs.gla.ac.uk/~johnson/papers/mobile/HCIMD1.html#_Toc420818974
 ### Authors
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Grégory Leplâtre = University of Glasgow = GBR = https://dl.acm.org/profile/81418598724
 * Murray Crease = University of Glasgow = GBR = https://dl.acm.org/profile/81100388510
 

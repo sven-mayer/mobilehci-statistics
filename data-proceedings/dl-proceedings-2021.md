@@ -65,7 +65,7 @@
 ### Authors
 * Yulin Chang = National Tsing Hua University = TWN = https://dl.acm.org/profile/99659468732
 * Hao-Ping (Hank) Lee = Georgia Institute of Technology = USA = https://dl.acm.org/profile/99659200192
-* Yungju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = National Yang Ming Chiao Tung University = TWN = https://dl.acm.org/profile/81548019794
 * Chihya Shen = National Tsing Hua University = TWN = https://dl.acm.org/profile/87258892957
 
 ## Modeling Gliding-based Target Selection for Blind Touchscreen Users

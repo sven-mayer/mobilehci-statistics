@@ -43,7 +43,7 @@
 * DOI: 10.1145/2037373.2037378
 ### Authors
 * Lauren Norrie = University of Glasgow = GBR = https://dl.acm.org/profile/81488669582
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## Kick: investigating the use of kick gestures for mobile interactions
 ### Meta-Data
@@ -217,9 +217,9 @@
 * Session: SESSION: Learning
 * DOI: 10.1145/2037373.2037396
 ### Authors
-* Joanna Bergstrom-Lehtovirta = Aalto University = FIN = https://dl.acm.org/profile/81453655512
+* Joanna Bergström-Lehtovirta = Aalto University = FIN = https://dl.acm.org/profile/81453655512
 * Antti Oulasvirta = Aalto University = FIN = https://dl.acm.org/profile/81100333050
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## The effects of walking, feedback and control method on pressure-based interaction
 ### Meta-Data
@@ -228,7 +228,7 @@
 * DOI: 10.1145/2037373.2037397
 ### Authors
 * Graham Wilson = University of Glasgow = GBR = https://dl.acm.org/profile/81467653138
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 * Martin Halvey = University of Glasgow = GBR = https://dl.acm.org/profile/81310486119
 * Andrew Crossan = University of Glasgow = GBR = https://dl.acm.org/profile/81100494227
 * Craig D Stewart = University of Glasgow = GBR = https://dl.acm.org/profile/81460653697
@@ -656,7 +656,7 @@
 * Dari Trendafilov = Nokia = GBR = https://dl.acm.org/profile/81381599618
 * Yolanda Vazquez-Alvarez = University of Glasgow = GBR = https://dl.acm.org/profile/81416606943
 * Saija Maaria Lemmelä = Nokia = FIN = https://dl.acm.org/profile/81328489253
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## The phone rings but the user doesn't answer: unavailability in mobile communication
 ### Meta-Data

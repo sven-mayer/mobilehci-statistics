@@ -79,7 +79,7 @@
 * DOI: 10.1145/1085777.1085787
 ### Authors
 * Georgios N Marentakis = University of Glasgow = GBR = https://dl.acm.org/profile/81100642927
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## Placing links in mobile banking application
 ### Meta-Data
@@ -439,7 +439,7 @@
 ### Authors
 * Steven Strachan = Maynooth University = GBR = https://dl.acm.org/profile/81100568725
 * Parisa Eslambolchilar = Maynooth University = GBR = https://dl.acm.org/profile/81350582010
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 * Stephen A Hughes = Stephen Hughes Engineering Services, Blackrock = GBR = https://dl.acm.org/profile/81494640446
 * Sile O'Modhrain = Queen's University = CAN = https://dl.acm.org/profile/81100106087
 

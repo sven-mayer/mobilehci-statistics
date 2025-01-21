@@ -195,7 +195,7 @@
 ### Authors
 * Alexander Ng = University of Glasgow = GBR = https://dl.acm.org/profile/81557753656
 * John H Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81100169940
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## Toffee: enabling ad hoc, around-device interaction with acoustic time-of-arrival correlation
 ### Meta-Data

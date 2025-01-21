@@ -189,7 +189,7 @@
 ### Authors
 * Christopher McAdam = University of Glasgow = GBR = https://dl.acm.org/profile/81453657880
 * Craig Pinkerton = University of Glasgow = GBR = https://dl.acm.org/profile/81467671273
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## Towards using embedded magnetic field sensor for around mobile device 3D interaction
 ### Meta-Data
@@ -229,7 +229,7 @@
 ### Authors
 * Graham Wilson = University of Glasgow = GBR = https://dl.acm.org/profile/81467653138
 * Craig D Stewart = University of Glasgow = GBR = https://dl.acm.org/profile/81460653697
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## Evaluation of an off-screen visualization for magic lens and dynamic peephole interfaces
 ### Meta-Data
@@ -409,7 +409,7 @@
 * DOI: 10.1145/1851600.1851654
 ### Authors
 * Josip Music = University of Split = HRV = https://dl.acm.org/profile/81381597557
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## Visualization of off-screen objects in mobile augmented reality
 ### Meta-Data
@@ -459,7 +459,7 @@
 * Simon Robinson = Swansea University = GBR = https://dl.acm.org/profile/81371592031
 * Matt Jones = Swansea University = GBR = https://dl.acm.org/profile/81328488881
 * Parisa Eslambolchilar = Swansea University = GBR = https://dl.acm.org/profile/81350582010
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 * Mads Lindborg = Nokia = DNK = https://dl.acm.org/profile/81467669493
 
 ## Pulse: tangible touch

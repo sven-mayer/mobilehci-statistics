@@ -177,7 +177,7 @@
 ### Authors
 * Daniel Boland = University of Glasgow = GBR = https://dl.acm.org/profile/81484650735
 * Ross McLachlan = University of Glasgow = GBR = https://dl.acm.org/profile/81484640929
-* Rod Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
+* Roderick Murray-Smith = University of Glasgow = GBR = https://dl.acm.org/profile/81100572841
 
 ## SeeSaw: I See You Saw My Video Message
 ### Meta-Data
@@ -235,7 +235,7 @@
 * Session: SESSION: Attention & Availability
 * DOI: 10.1145/2785830.2785852
 ### Authors
-* Yungju Chang = Microsoft = USA = https://dl.acm.org/profile/81548019794
+* Yung-Ju Chang = Microsoft = USA = https://dl.acm.org/profile/81548019794
 * John C Tang = Microsoft = USA = https://dl.acm.org/profile/81405592014
 
 ## The Effects of Encumbrance and Mobility on Touch-Based Gesture Interactions for Mobile Phones
@@ -246,7 +246,7 @@
 ### Authors
 * Alexander Ng = University of Glasgow = GBR = https://dl.acm.org/profile/81557753656
 * John H Williamson = University of Glasgow = GBR = https://dl.acm.org/profile/81100169940
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## MIME: Teaching Mid-Air Pose-Command Mappings
 ### Meta-Data
@@ -515,7 +515,7 @@
 * DOI: 10.1145/2785830.2785878
 ### Authors
 * Ross McLachlan = University of Glasgow = GBR = https://dl.acm.org/profile/81484640929
-* Stephen Anthony Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
+* Stephen Brewster = University of Glasgow = GBR = https://dl.acm.org/profile/81100359199
 
 ## Exploratory Navigation for Runners Through Geographic Area Classification with Crowd-Sourced Data
 ### Meta-Data
