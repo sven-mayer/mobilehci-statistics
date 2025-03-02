@@ -19,7 +19,7 @@ Year,Url,SubmittedPapers,AcceptedPaper,AcceptanceRate,Sources
 2016,https://dl.acm.org/doi/proceedings/10.1145/2935334,238,56,24,ACM DL Front Matter
 2017,https://dl.acm.org/doi/proceedings/10.1145/3098279,224,45,20,ACM DL Front Matter & ACM DL Acceptance Rates
 2018,https://dl.acm.org/doi/proceedings/10.1145/3229434,216,,23,ACM DL Front Matter
-2019,https://dl.acm.org/doi/proceedings/10.1145/3338286,,,,Unknown
+2019,https://dl.acm.org/doi/proceedings/10.1145/3338286,136,36,26.5,Infomation provided by the paper chairs
 2020,https://dl.acm.org/doi/proceedings/10.1145/3379503,161,39,24.2,ACM DL Front Matter
 2021,https://dl.acm.org/doi/proceedings/10.1145/3447526,149,49,33,ACM DL Front Matter
 2022,https://dl.acm.org/toc/pacmhci/2022/6/MHCI,114,,36,https://x.com/ACMMobileHCI/status/1575147863038119936
