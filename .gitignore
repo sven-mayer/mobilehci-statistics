@@ -1,6 +1,5 @@
 data-proceedings/authors.csv
-data-program-committee/committee-raw.csv
-data-program-committee/committee.csv
+data-committee-raw/
 
 # General
 .DS_Store

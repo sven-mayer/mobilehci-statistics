@@ -1,27 +1,28 @@
-Year,Url,SubmittedPapers,AcceptedPaper,AcceptanceRate,Sources
-1998,https://www.dcs.gla.ac.uk/~johnson/workshops_old/mobile.html,,15,,Workshop Website
-1999,https://www.dcs.gla.ac.uk/mobile99/,,11,,Workshop Website
-2001,https://link.springer.com/journal/779/volumes-and-issues/6-4,,10,,Springr DL
-2002,https://link.springer.com/book/10.1007/3-540-45756-9,,50,,Springer Front Matter
-2003,https://link.springer.com/book/10.1007/b12029,122,50,,Springer Front Matter
-2004,https://link.springer.com/book/10.1007/b100594,160,45,,Springer Front Matter
-2005,https://dl.acm.org/doi/proceedings/10.1145/1085777,223,54,,ACM DL Front Matter
-2006,https://dl.acm.org/doi/proceedings/10.1145/1152215,202,,25,ACM DL Front Matter
-2007,https://dl.acm.org/doi/proceedings/10.1145/1377999,168,,22,ACM DL Front Matter
-2008,https://dl.acm.org/doi/proceedings/10.1145/1409240,210,,,ACM DL Front Matter
-2009,https://dl.acm.org/doi/proceedings/10.1145/1613858,176,38,21.6,ACM DL Front Matter
-2010,https://dl.acm.org/doi/proceedings/10.1145/1851600,225,46,20,ACM DL Front Matter
-2011,https://dl.acm.org/doi/proceedings/10.1145/2037373,276,63,23,ACM DL Front Matter
-2012,https://dl.acm.org/doi/proceedings/10.1145/2371574,212,54,25,ACM DL Front Matter
-2013,https://dl.acm.org/doi/proceedings/10.1145/2493190,238,53,22,ACM DL Front Matter & ACM DL Acceptance Rates
-2014,https://dl.acm.org/doi/proceedings/10.1145/2628363,211,45,,ACM DL Front Matter
-2015,https://dl.acm.org/doi/proceedings/10.1145/2785830,234,64,27.4,ACM DL Front Matter
-2016,https://dl.acm.org/doi/proceedings/10.1145/2935334,238,56,24,ACM DL Front Matter
-2017,https://dl.acm.org/doi/proceedings/10.1145/3098279,224,45,20,ACM DL Front Matter & ACM DL Acceptance Rates
-2018,https://dl.acm.org/doi/proceedings/10.1145/3229434,216,,23,ACM DL Front Matter
-2019,https://dl.acm.org/doi/proceedings/10.1145/3338286,136,36,26.5,Infomation provided by the paper chairs
-2020,https://dl.acm.org/doi/proceedings/10.1145/3379503,161,39,24.2,ACM DL Front Matter
-2021,https://dl.acm.org/doi/proceedings/10.1145/3447526,149,49,33,ACM DL Front Matter
-2022,https://dl.acm.org/toc/pacmhci/2022/6/MHCI,114,,36,https://x.com/ACMMobileHCI/status/1575147863038119936
-2023,https://dl.acm.org/toc/pacmhci/2023/7/MHCI,110,42,38,https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3565066
-2024,https://dl.acm.org/toc/pacmhci/2024/8/MHCI,141,46,32.6,https://x.com/ACMMobileHCI/status/1804014869013995651
+Year,Url,SubmittedPapers,AcceptedPaper,AcceptanceRate,Sources,City,Alpha-3,Latitude,Longitude,Note
+1998,https://www.dcs.gla.ac.uk/~johnson/workshops_old/mobile.html,,15,,Workshop Website,Glasgow,GBR,55.861111,-4.25
+1999,https://www.dcs.gla.ac.uk/mobile99/,,11,,Workshop Website,1999,Edinburgh,GBR,55.95,-3.183333
+2001,https://link.springer.com/journal/779/volumes-and-issues/6-4,,10,,Springr DL,Lille,FRA,50.6278,3.0583
+2002,https://link.springer.com/book/10.1007/3-540-45756-9,,50,,Springer Front Matter,Pisa,ITA,43.716667,10.4
+2003,https://link.springer.com/book/10.1007/b12029,122,50,,Springer Front Matter,Udine,ITA,46.066667,13.233333
+2004,https://link.springer.com/book/10.1007/b100594,160,45,,Springer Front Matter,Glasgow,GBR,55.861111,-4.25
+2005,https://dl.acm.org/doi/proceedings/10.1145/1085777,223,54,,ACM DL Front Matter,Salzburg,AUT,47.809490,13.055010
+2006,https://dl.acm.org/doi/proceedings/10.1145/1152215,202,,25,ACM DL Front Matter,Helsinki,FIN,60.170833,24.9375
+2007,https://dl.acm.org/doi/proceedings/10.1145/1377999,168,,22,ACM DL Front Matter,Singapore,SGP,1.283333,103.833333
+2008,https://dl.acm.org/doi/proceedings/10.1145/1409240,210,,,ACM DL Front Matter,Enschede,NLD,52.2225,6.8925
+2009,https://dl.acm.org/doi/proceedings/10.1145/1613858,176,38,21.6,ACM DL Front Matter,Siegen,DEU,50.883333,8.016667
+2010,https://dl.acm.org/doi/proceedings/10.1145/1851600,225,46,20,ACM DL Front Matter,Lisboa,PRT,38.725278,-9.15
+2011,https://dl.acm.org/doi/proceedings/10.1145/2037373,276,63,23,ACM DL Front Matter,Stockholm,SWE,59.329444,18.068611
+2012,https://dl.acm.org/doi/proceedings/10.1145/2371574,212,54,25,ACM DL Front Matter,San Francisco,USA,37.7775,-122.416389
+2013,https://dl.acm.org/doi/proceedings/10.1145/2493190,238,53,22,ACM DL Front Matter & ACM DL Acceptance Rates,Munich,DEU,48.1375,11.575
+2014,https://dl.acm.org/doi/proceedings/10.1145/2628363,211,45,,ACM DL Front Matter,Toronto,CAN,43.741667,-79.373333
+2015,https://dl.acm.org/doi/proceedings/10.1145/2785830,234,64,27.4,ACM DL Front Matter,Copenhagen,DNK,55.676111,12.568333
+2016,https://dl.acm.org/doi/proceedings/10.1145/2935334,238,56,24,ACM DL Front Matter,Florence,ITA,43.771389,11.254167
+2017,https://dl.acm.org/doi/proceedings/10.1145/3098279,224,45,20,ACM DL Front Matter & ACM DL Acceptance Rates,Vienna,AUT,48.208333,16.3725
+2018,https://dl.acm.org/doi/proceedings/10.1145/3229434,216,,23,ACM DL Front Matter,Barcelona,ESP,41.383333,2.183333
+2019,https://dl.acm.org/doi/proceedings/10.1145/3338286,136,36,26.5,Infomation provided by the paper chairs,Taipei,TWN,25.0375,121.5625
+2020,https://dl.acm.org/doi/proceedings/10.1145/3379503,161,39,24.2,ACM DL Front Matter,Oldenburg,DEU,53.143889,8.213889,Virtual due to COVID-19
+2021,https://dl.acm.org/doi/proceedings/10.1145/3447526,149,49,33,ACM DL Front Matter,Toulouse,FRA,43.6045,1.444,Virtual due to COVID-19
+2022,https://dl.acm.org/toc/pacmhci/2022/6/MHCI,114,,36,https://x.com/ACMMobileHCI/status/1575147863038119936,Vancouver,CAN,49.260833,-123.113889
+2023,https://dl.acm.org/toc/pacmhci/2023/7/MHCI,110,42,38,https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3565066,Athens,GRC,37.984167,23.728056
+2024,https://dl.acm.org/toc/pacmhci/2024/8/MHCI,141,46,32.6,https://x.com/ACMMobileHCI/status/1804014869013995651,Melbourne,AUS,-37.814167,144.963056
+2025,,147,,,,Sharm El-Sheikh,EGY,27.915,34.3275

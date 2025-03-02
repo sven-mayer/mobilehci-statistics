@@ -17,7 +17,7 @@
 * DOI: https://doi.org/10.1007/978-3-540-28637-0_2
 ### Authors
 * Lance Bloom = Hewlett Packard = USA
-* Rachel Eardley = Hewlett Packard = USA
+* Rachel Eardley = Hewlett Packard = USA = https://dl.acm.org/profile/81320489242
 * Erik Geelhoed = Hewlett Packard = USA
 * Meera Manahan = Hewlett Packard = USA
 * Parthasarathy Ranganathan = Hewlett Packard = USA
@@ -177,7 +177,7 @@
 * DOI: https://doi.org/10.1007/978-3-540-28637-0_17
 ### Authors
 * Jiraporn Buranatrived = Northumbria University = GBR
-* Paul Vickers = Northumbria University = GBR
+* Paul Vickers = Northumbria University = GBR = https://dl.acm.org/profile/81309490084
 
 ## Personalization-Based Optimization of Web Interfaces for Mobile Devices
 ### Meta-Data

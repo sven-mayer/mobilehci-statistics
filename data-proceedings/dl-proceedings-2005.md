@@ -311,7 +311,7 @@
 * Paul Tennent = University of Glasgow = GBR = https://dl.acm.org/profile/81100474188
 * Malcolm Hall = University of Glasgow = GBR = https://dl.acm.org/profile/81100012107
 * Barry Brown = University of Glasgow = GBR = https://dl.acm.org/profile/81100013375
-* M. Chalmers = University of Glasgow = GBR = https://dl.acm.org/profile/81100086432
+* Matthew Chalmers = University of Glasgow = GBR = https://dl.acm.org/profile/81100086432
 * Scott Sherwood = University of Glasgow = GBR = https://dl.acm.org/profile/81100522350
 
 ## Mobile 'tsunagari-kan': always-on, casual telecommunication
