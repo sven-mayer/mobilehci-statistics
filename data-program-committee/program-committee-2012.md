@@ -35,9 +35,9 @@
 * Mauro Cherubini = Telefonica = Spain
 * Michael Rohs = LMU Munich = Germany # 0000-0003-4599-729X
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
-* Nuria Oliver = Telefonica = Spain
+* Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Paul Marshall = University College London = United Kingdom of Great Britain and Northern Ireland
-* Per Ola Kristensson = University of St Andrews = United Kingdom of Great Britain and Northern Ireland
+* Per Ola Kristensson = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-7139-871X
 * Pourang Irani = University of Manitoba = Canada # 0000-0002-7716-9280
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Russell Beale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland

@@ -1,7 +1,7 @@
 # MobileHCI 2015
 
 ## Paper Chair
-* Hans Gellersen = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
+* Hans Gellersen = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2233-2121
 * Ken Hinckley = Microsoft = United States of America
 
 ## Associate Chair
@@ -26,7 +26,7 @@
 * Jonna Häkkilä = University of Lapland = Finland # 0000-0003-2172-6233
 * Julia Schwarz = Carnegie Mellon University = United States of America
 * Jörg Müller = Aarhus University = Denmark
-* Karen Church = Yahoo = United States of America
+* Karen Church = Yahoo = United States of America # DATA-0000-0000-0001
 * Lynne Baillie = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2514-5981
 * Marcos Serrano = University of Toulouse = France # 0000-0001-8431-0601
 * Matt Conway = frog design = United States of America
@@ -34,10 +34,10 @@
 * Michelle Annett = University of Alberta = Canada # 0000-0001-9421-1199
 * Mike McGuffin = École de technologie supérieure = Canada
 * Nicolai Marquardt = University College London = United Kingdom of Great Britain and Northern Ireland
-* Nuria Oliver = Telefonica = Spain
+* Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Oskar Juhlin = Stockholm University = Sweden
 * Parisa Eslambolchilar = Swansea University = United Kingdom of Great Britain and Northern Ireland
-* Per Ola Kristensson = University of Cambridge = United Kingdom of Great Britain and Northern Ireland
+* Per Ola Kristensson = University of Cambridge = United Kingdom of Great Britain and Northern Ireland # 0000-0002-7139-871X
 * Pourang Irani = University of Manitoba = Canada # 0000-0002-7716-9280
 * Roel Vertegaal = Queen's University = Canada
 * Seongkook Heo = Korea Advanced Institute of Science & Technology = Korea, Republic of

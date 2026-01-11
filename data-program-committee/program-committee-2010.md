@@ -17,9 +17,9 @@
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Matt Jones = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373
 * Nuno Guimarães = University of Lisbon = Portugal
-* Nuria Oliver = Telefonica = Spain
+* Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Peter Forbrig = University of Rostock = Germany
 * Philippe Palanque = Toulouse III University - Paul-Sabatier = France
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
-* Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland
+* Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899

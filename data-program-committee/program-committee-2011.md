@@ -53,7 +53,7 @@
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
 * Nitendra Rajput = IBM = United States of America
 * Nuno Guimarães = University of Lisbon = Portugal
-* Nuria Oliver = Telefonica = Spain
+* Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland
 * Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && Université de Toulouse = France && France
 * Raimund Dachselt = University of Magdeburg = Germany
@@ -73,7 +73,7 @@
 * Zach Toups = Texas A&M University = United States of America # 0000-0002-6192-2004
 
 ## nan
-* Alexander De Luca = LMU Munich = Germany
+* Alexander De Luca = LMU Munich = Germany # DATA-0000-0000-0002
 
 ## nan
 * Alexandra Weilenmann = University of Gothenburg = Sweden # 0000-0002-3989-4588
@@ -166,13 +166,13 @@
 * Paul Holleis = DoCoMo Communications Laboratories Europe GmbH = Germany
 
 ## nan
-* Per Ola Kristensson = University of Cambridge = United Kingdom of Great Britain and Northern Ireland
+* Per Ola Kristensson = University of Cambridge = United Kingdom of Great Britain and Northern Ireland # 0000-0002-7139-871X
 
 ## nan
 * Rafael Ballagas = Nokia = Finland
 
 ## nan
-* Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland
+* Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 
 ## nan
 * Roderick Murray-Smith = University of Glasgow && Maynooth University = United Kingdom of Great Britain and Northern Ireland && Ireland # 0000-0003-4228-7962
@@ -184,7 +184,7 @@
 * Sebastian Boring = University of Calgary = Canada # 0000-0002-2289-7512
 
 ## nan
-* Stefano Burigat = University of Udine = Italy
+* Stefano Burigat = University of Udine = Italy # 0000-0003-1900-6878
 
 ## nan
 * Trevor Pering = Intel = United States of America

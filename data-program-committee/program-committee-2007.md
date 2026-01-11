@@ -48,7 +48,7 @@
 * Joanna Lumsden = University of New Brunswick = Canada # 0000-0002-8637-7647
 * Joelle Coutaz =  = France
 * Johan Hjelm =  = Sweden
-* John Williamson =  = United Kingdom of Great Britain and Northern Ireland
+* John Williamson =  = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8085-7853
 * Jose Rouillard =  = France
 * Kaisa Väänänen-Vainio-Mattila = Tampere University of Technology = Finland # 0000-0002-3565-6021
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
@@ -81,13 +81,13 @@
 * Regina Bernhaupt =  = Austria # 0000-0003-3522-5990
 * Reinhard Oppermann =  = Germany
 * Reinhard Sefelin =  = Austria
-* Richard Harper =  = United Kingdom of Great Britain and Northern Ireland
+* Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Robert Biddle =  = Canada
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Russell Beale =  = United Kingdom of Great Britain and Northern Ireland
 * Sari Kujala =  = Finland
 * Silvia Gabrielli =  = Italy
-* Stefano Burigat =  = Italy
+* Stefano Burigat = University of Udine = Italy # 0000-0003-1900-6878
 * Stefano Mizzaro =  = Italy
 * Steve Jones =  = New Zealand
 * Thomas Mirlacher =  = Austria

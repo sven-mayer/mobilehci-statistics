@@ -18,11 +18,11 @@
 * Dominik Schmidt = Hasso-Plattner-Institut = Germany
 * Duncan Brumby = University College London = United Kingdom of Great Britain and Northern Ireland
 * Eve Hoggan = Helsinki Institute for Information Technology = Finland # 0000-0002-2563-4320
-* Hans Gellersen = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
+* Hans Gellersen = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2233-2121
 * Hans-Joerg Müller = Telekom Innovation Laboratories = Germany
 * Henriette Cramer = Yahoo = United States of America
 * James Clawson = Georgia Institute of Technology = United States of America
-* Janne Lindqvist = Rutgers University = United States of America
+* Janne Lindqvist = Rutgers University = United States of America # 0000-0002-8659-2283
 * Jason Alexander = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0001-6093-6116
 * Jofish Kaye = Yahoo = United States of America
 * Johannes Schöning = Hasselt University = Belgium # 0000-0002-8823-4607
@@ -37,9 +37,9 @@
 * Niels Henze = University of Stuttgart = Germany # 0000-0002-5702-6290
 * Oskar Juhlin = Stockholm University = Sweden
 * Paul Holleis = Docomo Euro-Labs = Germany
-* Per Ola Kristensson = University of St Andrews = United Kingdom of Great Britain and Northern Ireland
+* Per Ola Kristensson = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-7139-871X
 * Pourang Irani = University of Manitoba = Canada # 0000-0002-7716-9280
 * Sebastian Boring = University of Copenhagen = Denmark # 0000-0002-2289-7512
 * Susanne Boll = University of Oldenburg = Germany # 0000-0003-4293-1623
-* Sven Kratz = FX Palo Alto Laboratory = United States of America
+* Sven Kratz = FX Palo Alto Laboratory = United States of America # 0000-0002-0068-0793
 * Yang Li = Google = United States of America
