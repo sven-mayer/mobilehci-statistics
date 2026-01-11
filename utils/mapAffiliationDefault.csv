@@ -13,7 +13,6 @@ Argonne National Laboratory,Q649120,USA
 Arizona State University,Q670897,USA
 Aston University,Q750066,GBR
 Auckland University of Technology,Q758659,NZL
-Auckland University of Technology,Q758659,NZL
 Augsburg Technical University of Applied Sciences,Q896468,DEU
 Austrian Institute of Technology,Q783627,AUT
 Auto-ID Labs,Q4826030,CHE
@@ -28,7 +27,6 @@ Beijing University of Posts and Telecommunications,Q4881210,CHN
 Bell Labs,Q217365,USA
 "Bell Labs, Alcaltel-Lucent",Q45134019,USA
 Ben-Gurion University of the Negev,Q737332,ISR
-Ben-Gurion University of the Negev,Q737332,ISR
 BenQ,Q714335,TWN
 Berlin University of the Arts,Q55038,DEU
 Berliner Technische Kunsthochschule,Q821803,DEU
@@ -40,6 +38,7 @@ Brigham Young University,Q332498,USA
 Brunel University London,Q932411,GBR
 Bundeswehr University Munich,Q283099,DEU
 Bwin Interactive Entertainment,Q21006898,AUT
+CODE University of Applied Sciences,Q40387612,DEU
 CREATE-NET,Q30252843,ITA
 "CURE - Center for Usability, Research Engineering",Q30284568,AUT
 Ca' Foscari University of Venice,Q1546906,ITA
@@ -93,12 +92,14 @@ Ericsson,Q52618,SWE
 FORTH Institute of Computer Science,Q107519722,GRC
 FX Palo Alto Laboratory,Q5427408,USA
 FZI Research Center for Information Technology,Q1276279,DEU
+Federal University of Lavras,Q10387826,BRA
 Federal University of Rio de Janeiro,Q586904,BRA
 Finnish Institute of Occupational Health,Q21015571,FIN
 Flensburg University of Applied Sciences,Q328274,DEU
 Florida State University,Q861548,USA
 Fondazione Bruno Kessler,Q3747148,ITA
 France Télécom,Q912413,FRA
+Frankfurt University of Applied Sciences,Q812648,DEU
 Fraunhofer Institute for Applied Information Technology,Q1451984,DEU
 Fraunhofer Institute for Computer Graphics Research,Q1452008,DEU
 Fraunhofer Institute for Industrial Engineering,Q1451990,DEU
@@ -110,6 +111,7 @@ Future University Hakodate,Q835738,JPN
 Fuzhou University,Q470963,CHN
 GN Advanced Science,,DNK
 Gallaudet University,Q1056373,USA
+George Washington University,Q432637,USA
 Georgia Institute of Technology,Q864855,USA
 Georgia Southern University,Q624959,USA
 German Research Center for Artificial Intelligence,Q896469,DEU
@@ -219,6 +221,7 @@ Münster University of Applied Sciences,Q554425,DEU
 NOVA University Lisbon,Q1979891,PRT
 NTT Communication Science Laboratories,Q39903273,JPN
 Nanyang Technological University,Q721064,SGP
+National Autonomous University of Mexico,Q222738,MEX
 National Chengchi University,Q712849,TWN
 National Chiao Tung University,Q43401,TWN
 National Institute for Research & Development in Informatics,Q12730482,ROU
@@ -276,7 +279,6 @@ Quaid-i-Azam University,Q2047109,PAK
 Queen Mary and Westfield College,,GBR
 Queen's University,Q1420038,CAN
 Queensland University of Technology,Q1144750,AUS
-RMIT University,Q1057890,AUS
 RWTH Aachen University,Q273263,DEU
 Rakuten Institute of Technology,Q7286828,JPN
 Reichman University,Q2908845,ISR
@@ -287,12 +289,14 @@ Rice University,Q842909,USA
 Risø DTU National Laboratory for Sustainable Energy,Q2118480,DNK
 Rochester Institute of Technology,Q2140778,USA
 Rotterdam University,Q7370670,NLD
+Royal Melbourne Institute of Technology,Q1057890,AUS
 Ruhr West University of Applied Sciences,Q1622141,DEU
 Rutgers University,Q499451,USA
 SINTEF,Q3041255,NOR
 SUNY Korea,Q16098697,KOR
 Saarland University,Q700758,DEU
 Sabancı University,Q7395882,TUR
+Salzburg University of Applied Sciences,Q701554,AUT
 Samsung,Q20718,USA
 San Jose State University,Q498526,USA
 Santa Clara University,Q992830,USA
@@ -308,6 +312,7 @@ Singapore Management University,Q950609,SGP
 Singapore University of Technology and Design,Q11081251,SGP
 Sony Computer Science Laboratories,Q11315182,JPN
 South China University of Technology,Q835366,CHN
+Southern University of Science and Technology,Q7568723,CHN
 Spotify,Q87067874,SWE
 St. Petersburg State University of Film and Television,,RUS
 Stanford University,Q41506,USA
@@ -319,7 +324,7 @@ Sungkyunkwan University,Q41085,KOR
 Swansea University,Q1420500,GBR
 Swedish Institute of Computer Science,Q7654723,SWE
 Swinburne University of Technology,Q787234,AUS
-Swiss Federal Institute of Technology Lausanne,Q262760,CHE
+Swiss Federal Institute of Technology in Lausanne,Q262760,CHE
 Symbian,Q888456,GBR
 Syracuse University,Q617433,USA
 Södertörn University,Q3110979,SWE
@@ -363,6 +368,7 @@ Ulm University,Q835662,DEU
 Ulsan National Institute of Science and Technology,Q484108,KOR
 Ulster University,Q2096524,GBR
 Umeå University,Q1144565,SWE
+Universidade Federal de São Carlos,Q5440482,BRA
 University College Cork,Q1574185,IRL
 University College Dublin,Q1068258,IRL
 University College London,Q193196,GBR
@@ -373,6 +379,7 @@ University of Alberta,Q640694,CAN
 University of Amsterdam,Q214341,NLD
 University of Applied Sciences Potsdam,Q896706,DEU
 University of Applied Sciences Upper Austria,Q1388312,AUT
+University of Applied Sciences in Saarbrücken,Q884111,DEU
 University of Arizona,Q503419,USA
 University of Art and Design Linz,Q1516259,AUT
 University of Athens,Q547867,GRC
