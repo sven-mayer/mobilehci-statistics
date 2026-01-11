@@ -4,12 +4,12 @@
 * Nuno Correia = Research Center in Informatics and Information Technology && NOVA University Lisbon = Romania && Portugal
 
 ## Associate Chair
-* Albrecht Schmidt = University of Duisburg-Essen && Fraunhofer IAIS = Germany && Germany
-* Anne Kaikkonen = Nokia = Finland
-* Barry Brown = University of California, San Diego = United States of America
+* Albrecht Schmidt = University of Duisburg-Essen && Fraunhofer IAIS = Germany && Germany # 0000-0003-3890-1990
+* Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
+* Barry Brown = University of California, San Diego = United States of America # 0000-0002-9710-6607
 * Gavin Doherty = Trinity College Dublin = Ireland
 * Henri ter Hofte = Novay = Netherlands
-* Jesper Kjeldskov = Commonwealth Scientific and Industrial Research Organisation = Australia
+* Jesper Kjeldskov = Commonwealth Scientific and Industrial Research Organisation = Australia # 0000-0001-7990-4229
 * Joaquim Jorge = Instituto de Engenharia de Sistemas e Computadores = Portugal
 * Júlio Abascal = University of the Basque Country = Spain
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776

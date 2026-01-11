@@ -5,18 +5,18 @@
 * Regina Bernhaupt = University of Salzburg = Austria # 0000-0003-3522-5990
 
 ## Associate Chair
-* Alan Chamberlain =  = United Kingdom of Great Britain and Northern Ireland
+* Alan Chamberlain = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
 * Alan Dix =  = United Kingdom of Great Britain and Northern Ireland
-* Albrecht Schmidt =  = Germany
+* Albrecht Schmidt = Fraunhofer IAIS = Germany # 0000-0003-3890-1990
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
 * Andrew Aftelak =  = United Kingdom of Great Britain and Northern Ireland
 * Andrew Sears =  = United States of America
-* Anne Kaikkonen =  = Finland
-* Antti Oulasvirta =  = Finland
+* Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
+* Antti Oulasvirta = University of California, Berkeley = United States of America # 0000-0002-2498-7837
 * Antti Pirhonen =  = Finland
 * Anxo Cereijo Roibas =  = United Kingdom of Great Britain and Northern Ireland
 * Barbara Schmidt-Belz =  = Germany
-* Barry Brown =  = United Kingdom of Great Britain and Northern Ireland
+* Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter =  = Netherlands
 * Bruno van Niman =  = Sweden
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
@@ -44,7 +44,7 @@
 * Hannu K. Koskela =  = Finland
 * Hannu Korhonen =  = Finland
 * Jaakko Lehikoinen =  = Finland
-* Jesper Kjeldskov =  = Denmark
+* Jesper Kjeldskov = Aalborg University = Denmark # 0000-0001-7990-4229
 * Joanna Lumsden = University of New Brunswick = Canada # 0000-0002-8637-7647
 * Joelle Coutaz =  = France
 * Johan Hjelm =  = Sweden
@@ -59,7 +59,7 @@
 * Louise Barkhuus = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-1306-249X
 * Luca Chittaro =  = Italy
 * Luca De Marco =  = Italy
-* Manfred Tscheligi =  = Austria
+* Manfred Tscheligi = University of Salzburg = Austria # 0000-0001-6056-7285
 * Margherita Antona =  = Greece
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Marko Nieminen =  = Finland
@@ -70,9 +70,9 @@
 * Mattias Esbjornsson =  = Sweden
 * Monique Noirhomme =  = Belgium
 * Murray Crease =  = Canada
-* Oskar Juhlin =  = Sweden
+* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
 * Panu Korhonen =  = Finland
-* Parisa Eslambolchilar =  = United Kingdom of Great Britain and Northern Ireland
+* Parisa Eslambolchilar = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4610-1643
 * Pekka Ketola =  = Finland
 * Peter Lonsdale =  = United Kingdom of Great Britain and Northern Ireland
 * Peter Messner =  = Austria
@@ -84,7 +84,7 @@
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Robert Biddle =  = Canada
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
-* Russell Beale =  = United Kingdom of Great Britain and Northern Ireland
+* Russell Beale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9395-1715
 * Sari Kujala =  = Finland
 * Silvia Gabrielli =  = Italy
 * Stefano Burigat = University of Udine = Italy # 0000-0003-1900-6878

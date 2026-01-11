@@ -6,7 +6,7 @@
 * Volker Wulf = University of Siegen && Fraunhofer Institute for Applied Information Technology = Germany && Germany
 
 ## Associate Chair
-* Albrecht Schmidt = University of Duisburg-Essen = Germany
+* Albrecht Schmidt = University of Duisburg-Essen = Germany # 0000-0003-3890-1990
 * Andrea Vitaletti = Sapienza University of Rome = Italy
 * Andreas Lorenz = Fraunhofer Institute for Applied Information Technology = Germany
 * Andreas Zimmermann = Fraunhofer Institute for Applied Information Technology = Germany
@@ -15,7 +15,7 @@
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany
 * Bruno von Niman = vonniman consulting && ETSI Human Factors = France && France
 * Chris Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland
-* Daniel Ashbrook = Georgia Institute of Technology = United States of America
+* Daniel Ashbrook = Georgia Institute of Technology = United States of America # 0000-0002-4326-2110
 * Dominique Guinard = Auto-ID Labs && ETH Zurich = Switzerland && Switzerland
 * Enrico Rukzio = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4213-2226
 * Florian Michahelles = ETH Zurich = Switzerland # 0000-0003-1486-0688
@@ -25,7 +25,7 @@
 * Jan Hess = University of Siegen = Germany
 * Jonice Oliveira = Federal University of Rio de Janeiro = Brazil
 * Ju Hwan Lee = University of Oxford = United Kingdom of Great Britain and Northern Ireland
-* Jörg Müller = University of Münster = Germany
+* Jörg Müller = University of Münster = Germany # 0000-0002-4971-9126
 * Katja Henke = Telekom Innovation Laboratories = Germany
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kevin Ansia Li = University of California, San Diego = United States of America
@@ -34,7 +34,7 @@
 * Margarita Anastassova = CEA, LIST = France
 * Markus Rohde = University of Siegen = Germany
 * Michael Rohs = Telekom Innovation Laboratories && Technical University Berlin = Germany && Germany # 0000-0003-4599-729X
-* Oskar Juhlin = Interactive Institute Stockholm = Sweden
+* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
 * Otthein Herzog = University of Bremen = Germany
 * Patrick Baudisch = Hasso-Plattner-Institut && Microsoft = Germany && Germany # 0000-0002-5005-6868
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland

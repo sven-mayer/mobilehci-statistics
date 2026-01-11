@@ -5,9 +5,9 @@
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899
 
 ## Associate Chair
-* Albrecht Schmidt = Karlsruhe Institute of Technology = Germany
+* Albrecht Schmidt = Karlsruhe Institute of Technology = Germany # 0000-0003-3890-1990
 * Alistair Edwards = University of York = United Kingdom of Great Britain and Northern Ireland
-* Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
+* Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Bruno von Niman = Ericsson = Sweden
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
 * David McGookin = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-0075-983X

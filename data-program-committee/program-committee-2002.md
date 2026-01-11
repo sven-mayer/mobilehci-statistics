@@ -1,12 +1,12 @@
 # MobileHCI 2010
 
 ## Paper Chair
-* Fabio Paterno =  = United Kingdom of Great Britain and Northern Ireland
+* Fabio Paterno =  = Finland
 
 ## Associate Chair
 * Ahmed Seffah = Concordia University = Canada
 * Alan Dix = vfridge limited && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland
-* Albrecht Schmidt = Karlsruhe Institute of Technology = Germany
+* Albrecht Schmidt = Karlsruhe Institute of Technology = Germany # 0000-0003-3890-1990
 * Angel Puerta = RedWhale Software = United States of America
 * Bruno von Niman = Ericsson = Sweden
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
