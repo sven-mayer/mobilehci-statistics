@@ -1,7 +1,7 @@
 # MobileHCI 2010
 
 ## Paper Chair
-* Fabio Paterno =  = Finland
+* Fabio Paterno = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
 
 ## Associate Chair
 * Ahmed Seffah = Concordia University = Canada

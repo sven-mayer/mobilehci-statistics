@@ -97,7 +97,7 @@
 * Enrico Rukzio = University of Duisburg-Essen && University of Lancaster = Germany && United Kingdom of Great Britain and Northern Ireland # 0000-0002-4213-2226
 
 ## nan
-* Fabio Paternò = Istituto di Scienza e Tecnologie dell'Informazione = Italy
+* Fabio Paternò = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
 
 ## nan
 * Florian Michahelles = ETH Zurich = Switzerland # 0000-0003-1486-0688
