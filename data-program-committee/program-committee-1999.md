@@ -6,7 +6,7 @@
 
 ## Associate Chair
 * Bruno von Niman = Ericsson = Sweden
-* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
+* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * Elisa Delgaldo = Cambridge Technology Partners = Japan
 * Judith Ramsay = Nortel = Finland
 * Matt Jones = Middlesex University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373

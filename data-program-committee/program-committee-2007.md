@@ -22,7 +22,7 @@
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
 * Carsten Magerkurth =  = Switzerland
 * Charles van der Mast =  = Netherlands
-* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
+* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * Christopher Lueg =  = Australia
 * Costin Pribeanu =  = Romania
 * DR Morse =  = United Kingdom of Great Britain and Northern Ireland
@@ -49,7 +49,7 @@
 * Joelle Coutaz =  = France
 * Johan Hjelm =  = Sweden
 * John Williamson =  = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8085-7853
-* Jose Rouillard =  = France
+* Jose Rouillard =  = France # 0000-0001-9298-0816
 * Kaisa Väänänen-Vainio-Mattila = Tampere University of Technology = Finland # 0000-0002-3565-6021
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Georgia Institute of Technology = United States of America # 0009-0000-8635-6363
@@ -57,13 +57,13 @@
 * Kristijan Mihalic =  = United States of America
 * Lorna M. Brown =  = United Kingdom of Great Britain and Northern Ireland
 * Louise Barkhuus = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-1306-249X
-* Luca Chittaro =  = Italy
+* Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Luca De Marco =  = Italy
 * Manfred Tscheligi = University of Salzburg = Austria # 0000-0001-6056-7285
 * Margherita Antona =  = Greece
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Marko Nieminen =  = Finland
-* Markus Eisenhauer =  = Germany
+* Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Masood Masoodian =  = New Zealand
 * Matthias Rauterberg =  = Netherlands
 * Matthias Schneider-Hufschmidt =  = Germany
@@ -76,9 +76,8 @@
 * Pekka Ketola =  = Finland
 * Peter Lonsdale =  = United Kingdom of Great Britain and Northern Ireland
 * Peter Messner =  = Austria
-* Philippe Palanque =  = France
+* Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
 * Raquel 0. Prates =  = Brazil
-* Regina Bernhaupt =  = Austria # 0000-0003-3522-5990
 * Reinhard Oppermann =  = Germany
 * Reinhard Sefelin =  = Austria
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012

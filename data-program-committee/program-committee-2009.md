@@ -1,9 +1,9 @@
 # MobileHCI 2009
 
 ## Paper Chair
-* Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany
-* Matthias Jarke = RWTH Aachen University && Fraunhofer Institute for Applied Information Technology = Germany && Germany
-* Volker Wulf = University of Siegen && Fraunhofer Institute for Applied Information Technology = Germany && Germany
+* Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
+* Matthias Jarke = RWTH Aachen University && Fraunhofer Institute for Applied Information Technology = Germany && Germany # 0000-0001-6169-2942
+* Volker Wulf = University of Siegen && Fraunhofer Institute for Applied Information Technology = Germany && Germany # 0000-0002-1214-1551
 
 ## Associate Chair
 * Albrecht Schmidt = University of Duisburg-Essen = Germany # 0000-0003-3890-1990
@@ -16,7 +16,7 @@
 * Bruno von Niman = vonniman consulting && ETSI Human Factors = France && France
 * Chris Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland
 * Daniel Ashbrook = Georgia Institute of Technology = United States of America # 0000-0002-4326-2110
-* Dominique Guinard = Auto-ID Labs && ETH Zurich = Switzerland && Switzerland
+* Dominique Guinard = Auto-ID Labs && ETH Zurich = Switzerland && Switzerland # DATA-0000-0000-0026
 * Enrico Rukzio = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4213-2226
 * Florian Michahelles = ETH Zurich = Switzerland # 0000-0003-1486-0688
 * Giulio Jacucci = Helsinki Institute for Information Technology = Finland
@@ -29,9 +29,9 @@
 * Katja Henke = Telekom Innovation Laboratories = Germany
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kevin Ansia Li = University of California, San Diego = United States of America
-* Kristof Van Laerhoven = Technical University of Darmstadt = Germany
+* Kristof Van Laerhoven = Technical University of Darmstadt = Germany # 0000-0001-5296-5347
 * Lucia Terrenghi = Vodafone = Germany
-* Margarita Anastassova = CEA, LIST = France
+* Margarita Anastassova = CEA, LIST = France # 0000-0001-5552-5283
 * Markus Rohde = University of Siegen = Germany
 * Michael Rohs = Telekom Innovation Laboratories && Technical University Berlin = Germany && Germany # 0000-0003-4599-729X
 * Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
@@ -39,4 +39,4 @@
 * Patrick Baudisch = Hasso-Plattner-Institut && Microsoft = Germany && Germany # 0000-0002-5005-6868
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland
 * Stefan Morley = Drägerwerk AG & Co KGaA = Germany
-* Volkmar Pipek = University of Siegen = Germany
+* Volkmar Pipek = University of Siegen = Germany # 0000-0002-3136-307X

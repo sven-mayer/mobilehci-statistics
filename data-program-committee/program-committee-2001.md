@@ -9,7 +9,7 @@
 * Alistair Edwards = University of York = United Kingdom of Great Britain and Northern Ireland
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Bruno von Niman = Ericsson = Sweden
-* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
+* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * David McGookin = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-0075-983X
 * David Morse = The Open University = United Kingdom of Great Britain and Northern Ireland
 * Iain MacColl = University of Glasgow = United Kingdom of Great Britain and Northern Ireland

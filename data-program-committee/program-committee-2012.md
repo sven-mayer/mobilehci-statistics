@@ -27,7 +27,7 @@
 * Ken Hinckley = Microsoft = United States of America # 0000-0002-4733-4927
 * Kent Lyons = Intel = United States of America # 0009-0000-8635-6363
 * Lars Holmquist = Yahoo = United States of America # 0000-0003-0229-2345
-* Les Nelson = Palo Alto Research Center = United States of America # DATA-0000-0000-0024
+* Les Nelson = Palo Alto Research Center = United States of America # DATA-0000-0000-0029
 * Lynne Baillie = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2514-5981
 * Manfred Tscheligi = University of Salzburg = Austria # 0000-0001-6056-7285
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
