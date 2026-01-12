@@ -8,7 +8,7 @@
 * Adrian David Cheok = National University of Singapore = Singapore
 * Akseli Anttila = Nokia = Finland
 * Alan Chamberlain = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
-* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
+* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
 * Albrecht Schmidt = LMU Munich = Germany # 0000-0003-3890-1990
 * Andrew Aftelak = Motorola = United Kingdom of Great Britain and Northern Ireland
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
@@ -41,12 +41,12 @@
 * Kent Lyons = Georgia Institute of Technology = United States of America # 0009-0000-8635-6363
 * Kori Inkpen = Dalhousie University = Canada
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
-* Margherita Antona = FORTH Institute of Computer Science = Greece
+* Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Masood Masoodian = University of Waikato = New Zealand
 * Matt Jones = University of Waikato = New Zealand # 0000-0001-7657-7373
 * Matthew Chalmers = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
-* Matthias Rauterberg = Eindhoven University of Technology = Netherlands
+* Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X
 * Matthias Schneider-Hufschmidt = Siemens = Germany
 * Michael Pluke = Castle Consulting Ltd. = United Kingdom of Great Britain and Northern Ireland
 * Michele Visciola = FINSA Service Design = Italy

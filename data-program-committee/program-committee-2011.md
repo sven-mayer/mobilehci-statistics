@@ -66,7 +66,7 @@
 * Dominique Guinard = ETH Zurich && SAP Research = Switzerland && Switzerland # DATA-0000-0000-0026
 * Eran Toch = Tel Aviv University = Israel
 * Feng Tian = Institute of Software, Chinese Academy of Sciences = China
-* Florian 'Floyd' Mueller = Stanford University = United States of America
+* Florian 'Floyd' Mueller = Stanford University = United States of America # 0000-0001-6472-3476
 * Gary Marsden = University of Cape Town = South Africa
 * Giulio Jacucci = Helsinki Institute for Information Technology = Finland # 0000-0002-9185-7928
 * Gunnar Stevens = University of Siegen = Germany # 0000-0002-7785-5061
@@ -81,7 +81,7 @@
 * Júlio Abascal = University of the Basque Country = Spain # 0000-0002-6551-1616
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Intel = United States of America # 0009-0000-8635-6363
-* Kevin Ansia Li = AT&T = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0030
+* Kevin Ansia Li = AT&T = United States of America # DATA-0000-0000-0030
 * Lars Erik Holmquist = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # 0000-0003-0229-2345
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Luís Carriço = University of Lisbon = Portugal

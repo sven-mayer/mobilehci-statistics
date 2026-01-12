@@ -148,7 +148,7 @@
 * Marco Loregian = University of Milan-Bicocca = Italy
 * Marco de Sá = University of Lisbon && LaSIGE = Portugal && Portugal # DATA-0000-0000-0016
 * Margarita Anastassova = CREATE-NET = Italy # 0000-0001-5552-5283
-* Margherita Antona = FORTH Institute of Computer Science = Greece
+* Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Maria Beatriz Carmo = University of Lisbon = Portugal
 * Marianna Obrist = University of Salzburg = Austria
 * Marije Teerling = Telematica Instituut = Netherlands
@@ -232,7 +232,7 @@
 * Tiago Guerreiro = Technical University of Lisbon && Technical Superior Institute = Portugal && Portugal
 * Tim Jay = University of Bath = United Kingdom of Great Britain and Northern Ireland
 * Timo Partala = Helsinki Institute for Information Technology = Finland
-* Tom Gross = Bauhaus-Universität Weimar = Germany
+* Tom Gross = Bauhaus-Universität Weimar = Germany # 0000-0001-8353-7388
 * Tomi Heimonen = Tampere University = Finland
 * Trevor Pering = Intel = United States of America # DATA-0000-0000-0027
 * Umar Rashid = University College Dublin = Ireland

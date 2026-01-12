@@ -19,7 +19,7 @@
 * Adrian David Cheok = Nanyang Technological University = Singapore
 * Akseli Anttila = Nokia = Finland
 * Alan Chamberlain = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
-* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
+* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
 * Albrecht Schmidt = LMU Munich = Germany # 0000-0003-3890-1990
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
 * Andrew Aftelak = Motorola = United States of America
@@ -53,7 +53,7 @@
 * KuenSeong Daniel Su = University of Nottingham = United Kingdom of Great Britain and Northern Ireland
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Manfred Tscheligi = University of Salzburg = Austria # 0000-0001-6056-7285
-* Margherita Antona = FORTH Institute of Computer Science = Greece
+* Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Martin Colbert = Kingston University = United Kingdom of Great Britain and Northern Ireland
 * Masood Masoodian = University of Waikato = New Zealand

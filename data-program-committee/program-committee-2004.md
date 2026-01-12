@@ -5,12 +5,12 @@
 
 ## Program Commitee
 * Alan Chamberlain = Loughborough University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
-* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
+* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
 * Albrecht Schmidt = LMU Munich = Germany # 0000-0003-3890-1990
 * Andrew Sears = University of Maryland = United States of America
 * Andy Cockburn = University of Canterbury = New Zealand
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
-* Antti Pirhonen = University of Jyväskylä = Finland
+* Antti Pirhonen = University of Jyväskylä = Finland # 0000-0003-1701-0734
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter = Philips = Netherlands
 * Bruno von Niman = vonniman consulting = Sweden # DATA-0000-0000-0032
@@ -34,7 +34,7 @@
 * Masood Masoodian = University of Waikato = New Zealand
 * Matt Jones = University of Waikato = New Zealand # 0000-0001-7657-7373
 * Matthew Chalmers = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
-* Matthias Rauterberg = Eindhoven University of Technology = Netherlands
+* Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X
 * Matthias Schneider-Hufschmidt = Siemens = Germany
 * Murray Crease = National Research Council Canada = Canada
 * Panu Korhonen = Nokia = Finland
@@ -49,5 +49,5 @@
 * Simon Holland = The Open University = United Kingdom of Great Britain and Northern Ireland
 * Steve Jones = University of Waikato = New Zealand
 * Thomas Rist = German Research Center for Artificial Intelligence = Germany
-* Tom Gross = Bauhaus-Universität Weimar = Germany
+* Tom Gross = Bauhaus-Universität Weimar = Germany # 0000-0001-8353-7388
 * Vuokko Lantz = Nokia = Finland
