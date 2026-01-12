@@ -15,7 +15,7 @@
 * Antti Oulasvirta = University of California, Berkeley = United States of America # 0000-0002-2498-7837
 * Antti Pirhonen =  = Finland
 * Anxo Cereijo Roibas =  = United Kingdom of Great Britain and Northern Ireland
-* Barbara Schmidt-Belz =  = Germany
+* Barbara Schmidt-Belz =  = Germany # DATA-0000-0000-0033
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter =  = Netherlands
 * Bruno van Niman =  = Sweden
@@ -40,7 +40,7 @@
 * Gary Marsden =  = South Africa
 * George Buchanan =  = United Kingdom of Great Britain and Northern Ireland
 * Gilbert Cockton =  = United Kingdom of Great Britain and Northern Ireland
-* Giulio Jacucci =  = Finland
+* Giulio Jacucci =  = Finland # 0000-0002-9185-7928
 * Hannu K. Koskela =  = Finland
 * Hannu Korhonen =  = Finland
 * Jaakko Lehikoinen =  = Finland

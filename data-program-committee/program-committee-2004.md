@@ -13,7 +13,7 @@
 * Antti Pirhonen = University of Jyväskylä = Finland
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter = Philips = Netherlands
-* Bruno von Niman = vonniman consulting = Sweden
+* Bruno von Niman = vonniman consulting = Sweden # DATA-0000-0000-0032
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * Chris Schmandt = MIT MediaLab = United States of America
 * Daniel Salber = IBM = United States of America

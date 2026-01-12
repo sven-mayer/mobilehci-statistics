@@ -51,7 +51,7 @@
 * Aaron Quigley = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5274-6889
 * Amit A Nanavati = IBM = India
 * Andreas Bulling = University of Cambridge && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland
-* Andreas Lorenz = RWTH Aachen University = Germany
+* Andreas Lorenz = RWTH Aachen University = Germany # 0000-0002-2498-1806
 * Anind Dey = Carnegie Mellon University = United States of America
 * Barry Brown = University of California, San Diego = United States of America # 0000-0002-9710-6607
 * Björn Hartmann = University of California, Berkeley = United States of America
@@ -68,11 +68,11 @@
 * Feng Tian = Institute of Software, Chinese Academy of Sciences = China
 * Florian 'Floyd' Mueller = Stanford University = United States of America
 * Gary Marsden = University of Cape Town = South Africa
-* Giulio Jacucci = Helsinki Institute for Information Technology = Finland
+* Giulio Jacucci = Helsinki Institute for Information Technology = Finland # 0000-0002-9185-7928
 * Gunnar Stevens = University of Siegen = Germany # 0000-0002-7785-5061
 * Heli Väätäjä = Tampere University of Technology = Finland
 * Ian Oakley = University of Madeira = Portugal # 0000-0001-5834-8577
-* Ingrid Mulder = Delft University of Technology && Rotterdam University = Netherlands && Netherlands
+* Ingrid Mulder = Delft University of Technology && Rotterdam University = Netherlands && Netherlands # 0000-0003-1043-1341
 * Jakob Tholander = Mobile Life Center && Stockholm University = Sweden && Sweden
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
 * Joe McCarthy = University of Washington Tacoma = United States of America
@@ -81,11 +81,11 @@
 * Júlio Abascal = University of the Basque Country = Spain # 0000-0002-6551-1616
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Intel = United States of America # 0009-0000-8635-6363
-* Kevin Ansia Li = AT&T = United Kingdom of Great Britain and Northern Ireland
+* Kevin Ansia Li = AT&T = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0030
 * Lars Erik Holmquist = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # 0000-0003-0229-2345
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Luís Carriço = University of Lisbon = Portugal
-* Marc Langheinrich = Università della Svizzera italiana = Switzerland
+* Marc Langheinrich = Università della Svizzera italiana = Switzerland # 0000-0002-8834-7388
 * Marco de Sá = Yahoo = United States of America # DATA-0000-0000-0016
 * Mark Billinghurst = University of Canterbury = New Zealand
 * Mark Perry = Brunel University London && Stockholm University = United Kingdom of Great Britain and Northern Ireland && Sweden # 0000-0003-1573-1255
@@ -97,7 +97,7 @@
 * Nuno Guimarães = University of Lisbon = Portugal # 0000-0001-9168-5188
 * Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Petra Sundström = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # DATA-0000-0000-0025
-* Petteri Nurmi = Helsinki Institute for Information Technology = Finland
+* Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
 * Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && Université de Toulouse = France && France # 0000-0002-5381-971X
 * Raimund Dachselt = University of Magdeburg = Germany
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990

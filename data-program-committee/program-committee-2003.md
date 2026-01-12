@@ -10,7 +10,7 @@
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Boris de Ruyter = Philips = Netherlands
 * Brad Myers = Carnegie Mellon University = United States of America
-* Bruno von Niman = Ericsson = Sweden
+* Bruno von Niman = Ericsson = Sweden # DATA-0000-0000-0032
 * Chris Schmandt = Massachusetts Institute of Technology = United States of America
 * Constantine Stephanidis = FORTH Institute of Computer Science = Greece
 * Daniel Salber = IBM = United States of America

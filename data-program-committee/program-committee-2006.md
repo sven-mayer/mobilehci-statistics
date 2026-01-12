@@ -27,7 +27,7 @@
 * Antti Salovaara = Helsinki Institute for Information Technology = Finland
 * Anxo Cereijo Roibas = University of Brighton = United Kingdom of Great Britain and Northern Ireland
 * Asa Rudström = Swedish Institute of Computer Science = Sweden
-* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany
+* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
 * Boris de Ruyter = Philips = Netherlands
 * Charles van der Mast = Delft University of Technology = Netherlands
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605

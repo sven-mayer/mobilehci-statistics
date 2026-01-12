@@ -8,7 +8,6 @@
 * Alan Dix = University of Lancaster && vfridge limited = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland
 * Albrecht Schmidt = Karlsruhe Institute of Technology = Germany # 0000-0003-3890-1990
 * Angel Puerta = RedWhale Software = United States of America
-* Bruno von Niman = Ericsson = Sweden
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
 * Constantine Stephanidis = FORTH Institute of Computer Science = Greece
 * Dan Olsen = Brigham Young University = United States of America

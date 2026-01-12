@@ -14,10 +14,10 @@
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Anxo Cereijo Roibas = University of Brighton = United Kingdom of Great Britain and Northern Ireland
 * Asa Rudström = Swedish Institute of Computer Science = Sweden
-* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany
+* Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter = Philips = Netherlands
-* Bruno von Niman = vonniman consulting && ETSI = Sweden && Sweden
+* Bruno von Niman = vonniman consulting && ETSI = Sweden && Sweden # DATA-0000-0000-0032
 * Charles van der Mast = Delft University of Technology = Netherlands
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * Costin Pribeanu = ICI Bucuresti = Romania

@@ -5,7 +5,7 @@
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899
 
 ## Associate Chair
-* Bruno von Niman = Ericsson = Sweden
+* Bruno von Niman = Ericsson = Sweden # DATA-0000-0000-0032
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
 * Elisa Delgaldo = Cambridge Technology Partners = Japan
 * Judith Ramsay = Nortel = Finland

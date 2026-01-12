@@ -14,14 +14,14 @@
 * Amnon Dekel = Hebrew University of Jerusalem = Israel
 * Amyris Fernandez = Fundação Getúlio Vargas l = Brazil
 * Ana Paula Afonso = University of Lisbon = Portugal
-* Andrea Vitaletti = Sapienza University of Rome = Italy
+* Andrea Vitaletti = Sapienza University of Rome = Italy # 0000-0003-1074-5068
 * Andreas Holzinger = Research Unit HCI4MED, Insitute of Medical Informatics, Statistics and Documenta = Austria
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
-* Andreas Lorenz = Fraunhofer Institute for Applied Information Technology = Germany
+* Andreas Lorenz = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-2498-1806
 * Andrew Aftelak = Motorola = United States of America
 * Anirudha Joshi = Indian Institute of Technology Bombay = India # 0000-0002-1413-7329
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
-* Ansar-Ul-Haque Yasar = KU Leuven = Belgium
+* Ansar-Ul-Haque Yasar = KU Leuven = Belgium # 0000-0002-1542-2658
 * Antonio M. Peinado = University of Granada = Spain
 * Arjan Geven = CURE - Center for Usability, Research Engineering = Austria
 * Artur Lugmayr = Tampere University of Technology = Finland
@@ -31,7 +31,7 @@
 * Aznoora Osman = MARA University of Technology = Malaysia
 * Ben Gross = University of Illinois Urbana-Champaign = United States of America
 * Borja Bonail = UPV/EHU = Spain
-* Bruno von Niman = vonniman consulting && ETSI Human Factors = Sweden && Sweden
+* Bruno von Niman = vonniman consulting && ETSI Human Factors = Sweden && Sweden # DATA-0000-0000-0032
 * Carlos Duarte = University of Lisbon = Portugal
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
 * Cathal G Gurrin = Dublin City University = Ireland
@@ -95,7 +95,7 @@
 * Hsueh-hua Chen = Nanyang Technological University = Singapore
 * Huseyin Hacihabiboglu = King's College London = United Kingdom of Great Britain and Northern Ireland
 * Ingrid Erickson = Stanford University = United States of America
-* Ingrid Mulder = Rotterdam University = Netherlands
+* Ingrid Mulder = Rotterdam University = Netherlands # 0000-0003-1043-1341
 * Jaakko Hakulinen = Tampere University = Finland
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
 * Jan Willem Streefkerk = TNO = Netherlands
@@ -110,11 +110,11 @@
 * John Tang = IBM = United States of America # 0000-0003-0603-3877
 * Joke Kort = TNO = Netherlands
 * Jonathan Kies = Qualcomm = United States of America
-* Jonice Oliveira = COPPE/UFRJ = Brazil
+* Jonice Oliveira = COPPE/UFRJ = Brazil # 0000-0002-2495-1463
 * Joost Broekens = Delft University of Technology = Netherlands
 * Jose Rouillard = LIFL = France # 0000-0001-9298-0816
 * Josef Hallberg = Luleå University of Technology = Sweden
-* Ju Hwan Lee = University of Oxford = United Kingdom of Great Britain and Northern Ireland
+* Ju Hwan Lee = University of Oxford = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9368-3220
 * Juan Antonio Alvarez Garcia = University of Seville = Spain
 * Judith Symonds = Auckland University of Technology = New Zealand
 * Julien Pauty = KU Leuven = Belgium
@@ -194,7 +194,7 @@
 * Peter Fröhlich = Vienna Telecommunications Research Center = Austria
 * Peter Messner = Bwin Interactive Entertainment = Austria
 * Peter Tarasewich = Suffolk University = United States of America
-* Petteri Nurmi = Helsinki Institute for Information Technology = Finland
+* Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
 * Philipp Fischer = Daimler AG = Germany
 * Prabu Dorairaj = Wipro Technologies, Bangalore = India
 * Radu-Daniel Vatavu = Ștefan cel Mare University of Suceava = Romania # 0000-0002-7631-6445
