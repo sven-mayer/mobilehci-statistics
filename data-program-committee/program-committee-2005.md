@@ -32,7 +32,7 @@
 * Gilbert Cockton = University of Sunderland = United Kingdom of Great Britain and Northern Ireland
 * Giorgio De Michelis = University of Milan-Bicocca = Italy
 * Hannu Korhonen = Nokia = Finland
-* Jean Vanderdonckt = University of Louvain = Belgium
+* Jean Vanderdonckt = University of Louvain = Belgium # 0000-0003-3275-3333
 * Jim Miller = Miramontes Computing = United States of America
 * Joanna Lumsden = National Research Council Canada = Canada # 0000-0002-8637-7647
 * Johan Hjelm = Ericsson = Sweden
@@ -63,7 +63,7 @@
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Reinhard Sefelin = CURE = Austria
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
-* Robert Biddle = Carleton University = Canada
+* Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Russell Beale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9395-1715
 * Scott Weiss = Usable Products Company = United States of America

@@ -38,7 +38,7 @@
 * Fabio Patern6 =  = Italy
 * Florian Floyd Mueller = University of Melbourne = Australia # 0000-0001-6472-3476
 * Gary Marsden =  = South Africa
-* George Buchanan =  = United Kingdom of Great Britain and Northern Ireland
+* George Buchanan =  = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9044-6644
 * Gilbert Cockton =  = United Kingdom of Great Britain and Northern Ireland
 * Giulio Jacucci =  = Finland # 0000-0002-9185-7928
 * Hannu K. Koskela =  = Finland
@@ -62,7 +62,7 @@
 * Manfred Tscheligi = University of Salzburg = Austria # 0000-0001-6056-7285
 * Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
-* Marko Nieminen =  = Finland
+* Marko Nieminen =  = Finland # 0000-0002-1892-3933
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Masood Masoodian =  = New Zealand
 * Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X
@@ -81,7 +81,7 @@
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Reinhard Sefelin =  = Austria
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
-* Robert Biddle =  = Canada
+* Robert Biddle =  = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Russell Beale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9395-1715
 * Sari Kujala =  = Finland

@@ -3,7 +3,7 @@
 ## Paper Chair
 * Antti Oulasvirta = Helsinki Institute for Information Technology = Finland # 0000-0002-2498-7837
 * Kaisa Väänänen-Vainio-Mattila = Tampere University of Technology = Finland # 0000-0002-3565-6021
-* Marko Nieminen = Helsinki University of Technology = Finland
+* Marko Nieminen = Helsinki University of Technology = Finland # 0000-0002-1892-3933
 * Mika Röykkee = Nokia = Finland
 * Timo Jokela = University of Oulu = Finland
 
@@ -24,7 +24,7 @@
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
 * Andrew Aftelak = Motorola = United States of America
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
-* Antti Salovaara = Helsinki Institute for Information Technology = Finland
+* Antti Salovaara = Helsinki Institute for Information Technology = Finland # 0000-0001-7260-8670
 * Anxo Cereijo Roibas = University of Brighton = United Kingdom of Great Britain and Northern Ireland
 * Asa Rudström = Swedish Institute of Computer Science = Sweden
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
@@ -41,7 +41,7 @@
 * Giorgio De Michelis = University of Milan-Bicocca = Italy
 * Hannu Korhonen = Nokia = Finland
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
-* Jean Vanderdonckt = Université catholique de Louvain = Belgium
+* Jean Vanderdonckt = Université catholique de Louvain = Belgium # 0000-0003-3275-3333
 * Jesper Kjeldskov = Aalborg University = Denmark # 0000-0001-7990-4229
 * Joanna Lumsden = National Research Council Canada = Canada # 0000-0002-8637-7647
 * Jonna Häkkilä = Nokia = Finland # 0000-0003-2172-6233
@@ -68,7 +68,7 @@
 * Peter Messner = Bwin Interactive Entertainment = Austria
 * Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
-* Robert Biddle = Carleton University = Canada
+* Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Sami Ronkainen = Nokia = Finland
 * Satu Kalliokulju = Nokia = Finland

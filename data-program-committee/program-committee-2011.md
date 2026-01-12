@@ -50,13 +50,13 @@
 * A.J. Bernheim Brush = Microsoft = United States of America
 * Aaron Quigley = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5274-6889
 * Amit A Nanavati = IBM = India
-* Andreas Bulling = University of Cambridge && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland
+* Andreas Bulling = University of Cambridge && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland # 0000-0001-6317-7303
 * Andreas Lorenz = RWTH Aachen University = Germany # 0000-0002-2498-1806
-* Anind Dey = Carnegie Mellon University = United States of America
+* Anind Dey = Carnegie Mellon University = United States of America # 0000-0002-3004-0770
 * Barry Brown = University of California, San Diego = United States of America # 0000-0002-9710-6607
 * Björn Hartmann = University of California, Berkeley = United States of America
 * Carl Gutwin = University of Saskatchewan = Canada
-* Chris Harrison = Carnegie Mellon University = United States of America
+* Chris Harrison = Carnegie Mellon University = United States of America # 0000-0001-5312-3619
 * Christian Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
 * Christopher Lueg = University of Tasmania = Australia
 * Costin Pribeanu = National Institute for Research & Development in Informatics = Romania
@@ -64,7 +64,7 @@
 * David Nichols = University of Waikato = New Zealand
 * Dearman David = University of Toronto = Canada
 * Dominique Guinard = ETH Zurich && SAP Research = Switzerland && Switzerland # DATA-0000-0000-0026
-* Eran Toch = Tel Aviv University = Israel
+* Eran Toch = Tel Aviv University = Israel # 0000-0001-6939-5870
 * Feng Tian = Institute of Software, Chinese Academy of Sciences = China
 * Florian 'Floyd' Mueller = Stanford University = United States of America # 0000-0001-6472-3476
 * Gary Marsden = University of Cape Town = South Africa
@@ -73,7 +73,7 @@
 * Heli Väätäjä = Tampere University of Technology = Finland
 * Ian Oakley = University of Madeira = Portugal # 0000-0001-5834-8577
 * Ingrid Mulder = Delft University of Technology && Rotterdam University = Netherlands && Netherlands # 0000-0003-1043-1341
-* Jakob Tholander = Mobile Life Center && Stockholm University = Sweden && Sweden
+* Jakob Tholander = Mobile Life Center && Stockholm University = Sweden && Sweden # 0000-0002-2782-9500
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
 * Joe McCarthy = University of Washington Tacoma = United States of America
 * Jonna Häkkilä = Nokia = Finland # 0000-0003-2172-6233
@@ -99,14 +99,14 @@
 * Petra Sundström = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # DATA-0000-0000-0025
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
 * Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && Université de Toulouse = France && France # 0000-0002-5381-971X
-* Raimund Dachselt = University of Magdeburg = Germany
+* Raimund Dachselt = University of Magdeburg = Germany # 0000-0002-2176-876X
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Rui José = University of Minho = Portugal
 * Sara Ljungblad = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden
 * Sergio F. Ochoa = University of Chile = Chile
 * Sukeshini A. Grandhi = RWTH Aachen University = Germany
-* Sunny Consolvo = Intel = United States of America
+* Sunny Consolvo = Intel = United States of America # 0000-0001-5337-328X
 * Susanne Boll = University of Oldenburg = Germany # 0000-0003-4293-1623
 * Timothy Sohn = Nokia = United States of America
 * Volkmar Pipek = University of Siegen = Germany # 0000-0002-3136-307X

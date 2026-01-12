@@ -4,12 +4,12 @@
 * Boris de Ruyter = Philips = Netherlands
 
 ## Program Commitee
-* Abdullah Al Mahmud = Eindhoven University of Technology = Netherlands
+* Abdullah Al Mahmud = Eindhoven University of Technology = Netherlands # 0000-0002-2801-723X
 * Adam Sporka = University of Trento = Italy
 * Adriana Reveiu = Bucharest University of Economic Studies = Romania
 * Alessandro Mulloni = Graz University of Technology = Austria # DATA-0000-0000-0023
 * Alex Woolley = PDR International Centre for Design and Research = United Kingdom of Great Britain and Northern Ireland
-* Alexander Meschtscherjakov = University of Salzburg = Austria
+* Alexander Meschtscherjakov = University of Salzburg = Austria # 0000-0001-8116-4522
 * Amanda Spink = Fraunhofer Institute for Applied Information Technology = Australia
 * Amnon Dekel = Hebrew University of Jerusalem = Israel
 * Amyris Fernandez = Fundação Getúlio Vargas l = Brazil
@@ -32,7 +32,7 @@
 * Ben Gross = University of Illinois Urbana-Champaign = United States of America
 * Borja Bonail = UPV/EHU = Spain
 * Bruno von Niman = vonniman consulting && ETSI Human Factors = Sweden && Sweden # DATA-0000-0000-0032
-* Carlos Duarte = University of Lisbon = Portugal
+* Carlos Duarte = University of Lisbon = Portugal # 0000-0003-1370-5379
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
 * Cathal G Gurrin = Dublin City University = Ireland
 * Chad Sampanes = Oracle Corporation = United States of America
@@ -46,14 +46,14 @@
 * Daniel Porta = German Research Center for Artificial Intelligence = Germany
 * Daniel Salber = Joost Technologies B.V. = Netherlands
 * Daniel Su = University of Nottingham = Malaysia
-* Daniel Wigdor = Mitsubishi Electric Research Laboratories && University of Toronto = United States of America && United States of America
+* Daniel Wigdor = Mitsubishi Electric Research Laboratories && University of Toronto = United States of America && United States of America # 0000-0003-2008-7070
 * David Langley = TNO = Netherlands
 * David Merrill = Massachusetts Institute of Technology = United States of America
 * Davy Preuveneers = KU Leuven = Belgium
 * Dean Eckles = Nokia = United States of America
 * Dennis Krannich = University of Bremen = Germany
 * Dhaval Joshi = Motorola = India
-* Dhaval Vyas = University of Twente = Netherlands
+* Dhaval Vyas = University of Twente = Netherlands # 0000-0002-9356-0976
 * Dirk Jan Hoets = Flipside = Netherlands
 * Doguhan Uluca = Meridium, Inc. = United States of America
 * Dominique Guinard = Auto-ID Labs, ETH Zurich = Switzerland # DATA-0000-0000-0026
@@ -72,9 +72,9 @@
 * Evelijne Hart De Ruijter = Philips = Netherlands
 * Eyhab Al-masri = University of Guelph = Canada
 * Fabio Paterno = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
-* Feng Liu = Mercer University = United States of America
+* Feng Liu = Mercer University = United States of America # 0000-0002-5289-5761
 * Fotis Liarokapis = Coventry University = United Kingdom of Great Britain and Northern Ireland
-* Franca Garzotto = HOC Lab, Dept of electronics and information, POLITECNICO DI MILANO = Italy
+* Franca Garzotto = HOC Lab, Dept of electronics and information, POLITECNICO DI MILANO = Italy # 0000-0003-4905-7166
 * Garrett Weinberg = Mitsubishi Electric Research Laboratories = United States of America
 * Geerten van de Kaa = Rotterdam University = Netherlands
 * Giorgio De Michelis = University of Milan-Bicocca = Italy
@@ -102,7 +102,7 @@
 * Janet Wesson = Nelson Mandela University = South Africa
 * Janne Lindqvist = Helsinki University of Technology = Finland # 0000-0002-8659-2283
 * Janny Stapel = Eindhoven University of Technology = Netherlands
-* Jean Vanderdonckt = Université catholique de Louvain = Belgium
+* Jean Vanderdonckt = Université catholique de Louvain = Belgium # 0000-0003-3275-3333
 * Jettie Hoonhout = Philips = Netherlands
 * Jhilmil Jain = Hewlett-Packard = United States of America
 * Joanna Lumsden = National Research Council Canada = Canada # 0000-0002-8637-7647
@@ -127,7 +127,7 @@
 * Kent Lyons = Intel = United States of America # 0009-0000-8635-6363
 * Kevin Li = University of California, San Diego = United States of America
 * Khaled Khankan = University of Technology Sydney = Australia
-* Koji Yatani = University of Toronto = Canada
+* Koji Yatani = University of Toronto = Canada # 0000-0003-4192-0420
 * Konstantinos Kazakos = University of Houston = United States of America
 * Kris Mihalic = Yahoo = United States of America
 * Krishna Bakthavathsalu = Dalhousie University = Canada
@@ -150,7 +150,7 @@
 * Margarita Anastassova = CREATE-NET = Italy # 0000-0001-5552-5283
 * Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Maria Beatriz Carmo = University of Lisbon = Portugal
-* Marianna Obrist = University of Salzburg = Austria
+* Marianna Obrist = University of Salzburg = Austria # 0000-0002-4009-1627
 * Marije Teerling = Telematica Instituut = Netherlands
 * Marinus Maris = TNO = Netherlands
 * Mario Chiesa = ismb = Italy
@@ -173,7 +173,7 @@
 * Michelle Montgomery Masters = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland
 * Miguel Ángel Conde González = Universidad de Salamanca = Spain
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
-* Mikko Rajanen = University of Oulu = Finland
+* Mikko Rajanen = University of Oulu = Finland # 0000-0002-3281-7029
 * Mohamed Sheik-nainar = Synaptics Inc = United States of America
 * Muhanna Muhanna = CSE Department. UNR = United States of America
 * Myoung Hoon Jeon = LG Electronics = Korea, Republic of
@@ -187,7 +187,7 @@
 * Nwanua Onochie Elumeze = University of Colorado Boulder = United States of America
 * Ohad Inbar = Ben-Gurion University of the Negev = Israel
 * Olufisayo Omojokun = Georgia Institute of Technology = United States of America
-* Panos Markopoulos = Eindhoven University of Technology = Netherlands
+* Panos Markopoulos = Eindhoven University of Technology = Netherlands # 0000-0002-2001-7251
 * Paul Coulton = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
 * Paul Hekkert = Delft University of Technology = Netherlands
 * Paul Holleis = University of Duisburg-Essen = Germany # DATA-0000-0000-0017
@@ -199,7 +199,7 @@
 * Prabu Dorairaj = Wipro Technologies, Bangalore = India
 * Radu-Daniel Vatavu = Ștefan cel Mare University of Suceava = Romania # 0000-0002-7631-6445
 * Rahat Iqbal = Coventry University = United Kingdom of Great Britain and Northern Ireland
-* Raphael Wimmer = LMU Munich = Germany
+* Raphael Wimmer = LMU Munich = Germany # 0000-0001-5162-5113
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
 * Richard Arthur = Brigham Young University = United States of America
 * Robbie Schaefer = Universitaet Paderborn = Germany
@@ -219,17 +219,17 @@
 * Stavros Kammas = University of the Aegean = Greece
 * Stefan Carmien = Fraunhofer Institute for Applied Information Technology = Germany
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899
-* Stephen Viller = University of Queensland = Australia
+* Stephen Viller = University of Queensland = Australia # 0000-0003-1954-5441
 * Steven Strachan = Hamilton Institute = Ireland
 * Stuart Rose = Pacific Northwest National Laboratory = United States of America
-* Suleman Shahid = Tilburg University = Netherlands
+* Suleman Shahid = Tilburg University = Netherlands # 0000-0001-9951-3188
 * Syahrul Junaini = Universiti Malaysia Sarawak = Malaysia
 * Takahiro Hara = Osaka University = Japan
 * Tanja Krakowski = FH Potsdam = Germany
-* Teija Vainio = Tampere University of Technology = Finland
+* Teija Vainio = Tampere University of Technology = Finland # 0000-0003-0868-6281
 * Tetsuji Takada = National Institute of Advanced Industrial Science and Technology = Japan
 * Thierry Bodhuin = University of Sannio = Italy
-* Tiago Guerreiro = Technical University of Lisbon && Technical Superior Institute = Portugal && Portugal
+* Tiago Guerreiro = Technical University of Lisbon && Technical Superior Institute = Portugal && Portugal # 0000-0002-0333-5792
 * Tim Jay = University of Bath = United Kingdom of Great Britain and Northern Ireland
 * Timo Partala = Helsinki Institute for Information Technology = Finland
 * Tom Gross = Bauhaus-Universität Weimar = Germany # 0000-0001-8353-7388
@@ -245,7 +245,7 @@
 * Wonkyu Park = Pohang University of Science and Technology = Korea, Republic of
 * Xianghua (Sharon) Ding = UC, Irvine = United States of America # 0000-0001-8122-6252
 * Yalda Farazmand = MSc Student = Netherlands
-* Yan Xu = Georgia Institute of Technology = United States of America
+* Yan Xu = Georgia Institute of Technology = United States of America # 0009-0005-3890-9847
 * Yanqing Cui = Nokia = Finland
 * Ying Liu = Nokia = China
 * Ylva Fernaeus = Swedish Institute of Computer Science = Sweden # 0000-0002-3972-9689

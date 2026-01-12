@@ -27,7 +27,7 @@
 * Joelle Coutaz = CLIPS IMAG = France
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Ken Hinckley = Microsoft = United States of America # 0000-0002-4733-4927
-* Laurence Nigay = CLIPS IMAG = France
+* Laurence Nigay = CLIPS IMAG = France # 0000-0002-4854-626X
 * Lorna M Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Manfred Tscheligi = CURE = Austria # 0000-0001-6056-7285
@@ -43,7 +43,7 @@
 * Peter Lonsdale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland
 * Philip Gray = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
-* Robert Biddle = Carleton University = Canada
+* Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Russell Beale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9395-1715
 * Simon Holland = The Open University = United Kingdom of Great Britain and Northern Ireland

@@ -12,11 +12,11 @@
 * Constantine Stephanidis = Foundation for Research and Technology - Hellasw = Greece
 * Dan Olsen = Brigham Young University = United States of America # 0000-0002-6988-9595
 * Daniel Salber = IBM = United States of America
-* Jean Vanderdonckt = University of Louvain = Belgium
+* Jean Vanderdonckt = University of Louvain = Belgium # 0000-0003-3275-3333
 * Joelle Coutaz = Grenoble Alpes University = France
 * Kaisa Väänänen = Nokia = Finland # 0000-0002-3565-6021
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
-* Laurence Nigay = Grenoble Alpes University = France
+* Laurence Nigay = Grenoble Alpes University = France # 0000-0002-4854-626X
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Mary Czerwinski = Microsoft = United States of America
