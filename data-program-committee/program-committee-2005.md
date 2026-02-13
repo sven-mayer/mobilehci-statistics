@@ -59,7 +59,7 @@
 * Pekka Ketola = Nokia = Finland
 * Peter Messner = USECON = Austria
 * Petra Sundström = Swedish Institute of Computer Science = Sweden # DATA-0000-0000-0025
-* Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
+* Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Reinhard Sefelin = CURE = Austria
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012

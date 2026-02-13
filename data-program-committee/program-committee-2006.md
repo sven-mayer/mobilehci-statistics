@@ -66,7 +66,7 @@
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland
 * Pekka Ketola = Nokia = Finland
 * Peter Messner = Bwin Interactive Entertainment = Austria
-* Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
+* Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962

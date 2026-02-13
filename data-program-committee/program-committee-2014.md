@@ -8,7 +8,7 @@
 * Alexander De Luca = LMU Munich = Germany # DATA-0000-0000-0002
 * Alireza Sahami Shirazi = University of Stuttgart = Germany # DATA-0000-0000-0005
 * Antonio Krüger = German Research Center for Artificial Intelligence && Saarland University = Germany && Germany # 0000-0002-8055-8367
-* Antti Oulasvirta = Max Planck Institute = Germany # 0000-0002-2498-7837
+* Antti Oulasvirta = Max Planck Institute for Informatics = Germany # 0000-0002-2498-7837
 * Audrey Girouard = Carleton University = Canada # 0000-0003-3223-105X
 * Daniel Spelmezan = University of Bristol = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0019
 * David Kirk = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2776-0643

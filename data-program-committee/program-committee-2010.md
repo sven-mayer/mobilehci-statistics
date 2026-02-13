@@ -19,7 +19,7 @@
 * Nuno Guimarães = University of Lisbon = Portugal # 0000-0001-9168-5188
 * Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Peter Forbrig = University of Rostock = Germany # 0000-0003-3427-0909
-* Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
+* Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899

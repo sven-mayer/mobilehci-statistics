@@ -11,7 +11,7 @@
 * Anne Roudaut = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-5078-8498
 * Anthony Tang = University of Calgary = Canada # 0000-0003-4293-4082
 * Antonio Krüger = Saarland University && German Research Center for Artificial Intelligence = Germany && Germany # 0000-0002-8055-8367
-* Antti Oulasvirta = Max Planck Institute = Germany # 0000-0002-2498-7837
+* Antti Oulasvirta = Max Planck Institute for Informatics = Germany # 0000-0002-2498-7837
 * Barry Brown = Stockholm University = Sweden # 0000-0002-9710-6607
 * Christian Holz = Hasso-Plattner-Institut = Germany # 0000-0001-9655-9519
 * Derek Reilly = Dalhousie University = Canada # 0000-0003-4960-8757

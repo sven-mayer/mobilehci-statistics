@@ -10,7 +10,7 @@
 * Alessandro Mulloni = Graz University of Technology = Austria # DATA-0000-0000-0023
 * Anne Roudaut = Hasso-Plattner-Institut = Germany # 0000-0001-5078-8498
 * Antonio Krüger = German Research Center for Artificial Intelligence && Saarland University = Germany && Germany # 0000-0002-8055-8367
-* Antti Oulasvirta = Max Planck Institute = Germany # 0000-0002-2498-7837
+* Antti Oulasvirta = Max Planck Institute for Informatics = Germany # 0000-0002-2498-7837
 * Barry Brown = Mobile Life Center = Sweden # 0000-0002-9710-6607
 * Daniel Ashbrook = Nokia = United States of America # 0000-0002-4326-2110
 * David Dearman = Nokia = United States of America # DATA-0000-0000-0024

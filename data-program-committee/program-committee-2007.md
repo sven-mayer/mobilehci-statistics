@@ -1,4 +1,4 @@
-# MobileHCI 2009
+# MobileHCI 2007
 
 ## Paper Chair
 * Matt Jones = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373
@@ -76,7 +76,7 @@
 * Pekka Ketola =  = Finland
 * Peter Lonsdale =  = United Kingdom of Great Britain and Northern Ireland
 * Peter Messner =  = Austria
-* Philippe Palanque = Toulouse III University - Paul-Sabatier = France # 0000-0002-5381-971X
+* Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Raquel 0. Prates =  = Brazil
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
 * Reinhard Sefelin =  = Austria

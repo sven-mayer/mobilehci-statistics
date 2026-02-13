@@ -10,7 +10,7 @@
 * Alessandro Mulloni = Graz University of Technology = Austria # DATA-0000-0000-0023
 * Alex Woolley = PDR International Centre for Design and Research = United Kingdom of Great Britain and Northern Ireland
 * Alexander Meschtscherjakov = University of Salzburg = Austria # 0000-0001-8116-4522
-* Amanda Spink = Fraunhofer Institute for Applied Information Technology = Australia
+* Amanda Spink = Queensland University of Technology = Australia
 * Amnon Dekel = Hebrew University of Jerusalem = Israel
 * Amyris Fernandez = Fundação Getúlio Vargas l = Brazil
 * Ana Paula Afonso = University of Lisbon = Portugal
@@ -38,7 +38,7 @@
 * Chad Sampanes = Oracle Corporation = United States of America
 * Chris Schreiner = Motorola = United States of America
 * Christian Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
-* Christine Satchell = Fraunhofer Institute for Applied Information Technology && University of Melbourne = Australia && Australia
+* Christine Satchell = Queensland University of Technology && University of Melbourne = Australia && Australia
 * Christoph Stahl = Saarland University = Germany
 * Christopher Lueg = University of Tasmania = Australia
 * Costin Pribeanu = ICI Bucuresti = Romania
@@ -46,7 +46,7 @@
 * Daniel Porta = German Research Center for Artificial Intelligence = Germany
 * Daniel Salber = Joost Technologies B.V. = Netherlands
 * Daniel Su = University of Nottingham = Malaysia
-* Daniel Wigdor = Mitsubishi Electric Research Laboratories && University of Toronto = United States of America && United States of America # 0000-0003-2008-7070
+* Daniel Wigdor = Mitsubishi Electric && University of Toronto = United States of America && United States of America # 0000-0003-2008-7070
 * David Langley = TNO = Netherlands
 * David Merrill = Massachusetts Institute of Technology = United States of America
 * Davy Preuveneers = KU Leuven = Belgium
@@ -75,7 +75,7 @@
 * Feng Liu = Mercer University = United States of America # 0000-0002-5289-5761
 * Fotis Liarokapis = Coventry University = United Kingdom of Great Britain and Northern Ireland
 * Franca Garzotto = HOC Lab, Dept of electronics and information, POLITECNICO DI MILANO = Italy # 0000-0003-4905-7166
-* Garrett Weinberg = Mitsubishi Electric Research Laboratories = United States of America
+* Garrett Weinberg = Mitsubishi Electric = United States of America
 * Geerten van de Kaa = Rotterdam University = Netherlands
 * Giorgio De Michelis = University of Milan-Bicocca = Italy
 * Gloria Gomez = Swinburne University of Technology = Australia
