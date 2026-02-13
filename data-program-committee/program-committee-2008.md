@@ -190,7 +190,7 @@
 * Panos Markopoulos = Eindhoven University of Technology = Netherlands # 0000-0002-2001-7251
 * Paul Coulton = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
 * Paul Hekkert = Delft University of Technology = Netherlands
-* Paul Holleis = University of Duisburg-Essen = Germany # DATA-0000-0000-0017
+* Paul Holleis = University of Duisburg-Essen = Germany # DATA-0000-0000-0220
 * Peter Fröhlich = Vienna Telecommunications Research Center = Austria
 * Peter Messner = Bwin Interactive Entertainment = Austria
 * Peter Tarasewich = Suffolk University = United States of America

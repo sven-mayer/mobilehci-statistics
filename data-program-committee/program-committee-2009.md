@@ -9,7 +9,7 @@
 * Albrecht Schmidt = University of Duisburg-Essen = Germany # 0000-0003-3890-1990
 * Andrea Vitaletti = Sapienza University of Rome = Italy # 0000-0003-1074-5068
 * Andreas Lorenz = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-2498-1806
-* Andreas Zimmermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0034
+* Andreas Zimmermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0222
 * Ansar-Ul-Haque Yasar = KU Leuven = Belgium # 0000-0002-1542-2658
 * Antonio Krüger = University of Münster = Germany # 0000-0002-8055-8367
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033

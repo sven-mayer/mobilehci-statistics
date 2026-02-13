@@ -5,7 +5,7 @@
 * Yvonne Rogers = University College London = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7612-0234
 
 ## Associate Chair
-* Alexander De Luca = Google = Switzerland # DATA-0000-0000-0002
+* Alexander De Luca = Google = Switzerland # DATA-0000-0000-0067
 * Andrés Lucero = Aalto University = Finland # 0000-0002-7176-2884
 * Anirudha Joshi = Indian Institute of Technology Bombay = India # 0000-0002-1413-7329
 * Anna Maria Feit = Aalto University = Finland # 0000-0003-4168-6099

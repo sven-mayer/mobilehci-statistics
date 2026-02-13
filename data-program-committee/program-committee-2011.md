@@ -5,7 +5,7 @@
 * Elizabeth Churchill = Yahoo = United States of America # 0009-0009-7452-8805
 
 ## Senior Associate Chair
-* Alexander De Luca = LMU Munich = Germany # DATA-0000-0000-0002
+* Alexander De Luca = LMU Munich = Germany # DATA-0000-0000-0067
 * Alexandra Weilenmann = University of Gothenburg = Sweden # 0000-0002-3989-4588
 * Alison Lee = Nokia = United States of America # DATA-0000-0000-0022
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
@@ -35,7 +35,7 @@
 * Oskar Juhlin = Mobile Life Center = Sweden # 0000-0002-5308-0150
 * Patrick Baudisch = Hasso-Plattner-Institut = Germany # 0000-0002-5005-6868
 * Patrick Olivier = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2841-7580
-* Paul Holleis = DoCoMo Communications Laboratories Europe GmbH = Germany # DATA-0000-0000-0017
+* Paul Holleis = DoCoMo Communications Laboratories Europe GmbH = Germany # DATA-0000-0000-0220
 * Per Ola Kristensson = University of Cambridge = United Kingdom of Great Britain and Northern Ireland # 0000-0002-7139-871X
 * Rafael Ballagas = Nokia = Finland # DATA-0000-0000-0020
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
@@ -47,15 +47,15 @@
 * Ylva Fernaeus = Swedish Institute of Computer Science = Sweden # 0000-0002-3972-9689
 
 ## Associate Chair
-* A.J. Bernheim Brush = Microsoft = United States of America
+* A.J. Bernheim Brush = Microsoft = United States of America # 0000-0002-8206-1469
 * Aaron Quigley = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5274-6889
 * Amit A Nanavati = IBM = India
 * Andreas Bulling = University of Cambridge && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland # 0000-0001-6317-7303
 * Andreas Lorenz = RWTH Aachen University = Germany # 0000-0002-2498-1806
 * Anind Dey = Carnegie Mellon University = United States of America # 0000-0002-3004-0770
 * Barry Brown = University of California, San Diego = United States of America # 0000-0002-9710-6607
-* Björn Hartmann = University of California, Berkeley = United States of America
-* Carl Gutwin = University of Saskatchewan = Canada
+* Björn Hartmann = University of California, Berkeley = United States of America # 0000-0002-0693-0829
+* Carl Gutwin = University of Saskatchewan = Canada # 0000-0003-4470-9495
 * Chris Harrison = Carnegie Mellon University = United States of America # 0000-0001-5312-3619
 * Christian Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
 * Christopher Lueg = University of Tasmania = Australia

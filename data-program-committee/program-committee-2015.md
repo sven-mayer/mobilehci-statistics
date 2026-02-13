@@ -7,7 +7,7 @@
 ## Associate Chair
 * Ahmed Arif = Toronto Metropolitan University = Canada # 0000-0002-8384-4764
 * Alexandra Weilenmann = University of Gothenburg = Sweden # 0000-0002-3989-4588
-* Alireza Sahami = Yahoo = United States of America # DATA-0000-0000-0005
+* Alireza Sahami = Yahoo = United States of America # DATA-0000-0000-0216
 * Andres Monroy-Hernandez = Microsoft = United States of America # 0000-0003-4889-9484
 * Andrés Lucero = University of Southern Denmark = Denmark # 0000-0002-7176-2884
 * Antonio Krüger = German Research Center for Artificial Intelligence = Germany # 0000-0002-8055-8367
@@ -24,12 +24,12 @@
 * Jeffrey Nichols = Google = United States of America # 0000-0002-6880-8546
 * Joe Tullio = Google = United States of America # DATA-0000-0000-0011
 * Jonna Häkkilä = University of Lapland = Finland # 0000-0003-2172-6233
-* Julia Schwarz = Carnegie Mellon University = United States of America # DATA-0000-0000-0012
+* Julia Schwarz = Carnegie Mellon University = United States of America # DATA-0000-0000-0218
 * Jörg Müller = Aarhus University = Denmark # 0000-0002-4971-9126
-* Karen Church = Yahoo = United States of America # DATA-0000-0000-0001
+* Karen Church = Yahoo = United States of America # DATA-0000-0000-0213
 * Lynne Baillie = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2514-5981
 * Marcos Serrano = University of Toulouse = France # 0000-0001-8431-0601
-* Matt Conway = frog design = United States of America # DATA-0000-0000-0013
+* Matt Conway = frog design = United States of America # DATA-0000-0000-0218
 * Michael Rohs = Leibniz University Hannover = Germany # 0000-0003-4599-729X
 * Michelle Annett = University of Alberta = Canada # 0000-0001-9421-1199
 * Mike McGuffin = École de technologie supérieure = Canada # 0000-0001-7782-5754
