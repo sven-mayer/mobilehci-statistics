@@ -49,7 +49,7 @@
 ## Associate Chair
 * A.J. Bernheim Brush = Microsoft = United States of America # 0000-0002-8206-1469
 * Aaron Quigley = University of St Andrews = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5274-6889
-* Amit A Nanavati = IBM = India
+* Amit A Nanavati = IBM = India # 0000-0002-4131-9865
 * Andreas Bulling = University of Cambridge && University of Lancaster = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland # 0000-0001-6317-7303
 * Andreas Lorenz = RWTH Aachen University = Germany # 0000-0002-2498-1806
 * Anind Dey = Carnegie Mellon University = United States of America # 0000-0002-3004-0770
@@ -58,42 +58,42 @@
 * Carl Gutwin = University of Saskatchewan = Canada # 0000-0003-4470-9495
 * Chris Harrison = Carnegie Mellon University = United States of America # 0000-0001-5312-3619
 * Christian Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
-* Christopher Lueg = University of Tasmania = Australia
-* Costin Pribeanu = National Institute for Research & Development in Informatics = Romania
+* Christopher Lueg = University of Tasmania = Australia # 0000-0003-1022-5724
+* Costin Pribeanu = National Institute for Research & Development in Informatics = Romania # 0000-0001-8182-5909
 * David Kirk = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2776-0643
-* David Nichols = University of Waikato = New Zealand
-* Dearman David = University of Toronto = Canada
+* David Nichols = University of Waikato = New Zealand # 0000-0003-0321-7267
+* Dearman David = University of Toronto = Canada # DATA-0000-0000-0226
 * Dominique Guinard = ETH Zurich && SAP Research = Switzerland && Switzerland # DATA-0000-0000-0026
 * Eran Toch = Tel Aviv University = Israel # 0000-0001-6939-5870
-* Feng Tian = Institute of Software, Chinese Academy of Sciences = China
+* Feng Tian = Institute of Software, Chinese Academy of Sciences = China # 0000-0002-6598-419X
 * Florian 'Floyd' Mueller = Stanford University = United States of America # 0000-0001-6472-3476
-* Gary Marsden = University of Cape Town = South Africa
+* Gary Marsden = University of Cape Town = South Africa # DATA-0000-0000-0227
 * Giulio Jacucci = Helsinki Institute for Information Technology = Finland # 0000-0002-9185-7928
 * Gunnar Stevens = University of Siegen = Germany # 0000-0002-7785-5061
-* Heli Väätäjä = Tampere University of Technology = Finland
+* Heli Väätäjä = Tampere University of Technology = Finland # 0000-0003-3324-9497
 * Ian Oakley = University of Madeira = Portugal # 0000-0001-5834-8577
 * Ingrid Mulder = Delft University of Technology && Rotterdam University = Netherlands && Netherlands # 0000-0003-1043-1341
 * Jakob Tholander = Mobile Life Center && Stockholm University = Sweden && Sweden # 0000-0002-2782-9500
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
-* Joe McCarthy = University of Washington Tacoma = United States of America
+* Joe McCarthy = University of Washington Tacoma = United States of America # DATA-0000-0000-0156
 * Jonna Häkkilä = Nokia = Finland # 0000-0003-2172-6233
 * Joseph 'Jofish' Kaye = Nokia = Finland # 0000-0001-7440-3900
 * Júlio Abascal = University of the Basque Country = Spain # 0000-0002-6551-1616
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Intel = United States of America # 0009-0000-8635-6363
-* Kevin Ansia Li = AT&T = United States of America # DATA-0000-0000-0030
+* Kevin Ansia Li = AT&T = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0030
 * Lars Erik Holmquist = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # 0000-0003-0229-2345
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
-* Luís Carriço = University of Lisbon = Portugal
+* Luís Carriço = University of Lisbon = Portugal # 0000-0002-5036-6735
 * Marc Langheinrich = Università della Svizzera italiana = Switzerland # 0000-0002-8834-7388
 * Marco de Sá = Yahoo = United States of America # DATA-0000-0000-0016
-* Mark Billinghurst = University of Canterbury = New Zealand
+* Mark Billinghurst = University of Canterbury = New Zealand # 0000-0003-4172-6759
 * Mark Perry = Brunel University London && Stockholm University = United Kingdom of Great Britain and Northern Ireland && Sweden # 0000-0003-1573-1255
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Matt Jones = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373
-* Matthew Chalmers = University of Glasgow = United Kingdom of Great Britain and Northern Ireland
+* Matthew Chalmers = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9816-668X
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
-* Nitendra Rajput = IBM = United States of America
+* Nitendra Rajput = IBM = United States of America # DATA-0000-0000-0228
 * Nuno Guimarães = University of Lisbon = Portugal # 0000-0001-9168-5188
 * Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Petra Sundström = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # DATA-0000-0000-0025
@@ -101,15 +101,15 @@
 * Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && Université de Toulouse = France && France # 0000-0002-5381-971X
 * Raimund Dachselt = University of Magdeburg = Germany # 0000-0002-2176-876X
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
-* Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
-* Rui José = University of Minho = Portugal
-* Sara Ljungblad = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden
-* Sergio F. Ochoa = University of Chile = Chile
-* Sukeshini A. Grandhi = RWTH Aachen University = Germany
+* Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
+* Rui José = University of Minho = Portugal # 0000-0003-3547-2131
+* Sara Ljungblad = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # 0000-0002-2751-9801
+* Sergio F. Ochoa = University of Chile = Chile # 0000-0002-0431-8767
+* Sukeshini A. Grandhi = RWTH Aachen University = Germany # DATA-0000-0000-0225
 * Sunny Consolvo = Intel = United States of America # 0000-0001-5337-328X
 * Susanne Boll = University of Oldenburg = Germany # 0000-0003-4293-1623
-* Timothy Sohn = Nokia = United States of America
+* Timothy Sohn = Nokia = United States of America # DATA-0000-0000-0224
 * Volkmar Pipek = University of Siegen = Germany # 0000-0002-3136-307X
-* Win Burleson = Arizona State University = United States of America
-* Ying Liu = Nokia = Finland
+* Win Burleson = Arizona State University = United States of America # 0000-0002-1373-1078
+* Ying Liu = Nokia = China # DATA-0000-0000-0223
 * Zach Toups = Texas A&M University = United States of America # 0000-0002-6192-2004

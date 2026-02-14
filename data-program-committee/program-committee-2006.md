@@ -22,22 +22,22 @@
 * Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
 * Albrecht Schmidt = LMU Munich = Germany # 0000-0003-3890-1990
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
-* Andrew Aftelak = Motorola = United States of America
+* Andrew Aftelak = Motorola = United States of America # DATA-0000-0000-0230
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Antti Salovaara = Helsinki Institute for Information Technology = Finland # 0000-0001-7260-8670
-* Anxo Cereijo Roibas = University of Brighton = United Kingdom of Great Britain and Northern Ireland
+* Anxo Cereijo Roibas = University of Brighton = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0231
 * Asa Rudström = Swedish Institute of Computer Science = Sweden
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
-* Boris de Ruyter = Philips = Netherlands
+* Boris de Ruyter = Philips = Netherlands # 0000-0002-2682-7538
 * Charles van der Mast = Delft University of Technology = Netherlands
-* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-6006-6605
-* Costin Pribeanu = National Institute for Research & Development in Informatics = Romania
-* David Williams = Majire = United Kingdom of Great Britain and Northern Ireland
+* Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3174-9308
+* Costin Pribeanu = National Institute for Research & Development in Informatics = Romania # 0000-0001-8182-5909
+* David Williams = Majire Design Ltd = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0248
 * Dominic Bowhuis = Eindhoven University of Technology = Netherlands
 * Elizabeth Dykstra-Erickson = Palm, Inc. = United States of America
 * Esko Kurvinen = Helsinki Institute for Information Technology = Finland
 * Fabio Paterno = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
-* Gary Marsden = University of Cape Town = South Africa
+* Gary Marsden = University of Cape Town = South Africa # DATA-0000-0000-0227
 * Giorgio De Michelis = University of Milan-Bicocca = Italy
 * Hannu Korhonen = Nokia = Finland
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
@@ -56,18 +56,18 @@
 * Margherita Antona = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3208-3755
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Martin Colbert = Kingston University = United Kingdom of Great Britain and Northern Ireland
-* Masood Masoodian = University of Waikato = New Zealand
+* Masood Masoodian = University of Waikato = New Zealand # 0000-0003-3861-6321
 * Mattias Esbjörnsson = Interactive Institute Stockholm = Sweden
 * Mattias Östergren = Research Institutes of Sweden = Sweden
 * Michele Visciola = Experientia = Italy
 * Mika Hiltunen = Nordea = Finland
-* Murray Crease = National Research Council Canada = Canada
+* Murray Crease = National Research Council Canada = Canada # DATA-0000-0000-0250
 * Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
-* Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland
-* Pekka Ketola = Nokia = Finland
+* Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
+* Pekka Ketola = Nokia = Finland # DATA-0000-0000-0245
 * Peter Messner = Bwin Interactive Entertainment = Austria
 * Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
-* Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany
+* Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
 * Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
 * Sami Ronkainen = Nokia = Finland

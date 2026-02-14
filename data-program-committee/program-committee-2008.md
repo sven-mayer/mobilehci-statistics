@@ -1,7 +1,7 @@
 # MobileHCI 2008
 
 ## Paper Chair
-* Boris de Ruyter = Philips = Netherlands
+* Boris de Ruyter = Philips = Netherlands # 0000-0002-2682-7538
 
 ## Program Commitee
 * Abdullah Al Mahmud = Eindhoven University of Technology = Netherlands # 0000-0002-2801-723X
@@ -18,7 +18,7 @@
 * Andreas Holzinger = Research Unit HCI4MED, Insitute of Medical Informatics, Statistics and Documenta = Austria
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
 * Andreas Lorenz = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-2498-1806
-* Andrew Aftelak = Motorola = United States of America
+* Andrew Aftelak = Motorola = United States of America # DATA-0000-0000-0230
 * Anirudha Joshi = Indian Institute of Technology Bombay = India # 0000-0002-1413-7329
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Ansar-Ul-Haque Yasar = KU Leuven = Belgium # 0000-0002-1542-2658
@@ -38,13 +38,13 @@
 * Chad Sampanes = Oracle Corporation = United States of America
 * Chris Schreiner = Motorola = United States of America
 * Christian Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
-* Christine Satchell = Queensland University of Technology && University of Melbourne = Australia && Australia
+* Christine Satchell = Queensland University of Technology && University of Melbourne = Australia && Australia # DATA-0000-0000-0076
 * Christoph Stahl = Saarland University = Germany
-* Christopher Lueg = University of Tasmania = Australia
-* Costin Pribeanu = ICI Bucuresti = Romania
+* Christopher Lueg = University of Tasmania = Australia # 0000-0003-1022-5724
+* Costin Pribeanu = National Institute for Research & Development in Informatics = Romania # 0000-0001-8182-5909
 * Daniel Ashbrook = Georgia Institute of Technology = United States of America # 0000-0002-4326-2110
 * Daniel Porta = German Research Center for Artificial Intelligence = Germany
-* Daniel Salber = Joost Technologies B.V. = Netherlands
+* Daniel Salber = Joost Technologies B.V. = Netherlands # DATA-0000-0000-0247
 * Daniel Su = University of Nottingham = Malaysia
 * Daniel Wigdor = Mitsubishi Electric && University of Toronto = United States of America && United States of America # 0000-0003-2008-7070
 * David Langley = TNO = Netherlands
@@ -87,14 +87,14 @@
 * Harry Zhang = Motorola = United States of America
 * Heather Vaughn = Bell Laboratories = United States of America
 * Helge Hüttenrauch = vonniman consulting = Sweden
-* Heli Väätäjä = Tampere University of Technology = Finland
+* Heli Väätäjä = Tampere University of Technology = Finland # 0000-0003-3324-9497
 * Hendrik Witt = University of Bremen = Germany
 * Henk de Poot = Telematica Instituut = Netherlands
 * Henri ter Hofte = Telematica Instituut = Netherlands # 0000-0001-5500-1383
 * Henry Been-lirn Duh = National University of Singapore = Singapore
 * Hsueh-hua Chen = Nanyang Technological University = Singapore
 * Huseyin Hacihabiboglu = King's College London = United Kingdom of Great Britain and Northern Ireland
-* Ingrid Erickson = Stanford University = United States of America
+* Ingrid Erickson = Stanford University = United States of America # 0000-0001-9841-8680
 * Ingrid Mulder = Rotterdam University = Netherlands # 0000-0003-1043-1341
 * Jaakko Hakulinen = Tampere University = Finland
 * James Clawson = Georgia Institute of Technology = United States of America # 0000-0001-8686-3859
@@ -103,8 +103,8 @@
 * Janne Lindqvist = Helsinki University of Technology = Finland # 0000-0002-8659-2283
 * Janny Stapel = Eindhoven University of Technology = Netherlands
 * Jean Vanderdonckt = Université catholique de Louvain = Belgium # 0000-0003-3275-3333
-* Jettie Hoonhout = Philips = Netherlands
-* Jhilmil Jain = Hewlett-Packard = United States of America
+* Jettie Hoonhout = Philips = Netherlands # 0000-0003-2442-4361
+* Jhilmil Jain = Hewlett-Packard = United States of America # DATA-0000-0000-0172
 * Joanna Lumsden = National Research Council Canada = Canada # 0000-0002-8637-7647
 * John S. Lee = Research In Motion = Canada
 * John Tang = IBM = United States of America # 0000-0003-0603-3877
@@ -135,7 +135,7 @@
 * Liliane Kuiper-hoyng = TNO = Netherlands
 * Lin Zhong = Rice University = United States of America
 * Linda Yoon = iconmobile = United States of America
-* Lorna M Brown = Microsoft = United Kingdom of Great Britain and Northern Ireland
+* Lorna M Brown = Microsoft = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0249
 * Lu Luo = Nokia = United States of America
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
 * Lukas Matena = IDIAP research institute = Switzerland
@@ -159,10 +159,10 @@
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Martin Schedlbauer = University of Massachusetts Lowell = United States of America
 * Martina Ziefle = RWTH Aachen University = Germany
-* Masood Masoodian = University of Waikato = New Zealand
+* Masood Masoodian = University of Waikato = New Zealand # 0000-0003-3861-6321
 * Mathura Thapliyal = HNB Garhwal University, Srinagar (garhwal), Uttarakhand = India
 * Matt Jones = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373
-* Matthew Kam = University of California, Berkeley = United States of America
+* Matthew Kam = University of California, Berkeley = United States of America # 0009-0001-9112-1267
 * Mattias Esbjörnsson = Interactive Institute Stockholm = Sweden
 * Maurice Mulvenna = Ulster University = United Kingdom of Great Britain and Northern Ireland
 * Max Harper = University of Minnesota = United States of America
@@ -181,7 +181,7 @@
 * Natasa Milic-frayling = Microsoft = United Kingdom of Great Britain and Northern Ireland
 * Niek van Wingerden = Independent researcher = Netherlands
 * Nigel Ward = University of Texas at El Paso = United States of America
-* Nitendra Rajput = IBM = India
+* Nitendra Rajput = IBM = India # DATA-0000-0000-0228
 * Noam Ben-Asher = Ben-Gurion University of the Negev = Israel
 * Nuria Oliver = Telefonica && Microsoft = Spain && Spain # 0000-0001-5985-691X
 * Nwanua Onochie Elumeze = University of Colorado Boulder = United States of America
@@ -239,7 +239,7 @@
 * Valerie Bauwens = Swisscom AG - The User Observatory = Switzerland
 * Verena Hafner = Institut für Informatik, Humboldt-Universität zu Berlin = Germany
 * Vijayalakshmi Saravanan = Vellore Institute of Technology = India
-* Virpi Roto = Nokia = Finland
+* Virpi Roto = Nokia = Finland # 0000-0002-6880-5636
 * Wilko Heuten = OFFIS e.V. = Germany # 0000-0003-2085-193X
 * Wolfgang Beinhauer = Fraunhofer Institute for Industrial Engineering = Germany
 * Wonkyu Park = Pohang University of Science and Technology = Korea, Republic of
@@ -247,7 +247,7 @@
 * Yalda Farazmand = MSc Student = Netherlands
 * Yan Xu = Georgia Institute of Technology = United States of America # 0009-0005-3890-9847
 * Yanqing Cui = Nokia = Finland
-* Ying Liu = Nokia = China
+* Ying Liu = Nokia = China # DATA-0000-0000-0223
 * Ylva Fernaeus = Swedish Institute of Computer Science = Sweden # 0000-0002-3972-9689
 * Young Lee = Motorola = United States of America
 * Younghee Jung = Nokia = Japan
