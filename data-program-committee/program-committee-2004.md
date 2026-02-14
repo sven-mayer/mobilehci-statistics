@@ -7,7 +7,7 @@
 * Alan Chamberlain = Loughborough University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
 * Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
 * Albrecht Schmidt = LMU Munich = Germany # 0000-0003-3890-1990
-* Andrew Sears = University of Maryland = United States of America # DATA-0000-0000-0128
+* Andrew Sears = University of Maryland, Baltimore County = United States of America # DATA-0000-0000-0128
 * Andy Cockburn = University of Canterbury = New Zealand # 0000-0003-1074-4268
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Antti Pirhonen = University of Jyväskylä = Finland # 0000-0003-1701-0734

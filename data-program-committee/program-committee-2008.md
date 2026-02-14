@@ -112,7 +112,7 @@
 * Jonathan Kies = Qualcomm = United States of America
 * Jonice Oliveira = COPPE/UFRJ = Brazil # 0000-0002-2495-1463
 * Joost Broekens = Delft University of Technology = Netherlands
-* Jose Rouillard = LIFL = France # 0000-0001-9298-0816
+* Jose Rouillard = University of Lille = France # 0000-0001-9298-0816
 * Josef Hallberg = Luleå University of Technology = Sweden
 * Ju Hwan Lee = University of Oxford = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9368-3220
 * Juan Antonio Alvarez Garcia = University of Seville = Spain
