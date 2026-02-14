@@ -251,6 +251,7 @@ Universidade Federal Rural de Pernambuco – UFRPE (Recife- Brazil),Federal Rura
 Federal University of Pará,Federal University of Para
 Universidade Federal do Pará,Federal University of Para
 Universidade Federal de Pernambuco,Federal University of Pernambuco
+COPPE/UFRJ,Federal University of Rio de Janeiro
 "Finnish Institute of Occupational Health, Helsinki",Finnish Institute of Occupational Health
 "Flensburg University of Applied Sciences, Flensburg",Flensburg University of Applied Sciences
 "Folkwang University, Essen",Folkwang University of the Arts
@@ -291,6 +292,7 @@ Free University of Bozen,Free University of Bozen-Bolzano
 The Free University of Bozen-Bolzano,Free University of Bozen-Bolzano
 University of Bozen-Bolzano,Free University of Bozen-Bolzano
 TU Bergakademie Freiberg,Freiberg University of Mining and Technology
+CEA,French Alternative Energies and Atomic Energy Commission
 ENAC,French Civil Aviation University
 ENAC Toulouse,French Civil Aviation University
 Ecole Nationale de l'Aviation Civile,French Civil Aviation University
@@ -416,6 +418,7 @@ IBM T.J. Watson Research,IBM
 IBM T.J. Watson Research Center,IBM
 IBM TJ Watson Research Center,IBM
 IBM Watson,IBM
+IST/INESC,INESC - Instituto de Engenharia de Sistemas e Computadores
 INESC-ID Lisbon,INESC-ID
 ICS-IRIT,IRIT Computer Science Research Institute of Toulouse
 IRIT,IRIT Computer Science Research Institute of Toulouse
@@ -502,7 +505,6 @@ ISCAS,"Institute of Software, Chinese Academy of Sciences"
 "Institute of Computing Technology, Chinese Academy of Sciences","Institute of Software, Chinese Academy of Sciences"
 Institute of Software Chinese Academy of Sciences,"Institute of Software, Chinese Academy of Sciences"
 "Institute of software, Chinese Academy of Sciences","Institute of Software, Chinese Academy of Sciences"
-IST/INESC,Instituto de Engenharia de Sistemas e Computadores
 Intel 10,Intel
 Intel Labs,Intel
 Intel Labs Seattle,Intel
@@ -1083,7 +1085,7 @@ LTCI - Telecom-ParisTech,Télécom Paris
 Telecom Paris,Télécom Paris
 Télecom Paris,Télécom Paris
 Télécom ParisTech,Télécom Paris
-USECON GmbH,USECON
+USECON,USECON GmbH
 Institute of Media Informatics Ulm University,Ulm University
 "Institute of Media Informatics, Ulm University",Ulm University
 "Institute of Psychology and Education, Dept. Human Factors, Ulm University",Ulm University
@@ -1117,6 +1119,7 @@ USL,University College London
 University College of London,University College London
 University of College London,University College London
 "University Hospital Salzburg (SALK), Salzburg",University Hospitals Salzburg
+Universiti Malaysia Sarawak,University Malaysia Sarawak
 "University at Buffalo, SUNY",University at Buffalo
 University of Buffalo,University at Buffalo
 "University of Aberdeen, Aberdeen",University of Aberdeen
@@ -1374,6 +1377,7 @@ University Namur,University of Namur
 University of Nebraska - Omaha,University of Nebraska Omaha
 University of Nebraska at Omaha,University of Nebraska Omaha
 "University of Neuchâtel, Neuchâtel",University of Neuchâtel
+CSE Department. UNR,"University of Nevada, Reno"
 University of Nevada Reno,"University of Nevada, Reno"
 "University of Nevada, Reno","University of Nevada, Reno"
 "University of New, Hampshire",University of New Hampshire
@@ -1403,6 +1407,7 @@ Oulu University,University of Oulu
 Oxford,University of Oxford
 Oxford University,University of Oxford
 Paderborn University,University of Paderborn
+Universitaet Paderborn,University of Paderborn
 University of Padova,University of Padua
 LRI,University of Paris-Sud
 LRI-Université Paris-Sud 11,University of Paris-Sud

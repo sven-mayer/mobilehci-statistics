@@ -10,7 +10,7 @@
 * Gavin Doherty = Trinity College Dublin = Ireland # 0000-0002-9617-7008
 * Henri ter Hofte = Novay = Netherlands # 0000-0001-5500-1383
 * Jesper Kjeldskov = Commonwealth Scientific and Industrial Research Organisation = Australia # 0000-0001-7990-4229
-* Joaquim Jorge = Instituto de Engenharia de Sistemas e Computadores = Portugal # 0000-0001-5441-4637
+* Joaquim Jorge = Instituto Superior Técnico && INESC-ID = Portugal && Portugal # 0000-0001-5441-4637
 * Júlio Abascal = University of the Basque Country = Spain # 0000-0002-6551-1616
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294

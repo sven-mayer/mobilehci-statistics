@@ -57,7 +57,7 @@
 * Patrick Baudisch = Microsoft = United States of America # 0000-0002-5005-6868
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
 * Pekka Ketola = Nokia = Finland # DATA-0000-0000-0245
-* Peter Messner = USECON = Austria # DATA-0000-0000-0270
+* Peter Messner = USECON GmbH = Austria # DATA-0000-0000-0270
 * Petra Sundström = Swedish Institute of Computer Science = Sweden # DATA-0000-0000-0025
 * Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
@@ -71,5 +71,5 @@
 * Thomas Rist = Augsburg Technical University of Applied Sciences = Germany # DATA-0000-0000-0254
 * Timo Jokela = University of Oulu = Finland # DATA-0000-0000-0272
 * Trevor Darrell = Massachusetts Institute of Technology = United States of America # 0000-0001-5453-8533
-* Verena Seibert-Giller = USECON = Austria # DATA-0000-0000-0273
+* Verena Seibert-Giller = USECON GmbH = Austria # DATA-0000-0000-0273
 * Vuokko Lantz = Nokia = Finland # DATA-0000-0000-0255

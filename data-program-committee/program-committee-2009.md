@@ -31,7 +31,7 @@
 * Kevin Ansia Li = University of California, San Diego = United States of America # DATA-0000-0000-0030
 * Kristof Van Laerhoven = Technical University of Darmstadt = Germany # 0000-0001-5296-5347
 * Lucia Terrenghi = Vodafone = Germany # DATA-0000-0000-0034
-* Margarita Anastassova = CEA, LIST = France # 0000-0001-5552-5283
+* Margarita Anastassova = French Alternative Energies and Atomic Energy Commission = France # 0000-0001-5552-5283
 * Markus Rohde = University of Siegen = Germany # 0000-0003-3290-5261
 * Michael Rohs = Telekom Innovation Laboratories && Technical University Berlin = Germany && Germany # 0000-0003-4599-729X
 * Oskar Juhlin = Research Institutes of Sweden = Sweden # 0000-0002-5308-0150

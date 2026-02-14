@@ -110,7 +110,7 @@
 * John Tang = IBM = United States of America # 0000-0003-0603-3877
 * Joke Kort = Netherlands Organisation for Applied Scientific Research = Netherlands
 * Jonathan Kies = Qualcomm = United States of America
-* Jonice Oliveira = COPPE/UFRJ = Brazil # 0000-0002-2495-1463
+* Jonice Oliveira = Federal University of Rio de Janeiro = Brazil # 0000-0002-2495-1463
 * Joost Broekens = Delft University of Technology = Netherlands
 * Jose Rouillard = University of Lille = France # 0000-0001-9298-0816
 * Josef Hallberg = Luleå University of Technology = Sweden
@@ -175,7 +175,7 @@
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
 * Mikko Rajanen = University of Oulu = Finland # 0000-0002-3281-7029
 * Mohamed Sheik-nainar = Synaptics = United States of America
-* Muhanna Muhanna = CSE Department. UNR = United States of America
+* Muhanna Muhanna = University of Nevada, Reno = United States of America
 * Myoung Hoon Jeon = LG Electronics = Korea, Republic of
 * Nanja Smets = Netherlands Organisation for Applied Scientific Research = Netherlands
 * Natasa Milic-frayling = Microsoft = United Kingdom of Great Britain and Northern Ireland
@@ -202,7 +202,7 @@
 * Raphael Wimmer = LMU Munich = Germany # 0000-0001-5162-5113
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
 * Richard Arthur = Brigham Young University = United States of America
-* Robbie Schaefer = Universitaet Paderborn = Germany
+* Robbie Schaefer = University of Paderborn = Germany
 * Rock Leung = University of British Columbia = Canada
 * Rod Farmer = University of Melbourne = Australia
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
@@ -223,7 +223,7 @@
 * Steven Strachan = Hamilton Institute = Ireland
 * Stuart Rose = Pacific Northwest National Laboratory = United States of America
 * Suleman Shahid = Tilburg University = Netherlands # 0000-0001-9951-3188
-* Syahrul Junaini = Universiti Malaysia Sarawak = Malaysia
+* Syahrul Junaini = University Malaysia Sarawak = Malaysia
 * Takahiro Hara = Osaka University = Japan
 * Tanja Krakowski = University of Applied Sciences Potsdam = Germany
 * Teija Vainio = Tampere University of Technology = Finland # 0000-0003-0868-6281
