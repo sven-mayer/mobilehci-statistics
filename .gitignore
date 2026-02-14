@@ -1,6 +1,10 @@
-data-not-public/
+tmp/
+export/
 data-proceedings/authors.csv
+data-proceedings-raw/
 data-program-committee-raw/
+data-program-committee/committee-raw.csv
+data-program-committee/committee.csv
 
 # General
 .DS_Store
