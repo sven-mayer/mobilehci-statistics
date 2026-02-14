@@ -191,11 +191,11 @@
 * Paul Coulton = University of Lancaster = United Kingdom of Great Britain and Northern Ireland
 * Paul Hekkert = Delft University of Technology = Netherlands
 * Paul Holleis = University of Duisburg-Essen = Germany # DATA-0000-0000-0220
-* Peter Fröhlich = Vienna Telecommunications Research Center = Austria
+* Peter Fröhlich = Vienna Telecommunications Research Center = Austria # 0000-0002-2502-5947
 * Peter Messner = Bwin Interactive Entertainment = Austria # DATA-0000-0000-0270
-* Peter Tarasewich = Suffolk University = United States of America
+* Peter Tarasewich = Suffolk University = United States of America # DATA-0000-0000-0293
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
-* Philipp Fischer = Mercedes-Benz Group = Germany
+* Philipp Fischer = Mercedes-Benz Group = Germany # DATA-0000-0000-0294
 * Prabu Dorairaj = Wipro Technologies, Bangalore = India
 * Radu-Daniel Vatavu = Ștefan cel Mare University of Suceava = Romania # 0000-0002-7631-6445
 * Rahat Iqbal = Coventry University = United Kingdom of Great Britain and Northern Ireland
