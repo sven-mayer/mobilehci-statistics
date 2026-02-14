@@ -12,7 +12,7 @@
 * Alexander Meschtscherjakov = University of Salzburg = Austria # 0000-0001-8116-4522
 * Amanda Spink = Queensland University of Technology = Australia
 * Amnon Dekel = Hebrew University of Jerusalem = Israel
-* Amyris Fernandez = Fundação Getúlio Vargas l = Brazil
+* Amyris Fernandez = Fundação Getulio Vargas = Brazil
 * Ana Paula Afonso = University of Lisbon = Portugal
 * Andrea Vitaletti = Sapienza University of Rome = Italy # 0000-0003-1074-5068
 * Andreas Holzinger = Medical University of Graz = Austria
@@ -138,7 +138,7 @@
 * Lorna M Brown = Microsoft = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0249
 * Lu Luo = Nokia = United States of America
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
-* Lukas Matena = IDIAP research institute = Switzerland
+* Lukas Matena = Idiap Research Institute = Switzerland
 * Lynne Baillie = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2514-5981
 * Maddy Janse = Philips = Netherlands
 * Maiju Vuolle = Tampere University of Technology = Finland
@@ -153,7 +153,7 @@
 * Marianna Obrist = University of Salzburg = Austria # 0000-0002-4009-1627
 * Marije Teerling = Telematica Instituut = Netherlands
 * Marinus Maris = Netherlands Organisation for Applied Scientific Research = Netherlands
-* Mario Chiesa = ismb = Italy
+* Mario Chiesa = Istituto Superiore Mario Boella = Italy
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Mark Kramer = University of Salzburg = Austria
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
@@ -211,11 +211,11 @@
 * Sanjay Tripathi = Tech Mahindra = India
 * Sanzhar Kettebekov = Keane = United States of America
 * Sardar Irfanullah = Vellore Institute of Technology = India
-* Sascha Mahlke = D-LABS = Germany
+* Sascha Mahlke = D-LABS GmbH = Germany
 * Satu Jumisko-Pyykkö = Tampere University of Technology = Finland
 * Sebastian Knödel = Inria = France
 * Seungchul Shin = Samsung = Korea, Republic of
-* Sonia Modeo = CSP scarl = Italy
+* Sonia Modeo = CSI-Piemonte = Italy
 * Stavros Kammas = University of the Aegean = Greece
 * Stefan Carmien = Fraunhofer Institute for Applied Information Technology = Germany
 * Stephen Brewster = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9720-3899
