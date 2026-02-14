@@ -13,7 +13,7 @@
 * Meurig Sage = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0240
 * Mikael Goldstein = Ericsson = Sweden # DATA-0000-0000-0238
 * Peter Brown = University of Kent = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0241
-* Peter Johnson = Queen Mary University of London && Westfield College = United Kingdom of Great Britain and Northern Ireland && United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0242
+* Peter Johnson = Queen Mary University of London = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0242
 * Peter Thomas = University of the West of England = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0233
 * Philip Gray = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0243
 * Satu Ruuska = Nokia = Finland # DATA-0000-0000-0244

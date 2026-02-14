@@ -15,7 +15,7 @@
 * Boris de Ruyter = Philips = Netherlands # 0000-0002-2682-7538
 * Bruno von Niman = vonniman consulting = Sweden # DATA-0000-0000-0032
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3174-9308
-* Chris Schmandt = MIT MediaLab = United States of America # DATA-0000-0000-0158
+* Chris Schmandt = Massachusetts Institute of Technology = United States of America # DATA-0000-0000-0158
 * Daniel Salber = IBM = United States of America # DATA-0000-0000-0247
 * David McGookin = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-0075-983X
 * David R Morse = The Open University = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0236
@@ -30,7 +30,7 @@
 * Laurence Nigay = CLIPS IMAG = France # 0000-0002-4854-626X
 * Lorna M Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0249
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
-* Manfred Tscheligi = CURE = Austria # 0000-0001-6056-7285
+* Manfred Tscheligi = Center for Usability Research and Engineering = Austria # 0000-0001-6056-7285
 * Masood Masoodian = University of Waikato = New Zealand # 0000-0003-3861-6321
 * Matt Jones = University of Waikato = New Zealand # 0000-0001-7657-7373
 * Matthew Chalmers = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9816-668X

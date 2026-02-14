@@ -63,7 +63,7 @@
 * David Kirk = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0003-2776-0643
 * David Nichols = University of Waikato = New Zealand # 0000-0003-0321-7267
 * Dearman David = University of Toronto = Canada # DATA-0000-0000-0226
-* Dominique Guinard = ETH Zurich && SAP Research = Switzerland && Switzerland # DATA-0000-0000-0026
+* Dominique Guinard = ETH Zurich && SAP = Switzerland && Switzerland # DATA-0000-0000-0026
 * Eran Toch = Tel Aviv University = Israel # 0000-0001-6939-5870
 * Feng Tian = Institute of Software, Chinese Academy of Sciences = China # 0000-0002-6598-419X
 * Florian 'Floyd' Mueller = Stanford University = United States of America # 0000-0001-6472-3476
@@ -98,7 +98,7 @@
 * Nuria Oliver = Telefonica = Spain # 0000-0001-5985-691X
 * Petra Sundström = Mobile Life Center && Swedish Institute of Computer Science = Sweden && Sweden # DATA-0000-0000-0025
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
-* Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && Université de Toulouse = France && France # 0000-0002-5381-971X
+* Philippe Palanque = IRIT Computer Science Research Institute of Toulouse && University of Toulouse = France && France # 0000-0002-5381-971X
 * Raimund Dachselt = University of Magdeburg = Germany # 0000-0002-2176-876X
 * Regina Bernhaupt = IRIT Computer Science Research Institute of Toulouse = France # 0000-0003-3522-5990
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229

@@ -9,7 +9,7 @@
 * Albrecht Schmidt = Karlsruhe Institute of Technology = Germany # 0000-0003-3890-1990
 * Angel Puerta = RedWhale Software = United States of America # DATA-0000-0000-0246
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
-* Constantine Stephanidis = Foundation for Research & Technology = Greece # 0000-0003-3687-4220
+* Constantine Stephanidis = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3687-4220
 * Dan Olsen = Brigham Young University = United States of America # 0000-0002-6988-9595
 * Daniel Salber = IBM = United States of America # DATA-0000-0000-0247
 * Jean Vanderdonckt = University of Louvain = Belgium # 0000-0003-3275-3333

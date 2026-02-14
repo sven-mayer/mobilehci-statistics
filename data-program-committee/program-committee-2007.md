@@ -6,8 +6,8 @@
 
 ## Associate Chair
 * Alan Chamberlain = University of Nottingham = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2122-8077
-* Alan Dix = Lancaster University United Kingdom = nan # 0000-0002-5242-7693
-* Albrecht Schmidt = Fraunhofer IAIS = Germany # 0000-0003-3890-1990
+* Alan Dix = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5242-7693
+* Albrecht Schmidt = Fraunhofer Institute for Intelligent Analysis and Information Systems = Germany # 0000-0003-3890-1990
 * Andreas Komninos = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8331-1645
 * Andrew Aftelak = Motorola = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0230
 * Andrew Sears = University of Maryland, Baltimore County = United States of America # DATA-0000-0000-0128
@@ -18,9 +18,9 @@
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter = Philips = Netherlands # 0000-0002-2682-7538
-* Bruno von Niman = vonniman consulting && ETSI Human Factors = Sweden && Sweden # DATA-0000-0000-0032
+* Bruno von Niman = vonniman consulting && European Telecommunications Standards Institute = Sweden && Sweden # DATA-0000-0000-0032
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
-* Carsten Magerkurth = SAP Research = Switzerland # DATA-0000-0000-0287
+* Carsten Magerkurth = SAP = Switzerland # DATA-0000-0000-0287
 * Charles van der Mast = Delft University of Technology = Netherlands # DATA-0000-0000-0259
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3174-9308
 * Christopher Lueg = University of Tasmania = Australia # 0000-0003-1022-5724
@@ -41,7 +41,7 @@
 * George Buchanan = City, University of London = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9044-6644
 * Gilbert Cockton = University of Sunderland = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3689-1768
 * Giulio Jacucci = Helsinki Institute for Information Technology = Finland # 0000-0002-9185-7928
-* Hannu K. Koskela = GE Healthcare = Finland # DATA-0000-0000-0289
+* Hannu K. Koskela = GE HealthCare Technologies Inc = Finland # DATA-0000-0000-0289
 * Hannu Korhonen = Nokia = Finland # 0000-0001-7911-3507
 * Jaakko Lehikoinen = Nokia = Finland # DATA-0000-0000-0276
 * Jesper Kjeldskov = Aalborg University = Denmark # 0000-0001-7990-4229
@@ -53,8 +53,7 @@
 * Kaisa Väänänen-Vainio-Mattila = Tampere University of Technology = Finland # 0000-0002-3565-6021
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Georgia Institute of Technology = United States of America # 0009-0000-8635-6363
-* Kris Mihalic = Fachhochschule Salzburg = Austria # DATA-0000-0000-0256
-* Kristijan Mihalic = Independent researcher = United States of America # DATA-0000-0000-0256
+* Kristijan Mihalic = Salzburg University of Applied Sciences = Austria # DATA-0000-0000-0256
 * Lorna M. Brown = Microsoft = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0249
 * Louise Barkhuus = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-1306-249X
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
@@ -67,10 +66,10 @@
 * Masood Masoodian = University of Waikato = New Zealand # 0000-0003-3861-6321
 * Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X
 * Matthias Schneider-Hufschmidt = Siemens = Germany # DATA-0000-0000-0234
-* Mattias Esbjornsson = Interactive Institute Stockholm = Sweden # DATA-0000-0000-0279
+* Mattias Esbjornsson = Research Institutes of Sweden = Sweden # DATA-0000-0000-0279
 * Monique Noirhomme = University of Namur = Belgium # DATA-0000-0000-0268
 * Murray Crease = National Research Council Canada = Canada # DATA-0000-0000-0250
-* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
+* Oskar Juhlin = Research Institutes of Sweden = Sweden # 0000-0002-5308-0150
 * Panu Korhonen = Nokia = Finland # DATA-0000-0000-0251
 * Parisa Eslambolchilar = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4610-1643
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
@@ -80,7 +79,7 @@
 * Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Raquel O. Prates = Federal University of Minas Gerais = Brazil # 0000-0002-7128-4974
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
-* Reinhard Sefelin = CURE = Austria # 0000-0003-2553-6277
+* Reinhard Sefelin = Center for Usability Research and Engineering = Austria # 0000-0003-2553-6277
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962

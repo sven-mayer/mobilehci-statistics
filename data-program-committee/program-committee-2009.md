@@ -13,7 +13,7 @@
 * Ansar-Ul-Haque Yasar = KU Leuven = Belgium # 0000-0002-1542-2658
 * Antonio Krüger = University of Münster = Germany # 0000-0002-8055-8367
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
-* Bruno von Niman = vonniman consulting && ETSI Human Factors = France && France # DATA-0000-0000-0032
+* Bruno von Niman = vonniman consulting && European Telecommunications Standards Institute = France && France # DATA-0000-0000-0032
 * Chris Kray = Newcastle University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4199-8976
 * Daniel Ashbrook = Georgia Institute of Technology = United States of America # 0000-0002-4326-2110
 * Dominique Guinard = Auto-ID Labs && ETH Zurich = Switzerland && Switzerland # DATA-0000-0000-0026
@@ -34,7 +34,7 @@
 * Margarita Anastassova = CEA, LIST = France # 0000-0001-5552-5283
 * Markus Rohde = University of Siegen = Germany # 0000-0003-3290-5261
 * Michael Rohs = Telekom Innovation Laboratories && Technical University Berlin = Germany && Germany # 0000-0003-4599-729X
-* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
+* Oskar Juhlin = Research Institutes of Sweden = Sweden # 0000-0002-5308-0150
 * Otthein Herzog = University of Bremen = Germany # 0000-0003-4781-2551
 * Patrick Baudisch = Hasso-Plattner-Institut && Microsoft = Germany && Germany # 0000-0002-5005-6868
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434

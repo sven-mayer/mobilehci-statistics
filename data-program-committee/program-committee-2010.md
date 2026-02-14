@@ -4,7 +4,7 @@
 * Nuno Correia = Research Center in Informatics and Information Technology && NOVA University Lisbon = Romania && Portugal # 0000-0002-8704-6698
 
 ## Associate Chair
-* Albrecht Schmidt = University of Duisburg-Essen && Fraunhofer IAIS = Germany && Germany # 0000-0003-3890-1990
+* Albrecht Schmidt = University of Duisburg-Essen && Fraunhofer Institute for Intelligent Analysis and Information Systems = Germany && Germany # 0000-0003-3890-1990
 * Anne Kaikkonen = Nokia = Finland # DATA-0000-0000-0021
 * Barry Brown = University of California, San Diego = United States of America # 0000-0002-9710-6607
 * Gavin Doherty = Trinity College Dublin = Ireland # 0000-0002-9617-7008

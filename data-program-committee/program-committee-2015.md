@@ -29,7 +29,7 @@
 * Karen Church = Yahoo = United States of America # DATA-0000-0000-0213
 * Lynne Baillie = Glasgow Caledonian University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-2514-5981
 * Marcos Serrano = University of Toulouse = France # 0000-0001-8431-0601
-* Matt Conway = frog design = United States of America # DATA-0000-0000-0218
+* Matt Conway = frog design = United States of America # DATA-0000-0000-0292
 * Michael Rohs = Leibniz University Hannover = Germany # 0000-0003-4599-729X
 * Michelle Annett = University of Alberta = Canada # 0000-0001-9421-1199
 * Mike McGuffin = École de technologie supérieure = Canada # 0000-0001-7782-5754

@@ -30,7 +30,7 @@
 * Mike Y. Chen = National Taiwan University = Taiwan, Province of China # 0000-0001-5410-652X
 * Niels Henze = University of Regensburg = Germany # 0000-0002-5702-6290
 * Paweł W. Woźniak = Vienna University of Technology = Austria # 0000-0003-3670-1813
-* Philipp Wintersberger = IT:U Linz = Austria # 0000-0001-9287-3770
+* Philipp Wintersberger = ITU - Interdisciplinary Transformation University Austria = Austria # 0000-0001-9287-3770
 * Radu-Daniel Vatavu = Ștefan cel Mare University of Suceava = Romania # 0000-0002-7631-6445
 * Sandip Chakraborty = Indian Institute of Technology Kharagpur = India # 0000-0003-3531-968X
 * Simon Perrault = Singapore University of Technology and Design = Singapore # 0000-0002-3105-9350

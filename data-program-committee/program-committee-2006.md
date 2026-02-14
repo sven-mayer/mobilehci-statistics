@@ -57,12 +57,12 @@
 * Markus Eisenhauer = Fraunhofer Institute for Applied Information Technology = Germany # 0000-0002-5633-9703
 * Martin Colbert = Kingston University = United Kingdom of Great Britain and Northern Ireland # 0000-0002-5507-0773
 * Masood Masoodian = University of Waikato = New Zealand # 0000-0003-3861-6321
-* Mattias Esbjörnsson = Interactive Institute Stockholm = Sweden # DATA-0000-0000-0279
+* Mattias Esbjörnsson = Research Institutes of Sweden = Sweden # DATA-0000-0000-0279
 * Mattias Östergren = Research Institutes of Sweden = Sweden # DATA-0000-0000-0280
 * Michele Visciola = Experientia = Italy # DATA-0000-0000-0267
-* Mika Hiltunen = Nordea Bank Finland Plc = Finland # DATA-0000-0000-0281
+* Mika Hiltunen = Nordea = Finland # DATA-0000-0000-0281
 * Murray Crease = National Research Council Canada = Canada # DATA-0000-0000-0250
-* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
+* Oskar Juhlin = Research Institutes of Sweden = Sweden # 0000-0002-5308-0150
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
 * Pekka Ketola = Nokia = Finland # DATA-0000-0000-0245
 * Peter Messner = Bwin Interactive Entertainment = Austria # DATA-0000-0000-0270

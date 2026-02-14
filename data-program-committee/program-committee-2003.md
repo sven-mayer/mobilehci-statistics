@@ -12,7 +12,7 @@
 * Brad Myers = Carnegie Mellon University = United States of America # 0000-0002-4769-0219
 * Bruno von Niman = Ericsson = Sweden # DATA-0000-0000-0032
 * Chris Schmandt = Massachusetts Institute of Technology = United States of America # DATA-0000-0000-0158
-* Constantine Stephanidis = Foundation for Research & Technology = Greece # 0000-0003-3687-4220
+* Constantine Stephanidis = Foundation for Research and Technology - Hellas = Greece # 0000-0003-3687-4220
 * Daniel Salber = IBM = United States of America # DATA-0000-0000-0247
 * David Williams = Motorola = United States of America # DATA-0000-0000-0248
 * Fabio Paterno = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
@@ -21,7 +21,7 @@
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Ken Hinckley = Microsoft = United States of America # 0000-0002-4733-4927
 * Laurence Nigay = Grenoble Alpes University = France # 0000-0002-4854-626X
-* Manfred Tscheligi = CURE = Austria # 0000-0001-6056-7285
+* Manfred Tscheligi = Center for Usability Research and Engineering = Austria # 0000-0001-6056-7285
 * Mark Dunlop = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland # 0000-0002-4593-1103
 * Matt Jones = University of Waikato = New Zealand # 0000-0001-7657-7373
 * Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X

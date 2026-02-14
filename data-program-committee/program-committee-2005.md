@@ -17,7 +17,7 @@
 * Barbara Schmidt-Belz = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0033
 * Barry Brown = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0002-9710-6607
 * Boris de Ruyter = Philips = Netherlands # 0000-0002-2682-7538
-* Bruno von Niman = vonniman consulting && ETSI = Sweden && Sweden # DATA-0000-0000-0032
+* Bruno von Niman = vonniman consulting && European Telecommunications Standards Institute = Sweden && Sweden # DATA-0000-0000-0032
 * Charles van der Mast = Delft University of Technology = Netherlands # DATA-0000-0000-0259
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3174-9308
 * Costin Pribeanu = National Institute for Research & Development in Informatics = Romania # 0000-0001-8182-5909
@@ -52,7 +52,7 @@
 * Michele Visciola = FINSA Service Design = Italy # DATA-0000-0000-0267
 * Monique Noirhomme = University of Namur = Belgium # DATA-0000-0000-0268
 * Murray Crease = National Research Council Canada = Canada # DATA-0000-0000-0250
-* Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
+* Oskar Juhlin = Research Institutes of Sweden = Sweden # 0000-0002-5308-0150
 * Owen Daly-Jones = Serco Usability Services = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0269
 * Patrick Baudisch = Microsoft = United States of America # 0000-0002-5005-6868
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
@@ -61,7 +61,7 @@
 * Petra Sundström = Swedish Institute of Computer Science = Sweden # DATA-0000-0000-0025
 * Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
-* Reinhard Sefelin = CURE = Austria # 0000-0003-2553-6277
+* Reinhard Sefelin = Center for Usability Research and Engineering = Austria # 0000-0003-2553-6277
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Robert Biddle = Carleton University = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
