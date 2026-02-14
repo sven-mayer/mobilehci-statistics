@@ -74,14 +74,14 @@
 * Fabio Paterno = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0001-8355-6909
 * Feng Liu = Mercer University = United States of America # 0000-0002-5289-5761
 * Fotis Liarokapis = Coventry University = United Kingdom of Great Britain and Northern Ireland
-* Franca Garzotto = HOC Lab, Dept of electronics and information, POLITECNICO DI MILANO = Italy # 0000-0003-4905-7166
+* Franca Garzotto = Polytechnic University of Milan = Italy # 0000-0003-4905-7166
 * Garrett Weinberg = Mitsubishi Electric = United States of America
 * Geerten van de Kaa = Rotterdam University = Netherlands
-* Giorgio De Michelis = University of Milan-Bicocca = Italy
+* Giorgio De Michelis = University of Milan-Bicocca = Italy # DATA-0000-0000-0263
 * Gloria Gomez = Swinburne University of Technology = Australia
 * Gregor Broll = LMU Munich = Germany
 * Gustavo Adolfo Ramírez González = Carlos III University of Madrid = Spain
-* Hannu Korhonen = Nokia = Finland
+* Hannu Korhonen = Nokia = Finland # 0000-0001-7911-3507
 * Hannu Koskela = GE Healthcare Finland Oy = Finland
 * Hans-Peter Hutter = ZHAW Zurich University of Applied Sciences = Switzerland
 * Harry Zhang = Motorola = United States of America
@@ -129,7 +129,7 @@
 * Khaled Khankan = University of Technology Sydney = Australia
 * Koji Yatani = University of Toronto = Canada # 0000-0003-4192-0420
 * Konstantinos Kazakos = University of Houston = United States of America
-* Kris Mihalic = Yahoo = United States of America
+* Kris Mihalic = Yahoo = United States of America # DATA-0000-0000-0256
 * Krishna Bakthavathsalu = Dalhousie University = Canada
 * Laura Forlano = Columbia University = United States of America
 * Liliane Kuiper-hoyng = TNO = Netherlands
@@ -163,13 +163,13 @@
 * Mathura Thapliyal = HNB Garhwal University, Srinagar (garhwal), Uttarakhand = India
 * Matt Jones = Swansea University = United Kingdom of Great Britain and Northern Ireland # 0000-0001-7657-7373
 * Matthew Kam = University of California, Berkeley = United States of America # 0009-0001-9112-1267
-* Mattias Esbjörnsson = Interactive Institute Stockholm = Sweden
+* Mattias Esbjörnsson = Interactive Institute Stockholm = Sweden # DATA-0000-0000-0279
 * Maurice Mulvenna = Ulster University = United Kingdom of Great Britain and Northern Ireland
 * Max Harper = University of Minnesota = United States of America
 * Menaka Sivakumar = Vellore Institute of Technology = India
 * Michael O'Grady = University College Dublin = Ireland
 * Michael Rohs = Telekom Innovation Laboratories && Technical University Berlin = Germany && Germany # 0000-0003-4599-729X
-* Michele Visciola = Experientia = Italy
+* Michele Visciola = Experientia = Italy # DATA-0000-0000-0267
 * Michelle Montgomery Masters = University of Strathclyde = United Kingdom of Great Britain and Northern Ireland
 * Miguel Ángel Conde González = Universidad de Salamanca = Spain
 * Mike Fraser = University of Bristol = United Kingdom of Great Britain and Northern Ireland # 0000-0001-9374-3759
@@ -192,7 +192,7 @@
 * Paul Hekkert = Delft University of Technology = Netherlands
 * Paul Holleis = University of Duisburg-Essen = Germany # DATA-0000-0000-0220
 * Peter Fröhlich = Vienna Telecommunications Research Center = Austria
-* Peter Messner = Bwin Interactive Entertainment = Austria
+* Peter Messner = Bwin Interactive Entertainment = Austria # DATA-0000-0000-0270
 * Peter Tarasewich = Suffolk University = United States of America
 * Petteri Nurmi = Helsinki Institute for Information Technology = Finland # 0000-0001-8262-6434
 * Philipp Fischer = Daimler AG = Germany
@@ -237,13 +237,13 @@
 * Trevor Pering = Intel = United States of America # DATA-0000-0000-0027
 * Umar Rashid = University College Dublin = Ireland
 * Valerie Bauwens = Swisscom AG - The User Observatory = Switzerland
-* Verena Hafner = Institut für Informatik, Humboldt-Universität zu Berlin = Germany
+* Verena Hafner = Humboldt University of Berlin = Germany
 * Vijayalakshmi Saravanan = Vellore Institute of Technology = India
 * Virpi Roto = Nokia = Finland # 0000-0002-6880-5636
 * Wilko Heuten = OFFIS e.V. = Germany # 0000-0003-2085-193X
 * Wolfgang Beinhauer = Fraunhofer Institute for Industrial Engineering = Germany
 * Wonkyu Park = Pohang University of Science and Technology = Korea, Republic of
-* Xianghua (Sharon) Ding = UC, Irvine = United States of America # 0000-0001-8122-6252
+* Xianghua (Sharon) Ding = University of California, Irvine = United States of America # 0000-0001-8122-6252
 * Yalda Farazmand = MSc Student = Netherlands
 * Yan Xu = Georgia Institute of Technology = United States of America # 0009-0005-3890-9847
 * Yanqing Cui = Nokia = Finland
@@ -256,5 +256,5 @@
 * Yun-maw Cheng = Tatung University = Taiwan, Province of China
 * Yutaro Ohashi = Keio University = Japan
 * Yuzhong Lin = Eindhoven University of Technology = Netherlands
-* Zachary Toups = Interface Ecology Lab, Computer Science Department, Texas AM University = United States of America
+* Zachary Toups = Texas A&M University = United States of America
 * Zheng Yan = Nokia = Finland

@@ -21,19 +21,19 @@
 * Bruno van Niman =  = Sweden
 * Carmen Santoro = Istituto di Scienza e Tecnologie dell'Informazione = Italy # 0000-0002-0556-7538
 * Carsten Magerkurth =  = Switzerland
-* Charles van der Mast =  = Netherlands
+* Charles van der Mast = Delft University of Technology = Netherlands # DATA-0000-0000-0259
 * Chris Johnson = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3174-9308
 * Christopher Lueg =  = Australia # 0000-0003-1022-5724
 * Costin Pribeanu = National Institute for Research & Development in Informatics = Romania # 0000-0001-8182-5909
-* Daniel Felix =  = Switzerland
+* Daniel Felix =  = Switzerland # DATA-0000-0000-0260
 * Daniel Salber =  = Finland # DATA-0000-0000-0247
 * Daniele Nadalutti =  = Italy
-* David Benyon =  = United Kingdom of Great Britain and Northern Ireland
+* David Benyon =  = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0007-5013
 * David McGookin =  = United Kingdom of Great Britain and Northern Ireland # 0000-0002-0075-983X
 * David R Morse = The Open University = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0236
 * David Williams =  = United States of America # DATA-0000-0000-0248
-* Don G. Bouwhuis =  = Netherlands
-* Eija Kaasinen =  = Finland
+* Don G. Bouwhuis =  = Netherlands # DATA-0000-0000-0261
+* Eija Kaasinen =  = Finland # 0000-0002-3778-4617
 * Fabio Buttussi =  = Italy
 * Fabio Patern6 =  = Italy
 * Florian Floyd Mueller = University of Melbourne = Australia # 0000-0001-6472-3476
@@ -42,19 +42,19 @@
 * Gilbert Cockton =  = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3689-1768
 * Giulio Jacucci =  = Finland # 0000-0002-9185-7928
 * Hannu K. Koskela =  = Finland
-* Hannu Korhonen =  = Finland
-* Jaakko Lehikoinen =  = Finland
+* Hannu Korhonen = Nokia = Finland # 0000-0001-7911-3507
+* Jaakko Lehikoinen = Nokia = Finland # DATA-0000-0000-0276
 * Jesper Kjeldskov = Aalborg University = Denmark # 0000-0001-7990-4229
 * Joanna Lumsden = University of New Brunswick = Canada # 0000-0002-8637-7647
 * Joelle Coutaz =  = France # 0000-0001-6749-5528
-* Johan Hjelm =  = Sweden
+* Johan Hjelm =  = Sweden # DATA-0000-0000-0265
 * John Williamson = University of Glasgow = Germany # 0000-0001-8085-7853
 * Jose Rouillard =  = France # 0000-0001-9298-0816
 * Kaisa Väänänen-Vainio-Mattila = Tampere University of Technology = Finland # 0000-0002-3565-6021
 * Keith Cheverst = University of Lancaster = United Kingdom of Great Britain and Northern Ireland # 0000-0003-3972-6776
 * Kent Lyons = Georgia Institute of Technology = United States of America # 0009-0000-8635-6363
-* Kris Mihalic = Fachhochschule Salzburg = Austria
-* Kristijan Mihalic = Independent researcher = United States of America
+* Kris Mihalic = Fachhochschule Salzburg = Austria # DATA-0000-0000-0256
+* Kristijan Mihalic = Independent researcher = United States of America # DATA-0000-0000-0256
 * Lorna M. Brown = Microsoft = United Kingdom of Great Britain and Northern Ireland
 * Louise Barkhuus = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-1306-249X
 * Luca Chittaro = University of Udine = Italy # 0000-0001-5975-4294
@@ -68,7 +68,7 @@
 * Matthias Rauterberg = Eindhoven University of Technology = Netherlands # 0000-0002-2596-395X
 * Matthias Schneider-Hufschmidt = Siemens = Germany # DATA-0000-0000-0234
 * Mattias Esbjornsson =  = Sweden
-* Monique Noirhomme =  = Belgium
+* Monique Noirhomme = University of Namur = Belgium # DATA-0000-0000-0268
 * Murray Crease = National Research Council Canada = Canada # DATA-0000-0000-0250
 * Oskar Juhlin = Interactive Institute Stockholm = Sweden # 0000-0002-5308-0150
 * Panu Korhonen =  = Finland # DATA-0000-0000-0251
@@ -76,11 +76,11 @@
 * Paul Vickers = Northumbria University = United Kingdom of Great Britain and Northern Ireland # 0000-0003-0963-5005
 * Pekka Ketola =  = Finland # DATA-0000-0000-0245
 * Peter Lonsdale = University of Birmingham = United Kingdom of Great Britain and Northern Ireland # DATA-0000-0000-0252
-* Peter Messner =  = Austria
+* Peter Messner = Bwin Interactive Entertainment = Austria # DATA-0000-0000-0270
 * Philippe Palanque = University of Toulouse = France # 0000-0002-5381-971X
 * Raquel 0. Prates =  = Brazil
 * Reinhard Oppermann = Fraunhofer Institute for Applied Information Technology = Germany # DATA-0000-0000-0229
-* Reinhard Sefelin =  = Austria
+* Reinhard Sefelin =  = Austria # 0000-0003-2553-6277
 * Richard Harper = Microsoft = United Kingdom of Great Britain and Northern Ireland # 0000-0001-8838-2012
 * Robert Biddle =  = Canada # 0000-0001-5971-2705
 * Roderick Murray-Smith = University of Glasgow = United Kingdom of Great Britain and Northern Ireland # 0000-0003-4228-7962
